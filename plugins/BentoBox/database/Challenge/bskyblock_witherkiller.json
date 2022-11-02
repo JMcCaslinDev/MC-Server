@@ -1,0 +1,45 @@
+{
+  "uniqueId": "bskyblock_witherkiller",
+  "friendlyName": "&f&l Wither Killer",
+  "deployed": true,
+  "description": [
+    "&7 Kill the wither",
+    "&7 and show your",
+    "&7 worthiness"
+  ],
+  "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: NETHER_STAR\n",
+  "order": 5,
+  "challengeType": "INVENTORY_TYPE",
+  "environment": [],
+  "removeWhenCompleted": false,
+  "level": "bskyblock_advanced",
+  "requirements": {
+    "class": "InventoryRequirements",
+    "parameters": {
+      "requiredItems": [
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: NETHER_STAR\n"
+      ],
+      "ignoreMetaData": [],
+      "takeItems": true,
+      "requiredPermissions": []
+    }
+  },
+  "rewardText": "&7 Get some extra diamonds \n&7 and some shulker boxes",
+  "rewardItems": [
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: DIAMOND_BLOCK\n  amount: 5\n",
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: SHULKER_BOX\n",
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: SHULKER_BOX\n"
+  ],
+  "rewardExperience": 50,
+  "rewardMoney": 0.0,
+  "rewardCommands": [],
+  "ignoreRewardMetaData": [],
+  "repeatable": false,
+  "timeout": 0,
+  "repeatRewardText": "",
+  "maxTimes": 0,
+  "repeatExperienceReward": 0,
+  "repeatItemReward": [],
+  "repeatMoneyReward": 0.0,
+  "repeatRewardCommands": []
+}

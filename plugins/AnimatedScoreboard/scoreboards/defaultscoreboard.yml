@@ -1,0 +1,132 @@
+#This is where you create the scoreboard, the first section will always be the title. 
+#Every section after that will be a line displayed on the scoreboard. You can have a max
+#of 15 lines display due to the limitations of minecraft.
+display:
+    #This is the first section, it will always be the title of the scoreboard. 
+    #You can also use placeholders here if you want.
+    title:
+      #This is the text that will be display as the title, it can have as many lines as you want and it will automatically rotate through them or
+      #choose a random one, depending on what you set random to.
+      text:
+      - "<stay ticks=60>&b&lImmortal</stay>"
+      - "&f&lI&b&lmmortal"
+      - "&b&lI&f&lm&b&lmortal"     
+      - "&b&lIm&f&lm&l&b&lortal"
+      - "&b&lImm&f&lo&b&lrtal"
+      - "&b&lImmo&f&lr&b&ltal"
+      - "&b&lImmor&f&lt&b&lal"
+      - "&b&lImmort&f&la&b&ll"
+      - "&b&lImmorta&f&ll"
+      #If this is true there will be a random line every time it updates. 
+      #If it is false than it will rotate through them and you can make some animations with it.
+      random: false
+      #The time between updates, 20 ticks is 1 second.
+      #Every x ticks it will go to the next line, if random is false, once all lines are displayed it will go to the first line.
+      interval: 1
+  
+    line-1:
+      text:
+      - "&7&m------------" 
+      random: false
+      interval: 1
+      score: 1   
+
+    line-2:
+      text:
+      - "0/100"
+      - "<update ticks=1>%server_tps_1%</update>"
+      random: false
+      interval: 100
+      score: 2
+
+    line-3:
+      text:
+      - "&bVote Party"
+      - "&bTPS"
+      random: false
+      interval: 100
+      score: 3
+
+    line-4:
+      text:
+      - ""
+      random: false
+      interval: 1
+      score: 4
+
+    line-5:
+      text:
+      - "%player_level% Exp"       
+      random: false
+      interval: 1
+      score: 5
+      
+    line-6:
+      text:
+      - "%mcmmo_power_level% McMMO"       
+      random: false
+      interval: 1
+      score: 6
+
+    line-7:
+      text:
+      - "%vault_eco_balance_formatted%" 
+      random: false
+      interval: 1
+      score: 7
+
+    line-8:
+      text:
+      - "&bBalances"
+      random: false
+      interval: 1
+      score: 8
+
+    line-9:
+      text:
+      - " "
+      random: false
+      interval: 1
+      score: 9
+    
+    line-10:
+      text:
+      - "%Level_bskyblock_island_level%"
+      random: false
+      interval: 1
+      score: 10
+
+    line-11:
+      text:
+      - "&bIsland Level"
+      random: false
+      interval: 1
+      score: 11
+
+    line-12:
+      text:
+      - " "
+      random: false
+      interval: 1
+      score: 12
+
+    line-13:
+      text:
+      - "%luckperms_prefix%"
+      random: false
+      interval: 150
+      score: 13
+
+    line-14:
+      text:
+      - "&bRank"
+      random: false
+      interval: 150
+      score: 14
+
+    line-15:
+      text:
+      - "&7&m------------" 
+      random: false
+      interval: 1
+      score: 15

@@ -1,0 +1,27 @@
+{
+  "biome": "MUSHROOM_FIELDS",
+  "deployed": true,
+  "friendlyName": "&f&l Infested Land",
+  "description": [
+    "&7 Mycelium infested blocks",
+    "&7 that spreads faster then",
+    "&7 grass and infests everything",
+    "&7 in their way. Almost nothing",
+    "&7 can survive here."
+  ],
+  "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: MYCELIUM\n",
+  "order": -1,
+  "environment": "NORMAL",
+  "uniqueId": "bskyblock_mooshroom",
+  "unlockLevel": 150,
+  "unlockCost": 0.0,
+  "unlockItems": [
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: BROWN_MUSHROOM\n  amount: 21\n"
+  ],
+  "cost": 4000.0,
+  "itemCost": [
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: RED_MUSHROOM\n  amount: 100\n"
+  ],
+  "costMode": "STATIC",
+  "costIncrement": 0.0
+}

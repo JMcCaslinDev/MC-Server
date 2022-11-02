@@ -1,0 +1,46 @@
+{
+  "uniqueId": "bskyblock_icefarmer",
+  "friendlyName": "&f&l Ice Farmer",
+  "deployed": true,
+  "description": [
+    "&7 Collect some ice"
+  ],
+  "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: ICE\n",
+  "order": 3,
+  "challengeType": "INVENTORY_TYPE",
+  "environment": [],
+  "removeWhenCompleted": false,
+  "level": "bskyblock_advanced",
+  "requirements": {
+    "class": "InventoryRequirements",
+    "parameters": {
+      "requiredItems": [
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: ICE\n  amount: 64\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: ICE\n  amount: 64\n"
+      ],
+      "ignoreMetaData": [],
+      "takeItems": true,
+      "requiredPermissions": []
+    }
+  },
+  "rewardText": "&7 Get some extra diamonds \n&7 and some shulker boxes|",
+  "rewardItems": [
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: DIAMOND\n  amount: 16\n",
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: SHULKER_BOX\n",
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: SHULKER_BOX\n"
+  ],
+  "rewardExperience": 50,
+  "rewardMoney": 0.0,
+  "rewardCommands": [],
+  "ignoreRewardMetaData": [],
+  "repeatable": true,
+  "timeout": 0,
+  "repeatRewardText": "&7 Get some extra \n&7 diamonds",
+  "maxTimes": 0,
+  "repeatExperienceReward": 0,
+  "repeatItemReward": [
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: DIAMOND\n  amount: 2\n"
+  ],
+  "repeatMoneyReward": 0.0,
+  "repeatRewardCommands": []
+}

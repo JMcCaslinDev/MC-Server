@@ -1,0 +1,43 @@
+settings:
+  # notify set and remove messages
+  notify: true
+  # use shift + right click to set anvil infinite and shift + left click to remove anvil infinite
+  shift-click: true
+  # max block radius for /anvil set [radius] and /anvil remove [radius]
+  max-radius: 25
+  # should players be required to have infiniteanvil.remove to break an infinite anvil
+  protect-infinite-anvils: true
+
+messages:
+  anvil-set: '&aInfinite anvil set at %x%x %y%y %z%z!'
+  anvil-remove: '&7Infinite anvil removed at %x%x %y%y %z%z!'
+  already-set: '&cAnvil is already an infinite anvil.'
+  already-removed: '&cAnvil is already not an infinite anvil.'
+
+  radius-set: '&aTotal of %amount% anvils made infinite in a radius of %radius%!'
+  radius-remove: '&7Total of %amount% anvils made normal in a radius of %radius%!'
+  none-radius-set: '&cEither all anvils nearby are infinite or no anvils found.'
+  none-radius-remove: '&cEither all anvils nearby are normal or no anvils found.'
+
+  data-purge: '&aPurged %amount% infinite anvils!'
+  already-empty: '&cDatabase already empty.'
+
+  toggle-on: '&aInfinite anvil place toggled on.'
+  toggle-off: '&7Infinite anvil place toggled off.'
+  already-toggled-on: '&cInfinite anvil place already toggled on.'
+  already-toggled-off: '&cInfinite anvil place already toggled off.'
+
+  reload: '&aInfiniteAnvil config has been reloaded!'
+
+  number-zero: '&cNumber must be greater zero.'
+  number-negative: '&cNumber must be positive.'
+  number-above-max: '&cRadius cannot surpass %radius%.'
+
+  invalid-block: '&cMust be looking at an anvil.'
+  invalid-number: '&c%number% is not a whole number.'
+  invalid-syntax: '&6Invalid Syntax: &e%command%'
+
+  no-perm-remove: '&cYou don''t have permission to remove an Infinite Anvil.'
+  no-perm-set: '&cYou don''t have permission to set an Infinite Anvil.'
+  no-perm-use: '&cYou don''t have permission to use an Infinite Anvil.'
+  no-perm-cmd: '&cYou don''t have permission to perform this command.'

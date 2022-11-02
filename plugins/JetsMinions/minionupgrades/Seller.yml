@@ -1,0 +1,28 @@
+MaxLevel: 3
+
+Levels:
+  CostToUpgradeToLevel2: 15000 #The cost to upgrade to level 2
+  CostToUpgradeToLevel3: 30000
+
+Settings:
+  SettingsAtLevel1: 1.0 #The multiply value, of which the minion sells its items for
+  SettingsAtLevel2: 1.25
+  SettingsAtLevel3: 1.5 | ENCHANTED
+Messages:
+  MessageOnUpgradeTo2: '&aYou have upgraded the Seller Minion to level 2!'
+  MessageOnUpgradeTo3: '&aYou have upgraded the Seller Minion to the highest level!'
+
+#Should items be rounded to a whole number when selling?
+RoundSellPriceToWholeNumber: true
+
+#By default the seller minion will hook into your shop plugin in order to sell items
+#If you wish to override that, set enable_worth to true, add the item below
+#Please use 1.16 naming convention https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
+#1.8 - 1.16 supported
+#You can use this file to override values in other plugins
+enable_worth: false
+worth:
+  STICK: 1
+  COAL: 3
+  DIAMOND: 50
+  IRON_SWORD: 10

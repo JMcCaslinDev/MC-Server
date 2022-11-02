@@ -1,0 +1,33 @@
+{
+  "uniqueId": "bskyblock_advanced",
+  "friendlyName": "&f&l Advanced",
+  "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: BLUE_CONCRETE\n",
+  "world": "skyblock_world",
+  "order": 4,
+  "waiverAmount": 0,
+  "unlockMessage": "&7 Congratulations - \n&7 you unlocked the \n&7 &dAdvanced level!",
+  "rewardText": "&7 Small reward for \n&7 completing all \n&7 Advanced challenges.",
+  "rewardItems": [
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: DIAMOND_HELMET\n  meta:\n    ==: ItemMeta\n    meta-type: UNSPECIFIC\n    enchants:\n      PROTECTION_ENVIRONMENTAL: 4\n      DURABILITY: 3\n",
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: DIAMOND_CHESTPLATE\n  meta:\n    ==: ItemMeta\n    meta-type: UNSPECIFIC\n    enchants:\n      PROTECTION_ENVIRONMENTAL: 4\n      DURABILITY: 3\n",
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: DIAMOND_LEGGINGS\n  meta:\n    ==: ItemMeta\n    meta-type: UNSPECIFIC\n    enchants:\n      PROTECTION_ENVIRONMENTAL: 4\n      DURABILITY: 3\n",
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: DIAMOND_BOOTS\n  meta:\n    ==: ItemMeta\n    meta-type: UNSPECIFIC\n    enchants:\n      PROTECTION_FALL: 4\n      PROTECTION_ENVIRONMENTAL: 4\n      DURABILITY: 3\n"
+  ],
+  "rewardExperience": 5345,
+  "rewardMoney": 5000.0,
+  "rewardCommands": [
+    "effect give [player] regeneration 600"
+  ],
+  "challenges": [
+    "bskyblock_waterzoo",
+    "bskyblock_chef",
+    "bskyblock_goldage",
+    "bskyblock_zoomaker",
+    "bskyblock_witherkiller",
+    "bskyblock_advanced",
+    "bskyblock_dj",
+    "bskyblock_icefarmer",
+    "bskyblock_alchemist"
+  ],
+  "ignoreRewardMetaData": []
+}

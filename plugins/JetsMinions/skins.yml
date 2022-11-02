@@ -1,0 +1,149 @@
+#In this file, you will be able to modify or add minions skins.
+#To change a skin of a default minion, simply change it here and ensure the name of the skin is set in the config.yml for that minion (under DefaultSkin: <skinname>
+
+#To be able to change a skin on an already spawned minion, players will need the permission minions.skins.<SkinIdentifier>
+#
+#Head SQLDatabase is supported to get heads, the headitem for a head in headdatabase would be hdb-<headnumber>
+Skins:
+  Miner: #The skin identifier
+    DisplayName: "&3%PLAYERNAME%'s Miner"
+    HeadItem: "%HEAD%" #Use %HEAD% to get the player's head in game, or simply the name of a minecraft account to get the skin of that (without %'s) - You can also use HeadDatabase by using hdb-<headnumber>
+    HeadDisplayName: "&7Default &3Miner Skin"
+    Body: "0,0,0" #Requires an RGB colour - https://www.rapidtables.com/web/color/RGB_Color.html
+    Legs: "40,159,219" #rgb colour
+    Boots: "40,159,219" #rgb
+    HandItem: "IRON_PICKAXE" #Does not have to be specified, but it must be a valid material found here https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Material.html
+  Slayer:
+    DisplayName: "&3%PLAYERNAME%'s Slayer"
+    HeadItem: "%HEAD%"
+    HeadDisplayName: "&7Default &cSlayer Skin"
+    Body: "255,0,0" #Requires an RGB colour
+    Legs: "255,0,0" #rgb colour
+    Boots: "55,150,0" #rgb
+    HandItem: "STONE_SWORD"
+  Collector:
+    DisplayName: "&3%PLAYERNAME%'s Collector"
+    HeadItem: "%HEAD%"
+    HeadDisplayName: "&7Default &cCollector Skin"
+    Body: "238,255,11" #Requires an RGB colour
+    Legs: "156,159,113" #rgb colour
+    Boots: "238,255,11" #rgb
+    HandItem: "ENDER_PEARL"
+  Feeder:
+    DisplayName: "&3%PLAYERNAME%'s FeederMinion"
+    HeadItem: "%HEAD%"
+    HeadDisplayName: "&7Default &cFeeder Skin"
+    Body: "238,255,40"
+    Legs: "156,159,100"
+    Boots: "238,255,40"
+    HandItem: "COOKED_BEEF"
+  Lumberjack:
+    DisplayName: "&3%PLAYERNAME%'s Lumberjack"
+    HeadItem: "%HEAD%"
+    HeadDisplayName: "&7Default &cLumberjack Skin"
+    Body: "108,77,5"
+    Legs: "178,159,39"
+    Boots: "108,77,5"
+    HandItem: "STONE_AXE"
+  Farmer:
+    DisplayName: "&3%PLAYERNAME%'s Farmer"
+    HeadItem: "%HEAD%"
+    HeadDisplayName: "&7Default &cFarmers Skin"
+    Body: "204,204,0"
+    Legs: "102,204,0"
+    Boots: "204,204,0"
+    HandItem: "STONE_HOE"
+  Fisher:
+    DisplayName: "&3%PLAYERNAME%'s Fisher"
+    HeadItem: "%HEAD%"
+    HeadDisplayName: "&7Default &cFisher Skin"
+    Body: "51,153,255"
+    Legs: "153,255,255"
+    Boots: "51,153,255"
+    HandItem: "FISHING_ROD"
+  Seller:
+    DisplayName: "&3%PLAYERNAME%'s Seller"
+    HeadItem: "%HEAD%"
+    HeadDisplayName: "&7Default &cSeller Minion!"
+    Body: "255,65,65"
+    Legs: "245,195,120"
+    Boots: "255,65,65"
+    HandItem: "CHEST"
+  Spiderman:
+    DisplayName: "&c%PLAYERNAME%'s SpiderMan"
+    HeadItem: "SpiderMan578"
+    HeadDisplayName: "&CSpiderMan!"
+    Body: "0,0,255"
+    Legs: "0,0,255"
+    Boots: "255,0,0"
+  Batman:
+    DisplayName: "&c%PLAYERNAME%'s Batman"
+    HeadItem: "1mBatman"
+    HeadDisplayName: "&cBatman!"
+    Body: "159,154,81"
+    Legs: "120,125,62"
+    Boots: "91,87,28"
+#The Skin GUI for the minions
+SkinGUI:
+  Settings:
+    DisplayName: "&eMinion Skins"
+    Size: 27 #Must be a multiple of 9
+  FillerItem: #This can be called anything
+    Slot: filler #Either specify a slot ID, or specify filler to fill empty spaces
+    Item: STAINED_GLASS_PANE:7 #Put damage of the material after a :
+    Action: none #Possible Actions: None, Close, Back (back to main menu),Default (for the default skin), or a Skin Identifier
+    DisplayName: " "
+    Lore: []
+  FirstSkin:
+    Slot: 10
+    Item: SKULL:%DEFAULTSKIN% #If using a Skull, put Skull:<playersname> (or %PLAYERSNAME% for the person who opened the inventory, or %DEFAULTSKIN% for the Minions Default Head)
+    Action: Default
+    DisplayName: "&e&lDefault Skin"
+    Lore:
+      - "&7Click me to equip the"
+      - "&7Default Skin"
+  SecondSkin:
+    Slot: 11
+    Item: SKULL:SpiderMan578
+    Action: Spiderman #Skin names are case-sensitive, it must match the identifier of the skin
+    DisplayName: "&cSpider Man"
+    Lore:
+      - "&7Click me to equip the"
+      - "&7Spider Man Skin"
+  ThirdSkin:
+    Slot: 12
+    Item: SKULL:1mBatman
+    Action: Batman #Skin names are case-sensitive, it must match the identifier of the skin
+    DisplayName: "&7Batman"
+    Lore:
+      - "&7Click me to equip the"
+      - "&7Batman Skin"
+  BackButton:
+    Slot: 22
+    Item: NETHER_STAR:0
+    Action: Back
+    DisplayName: "&cBack To Main Menu"
+    Lore:
+      - "&7Click to return to the"
+      - "&7Main Menu"
+
+#Disabling skins may be required for some servers, this prevents the plugin from accessing mojangs servers to acquire skin textures
+DisableSkins: false
+
+#When requesting a skin for the first time, it can take a while (meaning opening an inventory containing lots of heads may take a while)
+#To speed up the processes, when the server loads we can cashe these head values, simply list the names of the heads here to do this
+HeadCache:
+  - MHF_ArrowUp
+  - MHF_ArrowRight
+  - MHF_ArrowDown
+  - MHF_ArrowLeft
+  - SpiderMan578
+  - 1mBatman
+  - RobinHood
+  - Miner
+  - Builder
+  - quad8
+  - Cow
+  - Farmer
+  - 03z
+  - Seller

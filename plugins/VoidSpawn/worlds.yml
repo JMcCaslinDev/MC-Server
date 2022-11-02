@@ -1,0 +1,11 @@
+version: 2
+skyblock_world:
+  detector: void
+  spawn:
+    x: 0.0
+    y: 90.0
+    z: 0.0
+    pitch: -1.9500002
+    yaw: -134.09993
+    world: skyblock_world
+  mode: island

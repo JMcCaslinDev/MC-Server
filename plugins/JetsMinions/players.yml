@@ -1,0 +1,11 @@
+# Wouldn't suggest touching this file. Bad things will *probably* happen
+# Modifiying this file while the server is online will NOT work
+# File save format:
+# Players
+#  PlayerUUID
+#    Minion,world,xpos,ypos,zpos,yaw,health/maxhealth,worldforchest,xpos,ypos,zpos,stats,level,base64-encoded-additional-data
+# Do not edit this, this will update automatically
+ConfigVersion: 7.6.6
+MinionUUIDs: {}
+Players:
+  ed29a0fb-ccc2-47c1-a20f-920f9e43ba72: []

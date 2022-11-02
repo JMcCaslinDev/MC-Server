@@ -1,0 +1,387 @@
+#+-------------------------------------+
+#|                                     |
+#|              LootCrate              | 
+#|            A_Brave_Panda            |
+#|                                     |
+#+-------------------------------------+
+#
+#
+#+------------------------------+
+#|                              |
+#|           Options            | 
+#|                              |
+#+------------------------------+
+#
+#   Description
+#   option: "value"
+    # value type - example/definition
+
+options:
+    #Should the commands on each item be dispatched the amount of times the item is recieved, or once?
+    dispatch-command-item-time: false
+    # boolean - true/false
+    
+    #Should people with op or required permission recieve login notifications about a new update for the plugin
+    admin-update-notification: true
+    # boolean - true/false
+
+    #Should players instantly receive keys or should they use /lootcrate claim
+    lootcrate-claim-enabled: true
+    # boolean - true/false
+
+    #Should people be able to use their key crates even before claiming them?
+    allow-virtual-keys: false
+    # boolean - true/false
+
+    
+#+------------------------------+
+#|                              |
+#|          Messages            | 
+#|                              |
+#+------------------------------+
+    
+# Message Key
+# < > = Mandatory, must use at least one option
+# [ ] = Mandatory, must enter some custom input
+# ( ) = Optional,  may or may not enter some input
+# { } = Placeholder
+
+#   Description
+#   message: "value"
+    # {placeholder} - definition
+messages:
+    #Prefix of every message
+    prefix: "&e&lLOOTCRATE &r"
+
+    #Chance, as displayed when you view a crate
+    chance: "&6&lChance: &e{item_chance}%"
+    # {item_chance} - Chance of winning of the item being displayed
+    
+    #When the command sender doesn't have the required permission
+    command-no-permission: "&cYou have no permission to do this."
+    
+    #When a player tries to interact with a lootcrate they dont have the permission to
+    lootcrate-interact-no-permission: "&cYou do not have permission to interact with &e{crate_name}&c."
+
+    #Sent to player when they join the server and they still have keys to claim
+    join-key-notification: "&fYou still have &6{key_amount}&f keys to claim. Use &6/lootcrate claim&f to claim them now"
+    # {key_amount} - The amount of keys to claim
+    
+    #When player attempts to open crate, but have a full inventory
+    inventory-full: "&cYour inventory is full!"
+    # {crate_name} - Name of crate
+    
+    #Sent to console if command requires player
+    must-be-player: "&cYou must be a player to do this."
+    
+    #Sent to player if command requires console
+    must-be-console: "&cYou must be the console to do this."
+    
+    #Usage for /meta
+    meta-command-usage: "&cUsage: /meta <name | lore | enchantment>"
+    
+    #Sent to player if command requires them to hold an item
+    must-be-holding-item: "&cYou must be holding an item in your main hand!"
+    
+    #Sent to player when attempting to place a lootkey
+    cannot-place-lootkey: "&cYou cannot place a Loot Key."
+    
+    #Sent to player if crate items total chance doesn't equal 100%
+    lootcrate-chance-not-100: "&4Error: &cThe items in the LootCrate &e{crate_name} &conly total &e{crate_total_chance}&c."
+    # {crate_name} - Name of crate
+    # {crate_id} - Id of crate
+    # {crate_total_chance} - Total of all crate item chances
+    
+    #Usage for /lootcrate
+    lootcrate-command-basic-usage: "&cUsage: /lootcrate <create | delete | key | set | add | remove | give | items | list | reload>"
+    
+    #Sent when lootcate cannot be found
+    lootcrate-not-found: "&cThe LootCrate with the id &e#{crate_id}&c was not found."
+    # {crate_id} - Id of crate
+    
+    #Sent when lootcrate has no key or it cannot be found
+    key-not-found: "&cThe key for the LootCrate &e{crate_name}&c was not found."
+    # {crate_name} - Name of crate
+    # {crate_id} - Id of crate
+    
+    #Sent when player cannot be found
+    player-not-found: "&cCould not find player &e{player_name}&c."
+    # {player_name} - Name of player
+    
+    #Sent when item in lootcrate cannot be found
+    lootcrate-item-not-found: "&cThe item &e#{item_id} &cin LootCrate with the id &e#{crate_id}&c was not found."
+    # {item_id} - Id of item
+    # {crate_id} - Id of crate
+    
+    #Sent when specified enchantment could not be found
+    enchantment-not-found: "&cCould not find enchantment &e{enchantment_name}&c."
+    # {enchantment_name} - Name of enchantment
+    
+    #Usage for command
+    lootcrate-command-create-usage: "&cUsage: /lootcrate create [name]"
+    
+    #Sent on completion of command
+    lootcrate-command-create-success: "&fCreated a LootCrate with the name &e{crate_name}&f. &fReference ID: &e#{crate_id}"
+    # {crate_name} - Name of crate
+    # {crate_id} - Id of crate
+
+    #Sent to whoever create a crate
+    loocrate-command-create-permissions: "&6To allow players to use this crate, give them the permission &flootcrate.interact.{crate_id}&6 or &flootcrate.interact.*&6."
+    # {crate_name} - Name of crate
+    # {crate_id} - Id of crate
+
+    #Usage for command
+    lootcrate-command-delete-usage: "&cUsage: /lootcrate delete [crate id]"
+    
+    #Sent on completion of command
+    lootcrate-command-delete-success: "&fDeleted the LootCrate with the name &e{crate_name}&f."
+    # {crate_name} - Name of crate
+    # {crate_id} - Id of crate
+
+    
+    #Usage for command
+    lootcrate-command-key-usage: "&cUsage: /lootcrate key [crate id] [glowing]"
+    
+    #Sent on completion of command
+    lootcrate-command-key-success: "&fAdded a key to the LootCrate with the name &e{crate_name}&f."
+    # {crate_name} - Name of crate
+    # {crate_id} - Id of crate
+    
+    #Usage for command
+    lootcrate-command-add-usage: "&cUsage: /lootcrate add [crate id] [min amount] [max amount] [chance] [isDisplay]"
+    
+    #Sebt as error when min is greater than max amount
+    lootcrate-command-add-minmax: "&cThe minimum amount must be smaller or equal to the max amount"
+    
+    #Sent on completion of command
+    lootcrate-command-add-success: "&fAdded &e{item_type}&f to the LootCrate with the name &e{crate_name}&f. The item's id is &e#{item_id}&f."
+    # {crate_name} - Name of crate
+    # {crate_id} - Id of crate
+    # {item_id} - Id of item
+    # {item_type} - Type of item
+    # {item_name} - Name of item
+
+    #Sent to whoever added an item to the crate
+    loocrate-command-add-hint: "&6If you want this item to only execute commands, &aisDisplay = true&6."
+    
+    #Usage for command
+    lootcrate-command-remove-usage: "&cUsage: /lootcrate remove [crate id] [item id]"
+    
+    #Sent on completion of command
+    lootcrate-command-remove-success: "&fRemoved item &e#{item_id}&f from the LootCrate with the name &e{crate_name}&f."
+    # {crate_name} - Name of crate
+    # {crate_id} - Id of crate
+    # {item_id} - Id of item
+    
+    #Usage for command
+    lootcrate-command-items-usage: "&cUsage: /lootcrate items [crate id]"
+    
+    #Format of lootcrate items when being listed to player
+    lootcrate-command-items-format: "&7#{item_id}&f | Type: &e{item_type}&f | Name: &e{item_name}&f | MinAmount: &e{item_min_amount}&f | MaxAmount: &e{item_max_amount}&f | Chance: &e{item_chance}&f | Commands: &e{item_commands}&f"
+    # {item_id} - Id of item
+    # {item_type} - Type of item
+    # {item_name} - Name of item
+    # {item_min_amount} - Min amount of item
+    # {item_max_amount} - Max amount of item
+    # {item_chance} - Chance of item
+    # {item_commands} - Amount of commands of item
+    
+    #Usage for command
+    lootcrate-command-list-usage: "&cUsage: /lootcrate list"
+    
+    #Format of lootcrates when being listed to player
+    lootcrate-command-list-format: "&7#{crate_id}&f | Name: &e{crate_name}&f | Item Count: &e{crate_item_count}&f | Key Type: &e{crate_key_type}&f"
+    # {crate_id} - Id of crate
+    # {crate_name} - Name of crate
+    # {crate_item_count} - Count of items in crates
+    # {crate_key_type} - Type of material key is
+    
+    #Usage for command
+    lootcrate-command-set-usage: "&cUsage: /lootcrate set [crate id]"
+    
+    #Sent on completion of command
+    lootcrate-command-set-success: "&fSet &e{X}, {Y}, {Z} &fas a location for the LootCrate &e{crate_name}&f."
+    # {crate_id} - Id of crate
+    # {crate_name} - Name of crate
+    # {X} - X cord of position
+    # {Y} - Y cord of position
+    # {Z} - Z cord of position
+
+    #Sent when a crate already exists at this location
+    lootcrate-command-set-failure: "&cA crate already exists at this location!"
+    # {crate_id} - Id of crate
+    # {crate_name} - Name of crate
+    # {X} - X cord of position
+    # {Y} - Y cord of position
+    # {Z} - Z cord of position
+
+    #Usage for command
+    lootcrate-command-unset-usage: "&cUsage: /lootcrate unset"
+
+    #Sent on completion of command
+    lootcrate-command-unset-success: "&fRemoved &e{X}, {Y}, {Z} &fas a location for the LootCrate &e{crate_name}&f."
+    # {crate_id} - Id of crate
+    # {crate_name} - Name of crate
+    # {X} - X cord of position
+    # {Y} - Y cord of position
+    # {Z} - Z cord of position
+
+    #Sent when a crate does not exist at this location
+    lootcrate-command-unset-failure: "&cThis location does not have a crate!"
+    # {crate_id} - Id of crate
+    # {crate_name} - Name of crate
+    # {X} - X cord of position
+    # {Y} - Y cord of position
+    # {Z} - Z cord of position
+    
+    #Usage for command
+    lootcrate-command-give-usage: "&cUsage: /lootcrate give [player name] [crate id] (amount)"
+    
+    #Sent on completion of command to receiver of key
+    lootcrate-command-give-success-to-receiver: "&fYou have received {key_amount} key(s) for the LootCrate &e{crate_name}&f. Use &6/lootcrate claim&f to claim it now."
+    # {crate_name} - Name of crate
+    # {sender_name} - Name of whoever sent the key
+    # {key_amount} - The amount of keys sent
+    
+    #Sent on completion of command to sender of key
+    lootcrate-command-give-success-to-sender: "&fYou have sent {key_amount} key(s) for the LootCrate &e{crate_name}&f to &e{player_name}&f."
+    # {crate_name} - Name of crate
+    # {player_name} - Name of whoever received the key
+    # {key_amount} - The amount of keys received
+
+    #Sent to command sender when receiving player has a full inventory
+    lootcrate-command-claim-full-inventory: "&cYou cannot claim this key as your inventory is full."
+    # {crate_name} - Name of crate
+    # {crate_id} - Id of crate
+    # {player_name} - Name of whoever was to receive the key
+
+    #Sent to player when they successfully claim a key
+    lootcrate-command-claim-success: "&fYou have claimed a key for &6{crate_name}&f."
+    # {crate_name} - Name of crate
+    # {crate_id} - Id of crate
+
+    #Usage for command
+    lootcrate-command-command-usage: "&cUsage: /lootcrate command [crate id] [item id] [command]"
+    
+    #Sent on completion of command
+    lootcrate-command-command-success: "&fYou have added a command to Item &e#{item_id} for the LootCrate &e{crate_name}&f."
+    # {crate_name} - Name of crate
+    # {crate_id} - Id of crate
+    # {item_id} - Id of item
+    # {item_type} - Type of item
+    # {item_name} - Name of item
+    
+    #Sent on completion of command
+    lootcrate-command-displaychances-success: "&fYou have updated &e{crate_name}&f's option to display chances to: &e{value}&f"
+    # {crate_name} - Name of crate
+    # {crate_id} - Id of crate
+    # {value} - Value entered (true/false)
+    
+    #Usage for command
+    lootcrate-command-displaychances-usage: "&cUsage: /lootcrate displaychances [crate id] [display chances]"
+    
+    #Usage for command
+    lootcrate-command-version-usage: "&cUsage: /lootcrate version"
+    
+    #Sent on completion of command
+    lootcrate-command-reload-success: "&aPlugin has been reloaded."
+
+    #Usage for command
+    lootcrate-command-preview-usage: "&cUsage: /lootcrate preview [crate_id]"
+
+    #Sent on completion of command
+    lootcrate-command-preview-success: "&aYou are now viewing &e{crate_name}"
+    # {crate_name} - Name of crate
+    # {crate_id} - Id of crate
+    
+    #Format of message from message command
+    message-command-format: "&f{message}"
+    # {message} - Message to be sent
+    
+    #Usage for command
+    message-command-usage: "&cUsage: /message {player} {message}" 
+    
+    #Sebt when player is opening a loot crate
+    lootcrate-open: "&aOpening LootCrate &e{crate_name}"
+    # {crate_name} - Name of crate
+
+    #Used when icorrect key is used to open a crate
+    lootcrate-wrong-key: "&cThis is the wrong key to open the LootCrate &e{crate_name}"
+    # {crate_name} - Name of crate
+    # {crate_id} - Id of crate
+
+
+    #Used when player is viewing crate
+    lootcrate-view-close-item: "&cClose"
+
+    #Used when player is viewing crate
+    lootcrate-view-blocker-item: "&k-"
+
+    #Used when player is viewing crate
+    lootcrate-view-next-item: "&6Next"
+
+    #Used when player is viewing crate
+    lootcrate-view-prev-item: "&6Prev"
+
+
+#+---------------------------------------+
+#|                                       |
+#|          GUI Customization            |
+#|                                       |
+#+---------------------------------------+
+
+#All timing options are in seconds
+
+custom-gui:
+
+    #Naivation Menu Options
+    navigation-blocker-material: "RED_STAINED_GLASS_PANE"
+    navigation-blocker-name: "&k&l-"
+
+    navigation-close-material: "BARRIER"
+    navigation-close-name: "&cClose"
+
+    navigation-next-material: "SPECTRAL_ARROW"
+    navigation-next-name: "&6Next"
+
+    navigation-previous-material: "ARROW"
+    navigation-previous-name: "&6Previous"
+
+    #Claim Menu Options
+    claim-all-material: "CHEST"
+    claim-all-name: "&6Claim All Keys"
+
+    #CSGO Animation Options
+    csgo-animation-pointer-material: "REDSTONE_TORCH"
+    csgo-animation-pointer-name: "&c&lReward"
+
+    csgo-animation-background-material: "WHITE_STAINED_GLASS_PANE"
+    csgo-animation-background-name: "&k-"
+
+    csgo-animation-winner-background-material: "LIME_STAINED_GLASS_PANE"
+    csgo-animation-winner-background-name: "&k-"
+
+    csgo-animation-scroll-speed: "1"
+    csgo-animation-duration: "6"
+
+    #Random Glass Animation Options
+    rnd-animation-pointer-material: "REDSTONE_TORCH"
+    rnd-animation-pointer-name: "&c&lReward"
+
+    rnd-animation-glass-name: "&k-"
+
+    rnd-animation-winner-background-material: "LIME_STAINED_GLASS_PANE"
+    rnd-animation-winner-background-name: "&k-"
+
+    rnd-animation-scroll-speed: "3"
+    rnd-animation-glass-speed: "1"
+    rnd-animation-duration: "6"
+
+    #Removing Item Animation Options
+    removing-animation-filler-material: "RED_STAINED_GLASS_PANE"
+    removing-animation-filler-name: "&k-"
+
+    removing-animation-winner-background-material: "LIME_STAINED_GLASS_PANE"
+    removing-animation-winner-background-name: "&k-"
+
+    removing-animation-duration: "6"

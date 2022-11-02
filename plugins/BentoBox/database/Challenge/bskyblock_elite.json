@@ -1,0 +1,47 @@
+{
+  "uniqueId": "bskyblock_elite",
+  "friendlyName": "&f&l Elite Island",
+  "deployed": true,
+  "description": [
+    "&7 Reach 10 000th level",
+    "&7 of island."
+  ],
+  "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: MAGENTA_CONCRETE\n",
+  "order": 10,
+  "challengeType": "OTHER_TYPE",
+  "environment": [],
+  "removeWhenCompleted": false,
+  "level": "bskyblock_elite",
+  "requirements": {
+    "class": "OtherRequirements",
+    "parameters": {
+      "requiredExperience": 0,
+      "takeExperience": false,
+      "requiredMoney": 0.0,
+      "takeMoney": false,
+      "requiredIslandLevel": 10000,
+      "requiredPermissions": []
+    }
+  },
+  "rewardText": "&7 Get some extra diamonds \n&7 and some shulker boxes",
+  "rewardItems": [
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: DIAMOND\n  amount: 64\n",
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: SHULKER_BOX\n",
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: SHULKER_BOX\n",
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: SHULKER_BOX\n",
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: SHULKER_BOX\n",
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: SHULKER_BOX\n"
+  ],
+  "rewardExperience": 50,
+  "rewardMoney": 0.0,
+  "rewardCommands": [],
+  "ignoreRewardMetaData": [],
+  "repeatable": false,
+  "timeout": 0,
+  "repeatRewardText": "",
+  "maxTimes": 0,
+  "repeatExperienceReward": 0,
+  "repeatItemReward": [],
+  "repeatMoneyReward": 0.0,
+  "repeatRewardCommands": []
+}

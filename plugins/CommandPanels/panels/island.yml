@@ -1,0 +1,135 @@
+# Control Panel Template file
+# Command Parser Values:
+#    [player] - [player] in command will be replaced with username,
+#               f.e. 'give [player] diamond' will result in '/give BONNe1704 diamond'
+#    [server] - Command will be run by console, f.e. '[server] op [player]' will result in '/op BONNe1704'
+#    island- island in command will be replaced with corresponding GameMode user command,
+#               f.e. 'island challenges' in BSkyblock will result in 'island challenges'
+# material is used from Matherial.match
+# permission is a suffix that will be added to the end of "[gamemode].controlpanel.panel.[suffix]".
+#    Adding permission means that user will open control panel defined by permission.
+#    If user will have multiple panel permissions, it will open first encountered with default flag.
+#    If user will have '*', it will open first defined panel with default flag.
+# lore can include color codes using & and new lines using | and placeholders with with % at the
+#    start and the end. [gamemode] in placeholders will be converted to correct string.
+# number before each button means slot location
+
+panels:
+  island:
+    perm: default
+    rows: 6
+    title: '&8Island >> Menu'
+    empty: BLACK_STAINED_GLASS_PANE
+    item:
+      '12':
+        name: '&b&lIsland Biome'
+        material: MYCELIUM
+        stack: 1
+        lore:
+        - 'Unlock Biomes'
+        commands: 
+        - bskyblock:island biomes
+      '13':
+        name: '&b&lIsland Home'
+        material: RED_BED
+        stack: 1
+        lore:
+        - 'Teleport to your island home'
+        commands: 
+        - bskyblock:island go
+      '14':
+        name: '&b&lIsland Members'
+        material: PLAYER_HEAD
+        stack: 1
+        lore:
+        - 'view your island members'
+        commands: 
+        - bskyblock:island team
+      '20':
+        name: '&b&lIsland Warps'
+        material: end_portal_frame
+        stack: 1
+        lore:
+        - 'View your island warps'
+        commands: 
+        - bskyblock:island warps
+      '21':
+        name: '&b&lIsland Upgrades'
+        material: DIAMOND
+        stack: 1
+        lore:
+        - 'view your island upgrades'
+        commands: 
+        - cp upgrades
+      '22':
+        name: '&b&lIsland Missions'
+        material: writable_book
+        stack: 1
+        lore:
+        - 'View your missions'
+        commands: 
+        - commandpanels:cp island-challenges
+      '23':
+        name: '&b&lIsland Settings'
+        material: CLOCK
+        stack: 1
+        lore:
+        - 'view your island settings'
+        commands: 
+        - bskyblock:island settings
+      '24':
+        name: '&b&lIsland Border'
+        material: beacon
+        stack: 1
+        lore:
+        - 'Toggle your island border'
+        commands: 
+        - bskyblock:island border
+      '29':
+        name: '&b&lIsland Logs'
+        material: writable_book
+        stack: 1
+        lore:
+        - 'View your island logs'
+        commands: 
+        - bskyblock:island logs
+      '30':
+        name: '&b&lIsland Bank'
+        material: gold_ingot
+        stack: 1
+        lore:
+        - 'View your island bank'
+        commands: 
+        - cp island-bank
+      '31':
+        name: '&b&lIsland Permissions'
+        material: name_tag
+        stack: 1
+        lore:
+        - 'View your island permissions'
+        commands: 
+        - bskyblock:island permissions
+      '32':
+        name: '&b&lTrusted Members'
+        material: emerald
+        stack: 1
+        lore:
+        - 'View your islands trusted members'
+        commands: 
+        - bskyblock:island members
+      '33':
+        name: '&b&lIsland Reset'
+        material: Tnt
+        stack: 1
+        lore:
+        - 'Reset your island'
+        - ''
+        - '&c(!) This will delete your island!'
+        commands: 
+        - bskyblock:island reset
+      '49':
+        name: '&4&lClose Menu'
+        material: barrier
+        stack: 1
+        commands: 
+        - cpc

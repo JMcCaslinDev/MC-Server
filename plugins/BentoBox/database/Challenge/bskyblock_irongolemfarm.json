@@ -1,0 +1,47 @@
+{
+  "uniqueId": "bskyblock_irongolemfarm",
+  "friendlyName": "&f&l Iron Farm",
+  "deployed": true,
+  "description": [
+    "&7 Use your villagers",
+    "&7 to spawn free iron",
+    "&7 golems."
+  ],
+  "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: IRON_BLOCK\n",
+  "order": 1,
+  "challengeType": "ISLAND_TYPE",
+  "environment": [],
+  "removeWhenCompleted": true,
+  "level": "bskyblock_expert",
+  "requirements": {
+    "class": "IslandRequirements",
+    "parameters": {
+      "requiredBlocks": {},
+      "removeBlocks": false,
+      "requiredEntities": {
+        "IRON_GOLEM": 5
+      },
+      "removeEntities": false,
+      "searchRadius": 10,
+      "requiredPermissions": []
+    }
+  },
+  "rewardText": "&7 Some handy mending \n&7 books and redstone ore",
+  "rewardItems": [
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: ENCHANTED_BOOK\n  meta:\n    ==: ItemMeta\n    meta-type: ENCHANTED\n    stored-enchants:\n      MENDING: 1\n",
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: ENCHANTED_BOOK\n  meta:\n    ==: ItemMeta\n    meta-type: ENCHANTED\n    stored-enchants:\n      MENDING: 1\n",
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: REDSTONE_ORE\n  amount: 16\n"
+  ],
+  "rewardExperience": 50,
+  "rewardMoney": 0.0,
+  "rewardCommands": [],
+  "ignoreRewardMetaData": [],
+  "repeatable": false,
+  "timeout": 0,
+  "repeatRewardText": "",
+  "maxTimes": 0,
+  "repeatExperienceReward": 0,
+  "repeatItemReward": [],
+  "repeatMoneyReward": 0.0,
+  "repeatRewardCommands": []
+}

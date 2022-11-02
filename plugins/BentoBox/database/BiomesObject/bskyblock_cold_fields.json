@@ -1,0 +1,21 @@
+{
+  "biome": "SNOWY_TAIGA",
+  "deployed": true,
+  "friendlyName": "&f&l Snowy Taiga",
+  "description": [
+    "&7 Cold and snowy place",
+    "&7 is not for everyone.",
+    "&7 But white foxes and",
+    "&7 rabbits has places",
+    "&7 where hide."
+  ],
+  "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: SNOW_BLOCK\n",
+  "order": -1,
+  "environment": "NORMAL",
+  "uniqueId": "bskyblock_cold_fields",
+  "unlockLevel": 50,
+  "unlockCost": 0.0,
+  "cost": 500.0,
+  "costMode": "STATIC",
+  "costIncrement": 0.0
+}

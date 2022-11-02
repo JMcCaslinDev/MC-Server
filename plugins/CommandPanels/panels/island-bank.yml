@@ -1,0 +1,53 @@
+panels:
+  island-bank:
+    perm: default
+    rows: 3
+    title: '&8Island >> Bank'
+    empty: BLACK_STAINED_GLASS_PANE
+    item:
+      '10':
+        material: PAPER
+        stack: 1
+        name: '&b&lDeposit Island Money'
+        lore:
+        - ""
+        - "&a&l(!)&r &aClick to deposit money!"
+        commands:
+        - cpc
+        - ' '
+        - 'msg= &aEnter amount to deposit.'
+        - 'msg= &cType cancel to cancel the deposit.' 
+        - ' '
+        player-input:
+        - 'placeholder= island-bank [deposit-amount:%cp-player-input%]'
+        - 'msg= &7Deposited %cp-deposit-amount%'
+        - 'island bank deposit %cp-deposit-amount%'
+      '12':
+        material: GOLD_INGOT
+        stack: 1
+        name: '&b&lWithdraw Island Money'
+        lore:
+        - ""
+        - '&b∙ &fIsland Bank &b%Bank_bskyblock_island_balance%'
+        - ""
+        - "&a&l(!)&r &aClick to withdraw money!"
+        commands:
+        - cpc
+        - ' '
+        - 'msg= &aEnter amount to withdrawal.'
+        - 'msg= &cType cancel to cancel the withdrawal.' 
+        - ' '
+        player-input:
+        - 'placeholder= island-bank [withdraw-amount:%cp-player-input%]'
+        - 'msg= &7Withdrew %cp-withdraw-amount%'
+        - 'island bank withdraw %cp-withdraw-amount%'
+      '15':
+        material: GOLD_NUGGET
+        stack: 1
+        name: ''
+      '22':
+        material: BARRIER
+        stack: 1
+        name: '&4&lBACK'
+        commands:
+        - island

@@ -1,0 +1,14 @@
+{
+  "uniqueId": "BSkyBlock2bfa2991-a82d-4fe3-be43-2ed32f50df79",
+  "gameMode": "BSkyBlock",
+  "blockCounts": {
+    "DIRT": 49,
+    "SMOOTH_STONE": 1
+  },
+  "blockLimits": {},
+  "entityLimits": {},
+  "entityGroupLimits": {},
+  "blockLimitsOffset": {},
+  "entityLimitsOffset": {},
+  "entityGroupLimitsOffset": {}
+}

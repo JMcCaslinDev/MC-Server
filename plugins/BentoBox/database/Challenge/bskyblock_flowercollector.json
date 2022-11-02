@@ -1,0 +1,55 @@
+{
+  "uniqueId": "bskyblock_flowercollector",
+  "friendlyName": "&f&l Flower gatherer",
+  "deployed": true,
+  "description": [
+    "&7 Collect all small flowers."
+  ],
+  "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: DANDELION\n",
+  "order": 2,
+  "challengeType": "INVENTORY_TYPE",
+  "environment": [],
+  "removeWhenCompleted": false,
+  "level": "bskyblock_expert",
+  "requirements": {
+    "class": "InventoryRequirements",
+    "parameters": {
+      "requiredItems": [
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: DANDELION\n  amount: 8\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: POPPY\n  amount: 8\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: BLUE_ORCHID\n  amount: 8\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: ALLIUM\n  amount: 8\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: AZURE_BLUET\n  amount: 8\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: RED_TULIP\n  amount: 8\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: ORANGE_TULIP\n  amount: 8\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: WHITE_TULIP\n  amount: 8\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: PINK_TULIP\n  amount: 8\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: OXEYE_DAISY\n  amount: 8\n"
+      ],
+      "ignoreMetaData": [],
+      "takeItems": true,
+      "requiredPermissions": []
+    }
+  },
+  "rewardText": "&7 Large flowers are \n&7 always better.",
+  "rewardItems": [
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: COCOA_BEANS\n",
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: ROSE_BUSH\n",
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: PEONY\n",
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: LARGE_FERN\n",
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: LILAC\n",
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: SUNFLOWER\n"
+  ],
+  "rewardExperience": 50,
+  "rewardMoney": 10.0,
+  "rewardCommands": [],
+  "ignoreRewardMetaData": [],
+  "repeatable": false,
+  "timeout": 0,
+  "repeatRewardText": "",
+  "maxTimes": 0,
+  "repeatExperienceReward": 0,
+  "repeatItemReward": [],
+  "repeatMoneyReward": 0.0,
+  "repeatRewardCommands": []
+}

@@ -1,0 +1,20 @@
+{
+  "homeLocations": {},
+  "uniqueId": "ed29a0fb-ccc2-47c1-a20f-920f9e43ba72",
+  "playerName": "birton",
+  "resets": {
+    "skyblock_world": 4
+  },
+  "locale": "",
+  "deaths": {
+    "skyblock_world": 2,
+    "skyblock_world_nether": 1
+  },
+  "pendingKicks": [],
+  "flagsDisplayMode": "EXPERT",
+  "metaData": {
+    "Border_state": {
+      "booleanValue": false
+    }
+  }
+}

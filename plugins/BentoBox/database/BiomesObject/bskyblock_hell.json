@@ -1,0 +1,18 @@
+{
+  "biome": "NETHER_WASTES",
+  "deployed": true,
+  "friendlyName": "&f&l Hell",
+  "description": [
+    "&7 Not a place where",
+    "&7 living should wander."
+  ],
+  "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: NETHERRACK\n",
+  "order": -1,
+  "environment": "NETHER",
+  "uniqueId": "bskyblock_hell",
+  "unlockLevel": 250,
+  "unlockCost": 0.0,
+  "cost": 1000.0,
+  "costMode": "STATIC",
+  "costIncrement": 0.0
+}

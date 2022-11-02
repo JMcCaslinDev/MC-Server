@@ -1,0 +1,17 @@
+MaxLevel: 3
+
+Levels:
+  CostToUpgradeToLevel2: 50000 #The cost to upgrade to level 2
+  CostToUpgradeToLevel3: 100000 #The cost to upgrade to level 2
+# ENCHANTED will enchant the minions item
+Settings:
+  SettingsAtLevel1: 3x3x3 #This means it will feed minions within a 3x3x3 radius
+  SettingsAtLevel2: 5x5x5
+  SettingsAtLevel3: 7x7x7 | ENCHANTED
+Messages:
+  MessageOnUpgradeTo2: '&aYou have upgraded the FeederMinion minion to level 2!'
+  MessageOnUpgradeTo3: '&aYou have upgraded the FeederMinion minion to level 3!'
+
+#Extra configuration:
+#Should the feeder minion be able to feed other feeders - this will mean they can feed forever and feed other minions forever
+FeedOtherFeederMinions: false

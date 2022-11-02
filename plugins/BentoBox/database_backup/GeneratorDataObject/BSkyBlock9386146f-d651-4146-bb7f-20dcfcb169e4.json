@@ -1,0 +1,23 @@
+{
+  "uniqueId": "BSkyBlock9386146f-d651-4146-bb7f-20dcfcb169e4",
+  "unlockedTiers": [
+    "bskyblock_iron_generator",
+    "bskyblock_gold_generator",
+    "bskyblock_redstone_generator",
+    "bskyblock_emerald_generator",
+    "bskyblock_diamond_generator",
+    "bskyblock_coal_generator"
+  ],
+  "purchasedTiers": [
+    "bskyblock_iron_generator",
+    "bskyblock_gold_generator",
+    "bskyblock_redstone_generator",
+    "bskyblock_emerald_generator",
+    "bskyblock_diamond_generator"
+  ],
+  "activeGeneratorList": [],
+  "ownerActiveGeneratorCount": 0,
+  "ownerWorkingRange": 0,
+  "islandActiveGeneratorCount": 1,
+  "islandWorkingRange": 0
+}

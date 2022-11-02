@@ -1,0 +1,59 @@
+{
+  "uniqueId": "bskyblock_terracottamaker",
+  "friendlyName": "&f&l Terracotta maker",
+  "deployed": true,
+  "description": [
+    "&7 Smelt some clay",
+    "&7 into terracotta"
+  ],
+  "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: TERRACOTTA\n",
+  "order": 4,
+  "challengeType": "INVENTORY_TYPE",
+  "environment": [],
+  "removeWhenCompleted": false,
+  "level": "bskyblock_elite",
+  "requirements": {
+    "class": "InventoryRequirements",
+    "parameters": {
+      "requiredItems": [
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: WHITE_TERRACOTTA\n  amount: 10\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: ORANGE_TERRACOTTA\n  amount: 10\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: MAGENTA_TERRACOTTA\n  amount: 10\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: LIGHT_BLUE_TERRACOTTA\n  amount: 10\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: YELLOW_TERRACOTTA\n  amount: 10\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: LIME_TERRACOTTA\n  amount: 10\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: PINK_TERRACOTTA\n  amount: 10\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: GRAY_TERRACOTTA\n  amount: 10\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: LIGHT_GRAY_TERRACOTTA\n  amount: 10\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: CYAN_TERRACOTTA\n  amount: 10\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: PURPLE_TERRACOTTA\n  amount: 10\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: BLUE_TERRACOTTA\n  amount: 10\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: BROWN_TERRACOTTA\n  amount: 10\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: GREEN_TERRACOTTA\n  amount: 10\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: RED_TERRACOTTA\n  amount: 10\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: BLACK_TERRACOTTA\n  amount: 10\n"
+      ],
+      "ignoreMetaData": [],
+      "takeItems": true,
+      "requiredPermissions": []
+    }
+  },
+  "rewardText": "&7 Exchange your terracotta \n&7 to a shulker box",
+  "rewardItems": [
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: SHULKER_BOX\n"
+  ],
+  "rewardExperience": 50,
+  "rewardMoney": 0.0,
+  "rewardCommands": [],
+  "ignoreRewardMetaData": [],
+  "repeatable": true,
+  "timeout": 0,
+  "repeatRewardText": "&7 Exchange your terracotta \n&7 to a shulker shell",
+  "maxTimes": 100,
+  "repeatExperienceReward": 5,
+  "repeatItemReward": [
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: SHULKER_SHELL\n"
+  ],
+  "repeatMoneyReward": 0.0,
+  "repeatRewardCommands": []
+}

@@ -1,0 +1,19 @@
+MaxLevel: 3
+
+Levels:
+  CostToUpgradeToLevel2: 30000 #The cost to upgrade to level 2
+  CostToUpgradeToLevel3: 70000
+# ENCHANTED will enchant the minions item
+Settings:
+  SettingsAtLevel1: 3x5x3 #For the Lumberjack minion, 2x2x2 means it will chop wood within 2 blocks either way of the minion (also 4x4x4)
+  SettingsAtLevel2: 4x7x4 | HANDITEM:IRON_AXE
+  SettingsAtLevel3: 6x10x6 | HANDITEM:DIAMOND_AXE | ENCHANTED
+Messages:
+  MessageOnUpgradeTo2: '&aYou have upgraded the Lumberjack Minion to level 2!'
+  MessageOnUpgradeTo3: '&aYou have upgraded the Lumberjack Minion to the highest level!'
+
+#If this is false, the items will be deleted
+DropItemsOnFloorIfChestIsFull: true
+
+#Should the entire tree be chopped, or just the radius specifed at its level? Set to true for the entire tree, set to false to only chop the specified radius
+IntelligentWoodChopping: true

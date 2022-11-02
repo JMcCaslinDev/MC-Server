@@ -1,0 +1,415 @@
+{
+  "uniqueId": "BSkyBlock_default",
+  "defaultPanel": true,
+  "gameMode": "BSkyBlock",
+  "permissionSuffix": "default",
+  "panelName": "&8Island >> Menu",
+  "panelButtons": [
+    {
+      "slot": 0,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [],
+      "command": "[user_command]",
+      "name": "&0&k."
+    },
+    {
+      "slot": 1,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [],
+      "command": "[user_command]",
+      "name": "&0&k."
+    },
+    {
+      "slot": 2,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [],
+      "command": "[user_command]",
+      "name": "&0&k."
+    },
+    {
+      "slot": 3,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [],
+      "command": "[user_command]",
+      "name": "&0&k."
+    },
+    {
+      "slot": 4,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [],
+      "command": "[user_command]",
+      "name": "&0&k."
+    },
+    {
+      "slot": 5,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [],
+      "command": "[user_command]",
+      "name": "&0&k."
+    },
+    {
+      "slot": 6,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [],
+      "command": "[user_command]",
+      "name": "&0&k."
+    },
+    {
+      "slot": 7,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [],
+      "command": "[user_command]",
+      "name": "&0&k."
+    },
+    {
+      "slot": 8,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [],
+      "command": "[user_command]",
+      "name": "&0&k."
+    },
+    {
+      "slot": 9,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [],
+      "command": "[user_command]",
+      "name": "&0&k."
+    },
+    {
+      "slot": 10,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [],
+      "command": "[user_command]",
+      "name": "&0&k."
+    },
+    {
+      "slot": 11,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [],
+      "command": "[user_command]",
+      "name": "&0&k."
+    },
+    {
+      "slot": 12,
+      "material": "MYCELIUM",
+      "descriptionLines": [
+        "Unlock Biomes"
+      ],
+      "command": "[label] biomes",
+      "name": "&b&lIsland Biome"
+    },
+    {
+      "slot": 13,
+      "material": "RED_BED",
+      "descriptionLines": [
+        "Teleport to your island home"
+      ],
+      "command": "[label] go",
+      "name": "&b&lIsland Home"
+    },
+    {
+      "slot": 14,
+      "material": "PLAYER_HEAD",
+      "descriptionLines": [
+        "view your island members"
+      ],
+      "command": "[label] team",
+      "name": "&b&lIsland Members"
+    },
+    {
+      "slot": 15,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [],
+      "command": "[user_command]",
+      "name": "&0&k."
+    },
+    {
+      "slot": 16,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [],
+      "command": "[user_command]",
+      "name": "&0&k."
+    },
+    {
+      "slot": 17,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [],
+      "command": "[user_command]",
+      "name": "&0&k."
+    },
+    {
+      "slot": 18,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [],
+      "command": "[user_command]",
+      "name": "&0&k."
+    },
+    {
+      "slot": 19,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [],
+      "command": "[user_command]",
+      "name": "&0&k."
+    },
+    {
+      "slot": 20,
+      "material": "END_PORTAL_FRAME",
+      "descriptionLines": [
+        "View your island warps"
+      ],
+      "command": "[label] warps",
+      "name": "&b&lIsland Warps"
+    },
+    {
+      "slot": 21,
+      "material": "DIAMOND",
+      "descriptionLines": [
+        "view your island upgrades"
+      ],
+      "command": "cp upgrades",
+      "name": "&b&lIsland Upgrades"
+    },
+    {
+      "slot": 22,
+      "material": "WRITABLE_BOOK",
+      "descriptionLines": [
+        "View your missions"
+      ],
+      "command": "[label] challenges",
+      "name": "&b&lIsland Missions"
+    },
+    {
+      "slot": 23,
+      "material": "CLOCK",
+      "descriptionLines": [
+        "view your island settings"
+      ],
+      "command": "[label] settings",
+      "name": "&b&lIsland Settings"
+    },
+    {
+      "slot": 24,
+      "material": "BEACON",
+      "descriptionLines": [
+        "Toggle your island border"
+      ],
+      "command": "island border",
+      "name": "&b&lIsland Border"
+    },
+    {
+      "slot": 25,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [],
+      "command": "[user_command]",
+      "name": "&0&k."
+    },
+    {
+      "slot": 26,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [],
+      "command": "[user_command]",
+      "name": "&0&k."
+    },
+    {
+      "slot": 27,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [],
+      "command": "[user_command]",
+      "name": "&0&k."
+    },
+    {
+      "slot": 28,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [],
+      "command": "[user_command]",
+      "name": "&0&k."
+    },
+    {
+      "slot": 29,
+      "material": "WRITABLE_BOOK",
+      "descriptionLines": [
+        "View your island logs"
+      ],
+      "command": "[label] logs",
+      "name": "&b&lIsland Logs"
+    },
+    {
+      "slot": 30,
+      "material": "GOLD_INGOT",
+      "descriptionLines": [
+        "View your island bank"
+      ],
+      "command": "cp island-bank",
+      "name": "&b&lIsland Bank"
+    },
+    {
+      "slot": 31,
+      "material": "NAME_TAG",
+      "descriptionLines": [
+        "View your island permissions"
+      ],
+      "command": "[label] permissions",
+      "name": "&b&lIsland Permissions"
+    },
+    {
+      "slot": 32,
+      "material": "EMERALD",
+      "descriptionLines": [
+        "View your islands trusted members"
+      ],
+      "command": "[label] members",
+      "name": "&b&lTrusted Members"
+    },
+    {
+      "slot": 33,
+      "material": "TNT",
+      "descriptionLines": [
+        "Reset your island",
+        "",
+        "&c(!) This will delete your island!"
+      ],
+      "command": "[label] reset",
+      "name": "&b&lIsland Reset"
+    },
+    {
+      "slot": 34,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [],
+      "command": "[user_command]",
+      "name": "&0&k."
+    },
+    {
+      "slot": 35,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [],
+      "command": "[user_command]",
+      "name": "&0&k."
+    },
+    {
+      "slot": 36,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [],
+      "command": "[user_command]",
+      "name": "&0&k."
+    },
+    {
+      "slot": 37,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [],
+      "command": "[user_command]",
+      "name": "&0&k."
+    },
+    {
+      "slot": 38,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [],
+      "command": "[user_command]",
+      "name": "&0&k."
+    },
+    {
+      "slot": 39,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [],
+      "command": "[user_command]",
+      "name": "&0&k."
+    },
+    {
+      "slot": 40,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [],
+      "command": "[user_command]",
+      "name": "&0&k."
+    },
+    {
+      "slot": 41,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [],
+      "command": "[user_command]",
+      "name": "&0&k."
+    },
+    {
+      "slot": 42,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [],
+      "command": "[user_command]",
+      "name": "&0&k."
+    },
+    {
+      "slot": 43,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [],
+      "command": "[user_command]",
+      "name": "&0&k."
+    },
+    {
+      "slot": 44,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [],
+      "command": "[user_command]",
+      "name": "&0&k."
+    },
+    {
+      "slot": 45,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [],
+      "command": "[user_command]",
+      "name": "&0&k."
+    },
+    {
+      "slot": 46,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [],
+      "command": "[user_command]",
+      "name": "&0&k."
+    },
+    {
+      "slot": 47,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [],
+      "command": "[user_command]",
+      "name": "&0&k."
+    },
+    {
+      "slot": 48,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [],
+      "command": "[user_command]",
+      "name": "&0&k."
+    },
+    {
+      "slot": 49,
+      "material": "BARRIER",
+      "descriptionLines": [],
+      "command": "[user_command]",
+      "name": "&c&lClose Menu"
+    },
+    {
+      "slot": 50,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [],
+      "command": "[user_command]",
+      "name": "&0&k."
+    },
+    {
+      "slot": 51,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [],
+      "command": "[user_command]",
+      "name": "&0&k."
+    },
+    {
+      "slot": 52,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [],
+      "command": "[user_command]",
+      "name": "&0&k."
+    },
+    {
+      "slot": 53,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [],
+      "command": "[user_command]",
+      "name": "&0&k."
+    }
+  ]
+}

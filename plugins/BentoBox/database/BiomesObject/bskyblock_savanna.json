@@ -1,0 +1,23 @@
+{
+  "biome": "SAVANNA_PLATEAU",
+  "deployed": true,
+  "friendlyName": "&f&l Savanna",
+  "description": [
+    "&7 Warm and almost dry",
+    "&7 place with rapid rains.",
+    "&7 Only chach trees can",
+    "&7 survive there."
+  ],
+  "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: ACACIA_SAPLING\n",
+  "order": -1,
+  "environment": "NORMAL",
+  "uniqueId": "bskyblock_savanna",
+  "unlockLevel": 50,
+  "unlockCost": 0.0,
+  "cost": 200.0,
+  "itemCost": [
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: ACACIA_SAPLING\n  amount: 12\n"
+  ],
+  "costMode": "STATIC",
+  "costIncrement": 0.0
+}

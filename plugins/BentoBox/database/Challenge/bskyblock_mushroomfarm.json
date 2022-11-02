@@ -1,0 +1,45 @@
+{
+  "uniqueId": "bskyblock_mushroomfarm",
+  "friendlyName": "&f&l Mushroom farm",
+  "deployed": true,
+  "description": [
+    "&7 Create a simple",
+    "&7 mushroom farm"
+  ],
+  "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: BROWN_MUSHROOM\n",
+  "order": 2,
+  "challengeType": "ISLAND_TYPE",
+  "environment": [],
+  "removeWhenCompleted": true,
+  "level": "bskyblock_novice",
+  "requirements": {
+    "class": "IslandRequirements",
+    "parameters": {
+      "requiredBlocks": {
+        "RED_MUSHROOM": 5,
+        "BROWN_MUSHROOM": 5
+      },
+      "removeBlocks": false,
+      "requiredEntities": {},
+      "removeEntities": false,
+      "searchRadius": 10,
+      "requiredPermissions": []
+    }
+  },
+  "rewardText": "&7 This mycelium will \n&7 help you with collecting \n&7 mushrooms faster.",
+  "rewardItems": [
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: MYCELIUM\n"
+  ],
+  "rewardExperience": 50,
+  "rewardMoney": 0.0,
+  "rewardCommands": [],
+  "ignoreRewardMetaData": [],
+  "repeatable": false,
+  "timeout": 0,
+  "repeatRewardText": "",
+  "maxTimes": 0,
+  "repeatExperienceReward": 0,
+  "repeatItemReward": [],
+  "repeatMoneyReward": 0.0,
+  "repeatRewardCommands": []
+}

@@ -1,0 +1,34 @@
+{
+  "uniqueId": "bskyblock_diamond_generator",
+  "friendlyName": "&r&lDiamond Generator",
+  "description": [
+    "&7 At last, now diamonds",
+    "&7 are generated."
+  ],
+  "generatorIcon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: DIAMOND_ORE\n",
+  "lockedIcon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: BARRIER\n",
+  "generatorType": "COBBLESTONE",
+  "defaultGenerator": false,
+  "priority": 6,
+  "requiredMinIslandLevel": 10000,
+  "requiredBiomes": [],
+  "requiredPermissions": [],
+  "generatorTierCost": 5.0,
+  "activationCost": 0.0,
+  "deployed": true,
+  "blockChanceMap": {
+    "50.0": "STONE",
+    "100.0": "COAL_ORE",
+    "150.0": "IRON_ORE",
+    "200.0": "GOLD_ORE",
+    "250.0": "REDSTONE_ORE",
+    "300.0": "EMERALD_ORE",
+    "350.0": "DIAMOND_ORE"
+  },
+  "treasureChanceMap": {},
+  "treasureItemChanceMap": {
+    "1.0": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: AMETHYST_SHARD\n"
+  },
+  "treasureChance": 0.05000000074505806,
+  "maxTreasureAmount": 1
+}

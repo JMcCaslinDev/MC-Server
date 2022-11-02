@@ -1,0 +1,42 @@
+Hooks:
+  UseWorldGuard: false
+  UseVault: true
+  UseASkyBlock: false # A bunch of different skyblocks
+  UseIslandWorld: false
+  UseTowny: false
+  UseAcidIsland: false
+  UseFactions: false
+  UseFactionsX: false
+  UseResidence: false
+  UsePlotSquared: false
+  UseLands: false
+  UseGriefPrevention: false
+  RedProtect: false
+  SuperiorSkyblock2: false
+  FabledSkyBlock: false
+  BentoBox: true # BSkyblock
+  PreciousStones: false
+  CoreProtect: false # Log place/delete of minions to CoreProtect, only latest version supported
+  IridiumSkyblock: false
+  ItemAdder: false
+  UseGenCubes: false
+  UseAdvancedChests: false
+  UseKingdomsX: false
+  UseGriefDefender: false
+  UseProtectionStones: false
+  # Sell Hooks - For the Seller minion, which would you like to use :P?
+  UseShopGUIPlus: false
+  UseEssentials: true
+  UseCMI: false
+  UseGUIShop: false
+  UsezShop: false
+  UseDynamicShop: false
+  UseInventoryShop: false
+  UseEconomyShopGUI: false
+  UseOneStopShop: false
+  # Stack hooks
+  UseWildStacker: false
+  UseUltimateStacker: false
+  useMaxStacker: true
+  UseZItemStacker: false
+  UseRoseStacker: true

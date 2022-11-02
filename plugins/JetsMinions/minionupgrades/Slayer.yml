@@ -1,0 +1,24 @@
+MaxLevel: 3
+
+#Would you like minions to receive a reduced amount of EXP when killing mobs?
+NerfExpGiven: false
+
+Levels:
+  CostToUpgradeToLevel2: 5000 #The cost to upgrade to level 2
+  CostToUpgradeToLevel3: 10000
+Settings:
+  SettingsAtLevel1: 3x3x3 #For the Slayer minion, 3x3x3 means it will kill mobs within a 3x3x3 radius
+  SettingsAtLevel2: 5x5x5 | HANDITEM:IRON_SWORD | LOOTING_1 #As of Minions version 2.0 this format must be '<Number>x<Number>x<Number>'
+  SettingsAtLevel3: 7x7x7 | HANDITEM:DIAMOND_SWORD | ENCHANTED | LOOTING_2 | MAXHEALTH:30 | SMELT  #LOOTING_<NUMBER> can also be used MAXHEALTH:30 will raise it's max health
+Messages:
+  MessageOnUpgradeTo2: '&aYou have upgraded the Slayer Minion to level 2!'
+  MessageOnUpgradeTo3: '&aYou have upgraded the Slayer Minion to the highest level!'
+
+#If this is false, the items will be deleted
+DropItemsOnFloorIfChestIsFull: true
+
+#The amount of EXP given to the minion when a mob is killed, add other mobs if you wish, by default most mobs have a hard coded exp value
+#Must be a valid entitiy from here https://hub.spigotmc.org/javadocs/spigot/org/bukkit/entity/EntityType.html
+MobExpTable:
+  SKELETON: 5
+  ZOMBIE: 5

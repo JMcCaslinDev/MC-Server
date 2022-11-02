@@ -1,0 +1,417 @@
+{
+  "uniqueId": "BSkyBlock_upgrades",
+  "defaultPanel": false,
+  "gameMode": "BSkyBlock",
+  "permissionSuffix": "upgrades",
+  "panelName": "&1Island Upgrades",
+  "panelButtons": [
+    {
+      "slot": 0,
+      "material": "BLUE_STAINED_GLASS_PANE",
+      "descriptionLines": [
+        ""
+      ],
+      "command": "",
+      "name": ""
+    },
+    {
+      "slot": 1,
+      "material": "RED_STAINED_GLASS_PANE",
+      "descriptionLines": [
+        ""
+      ],
+      "command": "",
+      "name": ""
+    },
+    {
+      "slot": 2,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [
+        ""
+      ],
+      "command": "",
+      "name": ""
+    },
+    {
+      "slot": 3,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [
+        ""
+      ],
+      "command": "",
+      "name": ""
+    },
+    {
+      "slot": 4,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [
+        ""
+      ],
+      "command": "",
+      "name": ""
+    },
+    {
+      "slot": 5,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [
+        ""
+      ],
+      "command": "",
+      "name": ""
+    },
+    {
+      "slot": 6,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [
+        ""
+      ],
+      "command": "",
+      "name": ""
+    },
+    {
+      "slot": 7,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [
+        ""
+      ],
+      "command": "",
+      "name": ""
+    },
+    {
+      "slot": 8,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [
+        ""
+      ],
+      "command": "",
+      "name": ""
+    },
+    {
+      "slot": 9,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [
+        ""
+      ],
+      "command": "",
+      "name": ""
+    },
+    {
+      "slot": 10,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [
+        ""
+      ],
+      "command": "",
+      "name": ""
+    },
+    {
+      "slot": 11,
+      "material": "DIAMOND_ORE",
+      "descriptionLines": [
+        "Island Oregen Menu"
+      ],
+      "command": "[label] oregen",
+      "name": "Island OreGen"
+    },
+    {
+      "slot": 12,
+      "material": "OAK_SAPLING",
+      "descriptionLines": [
+        "Biomes"
+      ],
+      "command": "[label] biomes",
+      "name": "&b&lIsland Biome"
+    },
+    {
+      "slot": 13,
+      "material": "WHITE_BED",
+      "descriptionLines": [
+        "Teleport to your island home"
+      ],
+      "command": "[label] go",
+      "name": "&b&lIsland Home"
+    },
+    {
+      "slot": 14,
+      "material": "PLAYER_HEAD",
+      "descriptionLines": [
+        "view your island members"
+      ],
+      "command": "[label] team",
+      "name": "&b&lIsland Members"
+    },
+    {
+      "slot": 15,
+      "material": "LADDER",
+      "descriptionLines": [
+        "Calculate Island level",
+        "%Level_skyblock_island_level%"
+      ],
+      "command": "[label] level",
+      "name": "&b&lIsland Level"
+    },
+    {
+      "slot": 16,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [
+        ""
+      ],
+      "command": "",
+      "name": ""
+    },
+    {
+      "slot": 17,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [
+        ""
+      ],
+      "command": "",
+      "name": ""
+    },
+    {
+      "slot": 18,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [
+        ""
+      ],
+      "command": "",
+      "name": ""
+    },
+    {
+      "slot": 19,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [
+        ""
+      ],
+      "command": "",
+      "name": ""
+    },
+    {
+      "slot": 20,
+      "material": "END_PORTAL_FRAME",
+      "descriptionLines": [
+        "View your island warps"
+      ],
+      "command": "[label] warps",
+      "name": "&b&lIsland Warps"
+    },
+    {
+      "slot": 21,
+      "material": "DIAMOND",
+      "descriptionLines": [
+        "view your island upgrades"
+      ],
+      "command": "[label] upgrades",
+      "name": "&b&lIsland Upgrades"
+    },
+    {
+      "slot": 22,
+      "material": "WRITABLE_BOOK",
+      "descriptionLines": [
+        "View your missions"
+      ],
+      "command": "[label] challenges",
+      "name": "&b&lIsland Missions"
+    },
+    {
+      "slot": 23,
+      "material": "CLOCK",
+      "descriptionLines": [
+        "view your island settings"
+      ],
+      "command": "[label] settings",
+      "name": "&b&lIsland Settings"
+    },
+    {
+      "slot": 24,
+      "material": "BEACON",
+      "descriptionLines": [
+        "Toggle your island border"
+      ],
+      "command": "island border",
+      "name": "&b&lIsland Border"
+    },
+    {
+      "slot": 25,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [
+        ""
+      ],
+      "command": "",
+      "name": ""
+    },
+    {
+      "slot": 26,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [
+        ""
+      ],
+      "command": "",
+      "name": ""
+    },
+    {
+      "slot": 27,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [
+        ""
+      ],
+      "command": "",
+      "name": ""
+    },
+    {
+      "slot": 28,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [
+        ""
+      ],
+      "command": "",
+      "name": ""
+    },
+    {
+      "slot": 29,
+      "material": "WRITABLE_BOOK",
+      "descriptionLines": [
+        "View your island logs"
+      ],
+      "command": "[label] logs",
+      "name": "&b&lIsland Logs"
+    },
+    {
+      "slot": 30,
+      "material": "GOLD_INGOT",
+      "descriptionLines": [
+        "View your island bank"
+      ],
+      "command": "[label] bank",
+      "name": "&b&lIsland Bank"
+    },
+    {
+      "slot": 31,
+      "material": "NAME_TAG",
+      "descriptionLines": [
+        "View your island permissions"
+      ],
+      "command": "[label] permissions",
+      "name": "&b&lIsland Permissions"
+    },
+    {
+      "slot": 32,
+      "material": "EMERALD",
+      "descriptionLines": [
+        "View your islands trusted members"
+      ],
+      "command": "[label] members",
+      "name": "&b&lTrusted Members"
+    },
+    {
+      "slot": 33,
+      "material": "GRASS_BLOCK",
+      "descriptionLines": [
+        "Reset your island",
+        "",
+        "&c(!) This will delete your island!"
+      ],
+      "command": "[label] reset",
+      "name": "&b&lIsland Reset"
+    },
+    {
+      "slot": 34,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [
+        ""
+      ],
+      "command": "",
+      "name": ""
+    },
+    {
+      "slot": 35,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [
+        ""
+      ],
+      "command": "",
+      "name": ""
+    },
+    {
+      "slot": 36,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [
+        ""
+      ],
+      "command": "",
+      "name": ""
+    },
+    {
+      "slot": 37,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [
+        ""
+      ],
+      "command": "",
+      "name": ""
+    },
+    {
+      "slot": 38,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [
+        ""
+      ],
+      "command": "",
+      "name": ""
+    },
+    {
+      "slot": 39,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [
+        ""
+      ],
+      "command": "",
+      "name": ""
+    },
+    {
+      "slot": 40,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [
+        ""
+      ],
+      "command": "",
+      "name": ""
+    },
+    {
+      "slot": 41,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [
+        ""
+      ],
+      "command": "",
+      "name": ""
+    },
+    {
+      "slot": 42,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [
+        ""
+      ],
+      "command": "",
+      "name": ""
+    },
+    {
+      "slot": 43,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [
+        ""
+      ],
+      "command": "",
+      "name": ""
+    },
+    {
+      "slot": 44,
+      "material": "BLACK_STAINED_GLASS_PANE",
+      "descriptionLines": [
+        ""
+      ],
+      "command": "",
+      "name": ""
+    }
+  ]
+}

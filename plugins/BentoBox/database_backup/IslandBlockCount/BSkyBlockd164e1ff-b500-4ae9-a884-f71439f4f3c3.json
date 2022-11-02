@@ -1,0 +1,26 @@
+{
+  "uniqueId": "BSkyBlockd164e1ff-b500-4ae9-a884-f71439f4f3c3",
+  "gameMode": "BSkyBlock",
+  "blockCounts": {
+    "DIRT": 8,
+    "GRASS_BLOCK": 49,
+    "COBBLESTONE": 3,
+    "IRON_DOOR": 7,
+    "OAK_TRAPDOOR": 9,
+    "OAK_DOOR": 1,
+    "STONE_BUTTON": 1,
+    "CALCITE": 611,
+    "DIAMOND_BLOCK": 499,
+    "OAK_STAIRS": 1,
+    "CRIMSON_DOOR": 7,
+    "DARK_OAK_SIGN": 1,
+    "STONE": 2,
+    "LIGHT_BLUE_STAINED_GLASS": 9
+  },
+  "blockLimits": {},
+  "entityLimits": {},
+  "entityGroupLimits": {},
+  "blockLimitsOffset": {},
+  "entityLimitsOffset": {},
+  "entityGroupLimitsOffset": {}
+}

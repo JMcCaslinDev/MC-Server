@@ -1,0 +1,31 @@
+{
+  "uniqueId": "bskyblock_competent",
+  "friendlyName": "&f&l Competent",
+  "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: YELLOW_CONCRETE\n",
+  "world": "skyblock_world",
+  "order": 2,
+  "waiverAmount": 2,
+  "unlockMessage": "&7 Congratulations - \n&7 you unlocked the \n&7 &dCompetent level!",
+  "rewardText": "&7 Small reward for \n&7 completing all \n&7 Competent challenges.",
+  "rewardItems": [
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: DIRT\n  amount: 16\n"
+  ],
+  "rewardExperience": 1395,
+  "rewardMoney": 500.0,
+  "rewardCommands": [
+    "effect give [player] strength 600"
+  ],
+  "challenges": [
+    "bskyblock_animalfarm",
+    "bskyblock_potatofarm",
+    "bskyblock_carrotfarm",
+    "bskyblock_grinder",
+    "bskyblock_fisherman",
+    "bskyblock_mobfarm",
+    "bskyblock_visitnether",
+    "bskyblock_angler",
+    "bskyblock_beetrootfarm",
+    "bskyblock_competent"
+  ],
+  "ignoreRewardMetaData": []
+}

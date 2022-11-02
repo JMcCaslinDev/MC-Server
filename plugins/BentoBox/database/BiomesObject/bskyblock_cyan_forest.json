@@ -1,0 +1,24 @@
+{
+  "biome": "WARPED_FOREST",
+  "deployed": true,
+  "friendlyName": "&f&l Cyan Forest",
+  "description": [
+    "&7 Safe place in unsafe",
+    "&7 world."
+  ],
+  "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: WARPED_FUNGUS\n",
+  "order": -1,
+  "environment": "NETHER",
+  "uniqueId": "bskyblock_cyan_forest",
+  "unlockLevel": 250,
+  "unlockCost": 0.0,
+  "unlockItems": [
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: NETHERRACK\n  amount: 64\n"
+  ],
+  "cost": 1000.0,
+  "itemCost": [
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: WARPED_FUNGUS\n  amount: 3\n"
+  ],
+  "costMode": "STATIC",
+  "costIncrement": 0.0
+}

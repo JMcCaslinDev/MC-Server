@@ -1,0 +1,16 @@
+{
+  "biome": "PLAINS",
+  "deployed": true,
+  "friendlyName": "&f&l Plains",
+  "description": [
+    "&7 Flat but geen, the best",
+    "&7 starting biome."
+  ],
+  "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: GRASS_BLOCK\n",
+  "order": -1,
+  "environment": "NORMAL",
+  "uniqueId": "bskyblock_fields",
+  "cost": 100.0,
+  "costMode": "STATIC",
+  "costIncrement": 0.0
+}

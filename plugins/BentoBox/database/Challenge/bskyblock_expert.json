@@ -1,0 +1,42 @@
+{
+  "uniqueId": "bskyblock_expert",
+  "friendlyName": "&f&l Expert Island",
+  "deployed": true,
+  "description": [
+    "&7 Reach 100th level of",
+    "&7 island."
+  ],
+  "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: GREEN_CONCRETE\n",
+  "order": 6,
+  "challengeType": "OTHER_TYPE",
+  "environment": [],
+  "removeWhenCompleted": false,
+  "level": "bskyblock_expert",
+  "requirements": {
+    "class": "OtherRequirements",
+    "parameters": {
+      "requiredExperience": 0,
+      "takeExperience": false,
+      "requiredMoney": 0.0,
+      "takeMoney": false,
+      "requiredIslandLevel": 100,
+      "requiredPermissions": []
+    }
+  },
+  "rewardText": "&7 Get some extra \n&7 diamonds",
+  "rewardItems": [
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: DIAMOND\n  amount: 10\n"
+  ],
+  "rewardExperience": 50,
+  "rewardMoney": 0.0,
+  "rewardCommands": [],
+  "ignoreRewardMetaData": [],
+  "repeatable": false,
+  "timeout": 0,
+  "repeatRewardText": "",
+  "maxTimes": 0,
+  "repeatExperienceReward": 0,
+  "repeatItemReward": [],
+  "repeatMoneyReward": 0.0,
+  "repeatRewardCommands": []
+}

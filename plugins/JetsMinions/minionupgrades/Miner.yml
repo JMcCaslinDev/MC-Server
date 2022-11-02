@@ -1,0 +1,22 @@
+MaxLevel: 3 #The minion can go to whatever level you want, just make sure you do the settings below correct
+#MaxLevel: 4
+
+Levels:
+  CostToUpgradeToLevel2: 10000 #The cost to upgrade to level 2
+  CostToUpgradeToLevel3: 20000 #The cost to upgrade to level 3
+  #CostToUpgradeToLevel4: 40000 #The cost to upgrade to level 3
+Settings:
+  SettingsAtLevel1: 1                                                                         #1 = mine 1 block infront, putting higher number will mean thats the number of blocks mined
+  SettingsAtLevel2: SMELT | ENCHANTED | HANDITEM:IRON_PICKAXE                     #SMELT = Ores will automatically be smelted, ENHANTED = minions item will be enchanted
+  SettingsAtLevel3: SMELT | ENCHANTED | HANDITEM:DIAMOND_PICKAXE | MAXHEALTH:30   #MAXHEALTH = changes it's max health to 30
+#  SettingsAtLevel4: SMELT | 2 | ENCHANTED                           # Smelt and mine 2 blocks infront
+Messages:
+  MessageOnUpgradeTo2: '&aYou have upgraded the Miner minion to level 2!'
+  MessageOnUpgradeTo3: '&aYou have upgraded the Miner minion to level 3!'
+#  MessageOnUpgradeTo4: '&aYou have upgraded the Miner minion to level 4!'
+
+#If this is false, the items will be deleted
+DropItemsOnFloorIfChestIsFull: true
+
+#For those using BentoBox, would you like the centre block to be mined?
+BentoBoxMineCentreBlock: false

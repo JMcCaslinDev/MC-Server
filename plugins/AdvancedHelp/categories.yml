@@ -1,0 +1,5 @@
+categories:
+  example:
+    default: true
+    '1':
+    - '&bCustomize categories anyway you would like!'

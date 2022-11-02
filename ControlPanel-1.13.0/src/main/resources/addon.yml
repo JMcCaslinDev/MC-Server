@@ -1,0 +1,34 @@
+# Name of your addon that wil lbe used in displaying it.
+name: ControlPanel
+# Addon main class. This class should extend Addon.class
+main: world.bentobox.controlpanel.ControlPanelAddon
+# Version of your addon. Can use maven variables.
+version: ${version}${build.number}
+# Allow to send metric about this addon usage.
+metrics: true
+# GitHub version check. Will work only for GitHub.
+repository: 'BentoBoxWorld/ControlPanel'
+# Icon of addon that will be displayed in Addon Manager.
+# Must use Material.values() with uppercase.
+icon: 'COMMAND_BLOCK'
+# Minimum BentoBox API version
+api-version: 1.14
+
+# List of addon authors.
+authors:
+  - BONNe
+
+# Soft dependencies of current addon.
+softdepend: AcidIsland, BSkyBlock, CaveBlock, SkyGrid, AOneBlock
+
+# List of addon permissions
+permissions:
+  '[gamemode].controlpanel':
+    description: Allows access to control panel command
+    default: true
+  '[gamemode].controlpanel.admin':
+    description: Allows access to control panel admin command
+    default: op
+  '[gamemode].controlpanel.panel.default':
+    description: Allows access to default control panel layout
+    default: true

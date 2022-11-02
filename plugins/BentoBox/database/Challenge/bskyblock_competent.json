@@ -1,0 +1,42 @@
+{
+  "uniqueId": "bskyblock_competent",
+  "friendlyName": "&f&l Competent Island",
+  "deployed": true,
+  "description": [
+    "&7 Reach 20th level",
+    "&7 of island."
+  ],
+  "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: YELLOW_CONCRETE\n",
+  "order": 5,
+  "challengeType": "OTHER_TYPE",
+  "environment": [],
+  "removeWhenCompleted": false,
+  "level": "bskyblock_competent",
+  "requirements": {
+    "class": "OtherRequirements",
+    "parameters": {
+      "requiredExperience": 0,
+      "takeExperience": false,
+      "requiredMoney": 0.0,
+      "takeMoney": false,
+      "requiredIslandLevel": 20,
+      "requiredPermissions": []
+    }
+  },
+  "rewardText": "&7 Now you can create \n&7 a nether portal",
+  "rewardItems": [
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: OBSIDIAN\n  amount: 10\n"
+  ],
+  "rewardExperience": 50,
+  "rewardMoney": 0.0,
+  "rewardCommands": [],
+  "ignoreRewardMetaData": [],
+  "repeatable": false,
+  "timeout": 0,
+  "repeatRewardText": "",
+  "maxTimes": 0,
+  "repeatExperienceReward": 0,
+  "repeatItemReward": [],
+  "repeatMoneyReward": 0.0,
+  "repeatRewardCommands": []
+}

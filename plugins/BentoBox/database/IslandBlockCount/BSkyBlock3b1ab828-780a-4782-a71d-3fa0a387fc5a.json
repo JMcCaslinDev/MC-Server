@@ -1,0 +1,18 @@
+{
+  "uniqueId": "BSkyBlock3b1ab828-780a-4782-a71d-3fa0a387fc5a",
+  "gameMode": "BSkyBlock",
+  "blockCounts": {
+    "TORCH": 19,
+    "DIRT": 787,
+    "OAK_SAPLING": 41,
+    "STONE": 28,
+    "GRASS_BLOCK": 15,
+    "CHEST": 1
+  },
+  "blockLimits": {},
+  "entityLimits": {},
+  "entityGroupLimits": {},
+  "blockLimitsOffset": {},
+  "entityLimitsOffset": {},
+  "entityGroupLimitsOffset": {}
+}

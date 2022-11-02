@@ -1,0 +1,52 @@
+{
+  "uniqueId": "bskyblock_goldage",
+  "friendlyName": "&f&l Gold Age",
+  "deployed": true,
+  "description": [
+    "&7 Craft gold tools",
+    "&7 and armor"
+  ],
+  "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: GOLD_INGOT\n",
+  "order": 4,
+  "challengeType": "INVENTORY_TYPE",
+  "environment": [],
+  "removeWhenCompleted": false,
+  "level": "bskyblock_advanced",
+  "requirements": {
+    "class": "InventoryRequirements",
+    "parameters": {
+      "requiredItems": [
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: GOLDEN_HOE\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: GOLDEN_SHOVEL\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: GOLDEN_PICKAXE\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: GOLDEN_BOOTS\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: GOLDEN_HELMET\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: GOLDEN_CHESTPLATE\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: GOLDEN_SWORD\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: GOLDEN_LEGGINGS\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: GOLDEN_AXE\n"
+      ],
+      "ignoreMetaData": [],
+      "takeItems": true,
+      "requiredPermissions": []
+    }
+  },
+  "rewardText": "&7 Exchange your gold \n&7 stuff to some diamond",
+  "rewardItems": [
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: DIAMOND\n  amount: 16\n"
+  ],
+  "rewardExperience": 50,
+  "rewardMoney": 0.0,
+  "rewardCommands": [],
+  "ignoreRewardMetaData": [],
+  "repeatable": true,
+  "timeout": 0,
+  "repeatRewardText": "&7 Exchange your gold \n&7 stuff to diamond",
+  "maxTimes": 100,
+  "repeatExperienceReward": 5,
+  "repeatItemReward": [
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: DIAMOND\n"
+  ],
+  "repeatMoneyReward": 0.0,
+  "repeatRewardCommands": []
+}

@@ -1,0 +1,96 @@
+panels:
+  upgrades:
+    perm: default
+    rows: 6
+    title: '&8Island >> Upgrades'
+    empty: BLACK_STAINED_GLASS_PANE
+    item:
+      
+      '12':
+        material: GRASS_BLOCK
+        stack: 1
+        name: ''
+      '13':
+        material: ARMOR_STAND
+        stack: 1
+        name: ''
+      '14':
+        material: HOPPER
+        stack: 1
+        name: ''
+      '15':
+        material: LADDER
+        stack: 1
+        name: '&b&lIsland Level %Level_bskyblock_island_level%'
+        lore:
+          - 'Update your island level'
+        commands: 
+          - 'bskyblock:island level'
+      '19':
+        material: END_PORTAL_FRAME
+        stack: 1
+        name: ''
+      '20':
+        name: '&b&lIsland OreGen'
+        material: DIAMOND_ORE
+        stack: 1
+        lore:
+        - 'Island Oregen Menu'
+        commands: 
+        - bskyblock:island oregen
+      '21':
+        material: WHEAT_SEEDS
+        stack: 1
+        name: ''
+      '22':
+        material: ROTTEN_FLESH
+        stack: 1
+        name: ''
+      '23':
+        material: FIRE_CHARGE
+        stack: 1
+        name: ''
+      '24':
+        material: BUBBLE_CORAL_FAN
+        stack: 1
+        name: ''
+      '25':
+        material: CHEST
+        stack: 1
+        name: ''
+      '28':
+        material: CREEPER_HEAD
+        stack: 1
+        name: ''
+      '29':
+        material: GLOWSTONE_DUST
+        stack: 1
+        name: ''
+      '30':
+        material: REDSTONE
+        stack: 1
+        name: ''
+      '31':
+        material: BEACON
+        stack: 1
+        name: ''
+      '32':
+        material: RED_NETHER_BRICKS
+        stack: 1
+        name: ''
+      '33':
+        material: DIRT
+        stack: 1
+        name: ''
+      '34':
+        material: EGG
+        stack: 1
+        name: ''
+      
+      '49':
+        material: BARRIER
+        stack: 1
+        name: '&4&lBACK'
+        commands:
+        - island
+      

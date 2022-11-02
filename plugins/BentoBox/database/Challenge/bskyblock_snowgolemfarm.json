@@ -1,0 +1,47 @@
+{
+  "uniqueId": "bskyblock_snowgolemfarm",
+  "friendlyName": "&f&l Snow farm",
+  "deployed": true,
+  "description": [
+    "&7 Create a snow Golem"
+  ],
+  "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: SNOW_BLOCK\n",
+  "order": 1,
+  "challengeType": "ISLAND_TYPE",
+  "environment": [],
+  "removeWhenCompleted": true,
+  "level": "bskyblock_expert",
+  "requirements": {
+    "class": "IslandRequirements",
+    "parameters": {
+      "requiredBlocks": {
+        "SNOW": 1
+      },
+      "removeBlocks": false,
+      "requiredEntities": {
+        "SNOWMAN": 1
+      },
+      "removeEntities": false,
+      "searchRadius": 10,
+      "requiredPermissions": []
+    }
+  },
+  "rewardText": "&7 Some mending books \n&7 and lapis ore",
+  "rewardItems": [
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: ENCHANTED_BOOK\n  meta:\n    ==: ItemMeta\n    meta-type: ENCHANTED\n    stored-enchants:\n      MENDING: 1\n",
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: ENCHANTED_BOOK\n  meta:\n    ==: ItemMeta\n    meta-type: ENCHANTED\n    stored-enchants:\n      MENDING: 1\n",
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: LAPIS_ORE\n  amount: 16\n"
+  ],
+  "rewardExperience": 50,
+  "rewardMoney": 0.0,
+  "rewardCommands": [],
+  "ignoreRewardMetaData": [],
+  "repeatable": false,
+  "timeout": 0,
+  "repeatRewardText": "",
+  "maxTimes": 0,
+  "repeatExperienceReward": 0,
+  "repeatItemReward": [],
+  "repeatMoneyReward": 0.0,
+  "repeatRewardCommands": []
+}

@@ -1,0 +1,296 @@
+Guide-Format:
+  Material: MONSTER_EGG
+  Boss-Material: EYE_OF_ENDER
+  Color: '&c'
+  Description:
+  - '&a- &6Spawn cost: &b%spawn_cost%'
+  - '&a- &6Health: &b%health%'
+  - '&a- &6Damage: &b%damage%'
+  - '&a- &6Wave unlocked: &b%wave_unlocked%'
+  - '&a- &6Speed: &b%speed%'
+  - '&a- &6Coins on kill: &b%coins_on_kill%'
+  - '&a- &6Exp on kill/spawn: &b%exp_on_kill%'
+Enemies:
+  RED_ZOMBIE:
+    Entity: ZOMBIE
+    Cost: -1
+    Coins-On-Kill: 2
+    Exp-On-Kill: 1
+    Health: 10
+    Damage: 1
+    Wave-Unlocked: 1
+    Speed: Normal
+    Equipment:
+      Helmet: 'LEATHER_HELMET : dye:red'
+      Chestplate: 'LEATHER_CHESTPLATE : dye:red'
+      Leggings: 'LEATHER_LEGGINGS : dye:red'
+      Boots: 'LEATHER_BOOTS : dye:red'
+      Hand: AIR
+  BLUE_ZOMBIE:
+    Entity: ZOMBIE
+    Cost: 3
+    Coins-On-Kill: 3
+    Exp-On-Kill: 2
+    Health: 20
+    Damage: 1
+    Wave-Unlocked: 2
+    Speed: Normal
+    Equipment:
+      Helmet: 'LEATHER_HELMET : dye:blue'
+      Chestplate: 'LEATHER_CHESTPLATE : dye:blue'
+      Leggings: 'LEATHER_LEGGINGS : dye:blue'
+      Boots: 'LEATHER_BOOTS : dye:blue'
+      Hand: AIR
+  GREEN_ZOMBIE:
+    Entity: ZOMBIE
+    Cost: 4
+    Coins-On-Kill: 4
+    Exp-On-Kill: 3
+    Health: 40
+    Damage: 2
+    Wave-Unlocked: 4
+    Speed: Normal
+    Equipment:
+      Helmet: 'LEATHER_HELMET : dye:green'
+      Chestplate: 'LEATHER_CHESTPLATE : dye:green'
+      Leggings: 'LEATHER_LEGGINGS : dye:green'
+      Boots: 'LEATHER_BOOTS : dye:green'
+      Hand: AIR
+  PURPLE_ZOMBIE:
+    Entity: ZOMBIE
+    Cost: 5
+    Coins-On-Kill: 5
+    Exp-On-Kill: 4
+    Health: 60
+    Damage: 2
+    Wave-Unlocked: 6
+    Speed: Normal
+    Equipment:
+      Helmet: 'LEATHER_HELMET : dye:purple'
+      Chestplate: 'LEATHER_CHESTPLATE : dye:purple'
+      Leggings: 'LEATHER_LEGGINGS : dye:purple'
+      Boots: 'LEATHER_BOOTS : dye:purple'
+      Hand: AIR
+  ORANGE_ZOMBIE:
+    Entity: ZOMBIE
+    Cost: 6
+    Coins-On-Kill: 6
+    Exp-On-Kill: 5
+    Health: 70
+    Damage: 3
+    Wave-Unlocked: 8
+    Speed: Normal
+    Equipment:
+      Helmet: 'LEATHER_HELMET : dye:orange'
+      Chestplate: 'LEATHER_CHESTPLATE : dye:orange'
+      Leggings: 'LEATHER_LEGGINGS : dye:orange'
+      Boots: 'LEATHER_BOOTS : dye:orange'
+      Hand: AIR
+  YELLOW_ZOMBIE:
+    Entity: ZOMBIE
+    Cost: 7
+    Coins-On-Kill: 7
+    Exp-On-Kill: 6
+    Health: 90
+    Damage: 3
+    Wave-Unlocked: 10
+    Speed: Normal
+    Equipment:
+      Helmet: 'LEATHER_HELMET : dye:yellow'
+      Chestplate: 'LEATHER_CHESTPLATE : dye:yellow'
+      Leggings: 'LEATHER_LEGGINGS : dye:yellow'
+      Boots: 'LEATHER_BOOTS : dye:yellow'
+      Hand: AIR
+  WHITE_ZOMBIE:
+    Entity: ZOMBIE
+    Cost: 8
+    Coins-On-Kill: 8
+    Exp-On-Kill: 7
+    Health: 110
+    Damage: 4
+    Wave-Unlocked: 12
+    Speed: Normal
+    Equipment:
+      Helmet: 'LEATHER_HELMET : dye:white'
+      Chestplate: 'LEATHER_CHESTPLATE : dye:white'
+      Leggings: 'LEATHER_LEGGINGS : dye:white'
+      Boots: 'LEATHER_BOOTS : dye:white'
+      Hand: AIR
+  BLACK_ZOMBIE:
+    Entity: ZOMBIE
+    Cost: 9
+    Coins-On-Kill: 9
+    Exp-On-Kill: 8
+    Health: 130
+    Damage: 4
+    Wave-Unlocked: 15
+    Speed: Normal
+    Equipment:
+      Helmet: 'LEATHER_HELMET : dye:black'
+      Chestplate: 'LEATHER_CHESTPLATE : dye:black'
+      Leggings: 'LEATHER_LEGGINGS : dye:black'
+      Boots: 'LEATHER_BOOTS : dye:black'
+      Hand: AIR
+  RED_SKELETON:
+    Entity: SKELETON
+    Cost: 10
+    Coins-On-Kill: 10
+    Exp-On-Kill: 9
+    Health: 160
+    Damage: 5
+    Wave-Unlocked: 17
+    Speed: Normal
+    Equipment:
+      Helmet: 'LEATHER_HELMET : dye:red'
+      Chestplate: 'LEATHER_CHESTPLATE : dye:red'
+      Leggings: 'LEATHER_LEGGINGS : dye:red'
+      Boots: 'LEATHER_BOOTS : dye:red'
+      Hand: AIR
+  BLUE_SKELETON:
+    Entity: SKELETON
+    Cost: 11
+    Coins-On-Kill: 11
+    Exp-On-Kill: 10
+    Health: 180
+    Damage: 5
+    Wave-Unlocked: 19
+    Speed: Normal
+    Equipment:
+      Helmet: 'LEATHER_HELMET : dye:blue'
+      Chestplate: 'LEATHER_CHESTPLATE : dye:blue'
+      Leggings: 'LEATHER_LEGGINGS : dye:blue'
+      Boots: 'LEATHER_BOOTS : dye:blue'
+      Hand: AIR
+  GREEN_SKELETON:
+    Entity: SKELETON
+    Cost: 12
+    Coins-On-Kill: 12
+    Exp-On-Kill: 11
+    Health: 230
+    Damage: 6
+    Wave-Unlocked: 21
+    Speed: Normal
+    Equipment:
+      Helmet: 'LEATHER_HELMET : dye:green'
+      Chestplate: 'LEATHER_CHESTPLATE : dye:green'
+      Leggings: 'LEATHER_LEGGINGS : dye:green'
+      Boots: 'LEATHER_BOOTS : dye:green'
+      Hand: AIR
+  PURPLE_SKELETON:
+    Entity: SKELETON
+    Cost: 13
+    Coins-On-Kill: 13
+    Exp-On-Kill: 12
+    Health: 250
+    Damage: 6
+    Wave-Unlocked: 23
+    Speed: Normal
+    Equipment:
+      Helmet: 'LEATHER_HELMET : dye:purple'
+      Chestplate: 'LEATHER_CHESTPLATE : dye:purple'
+      Leggings: 'LEATHER_LEGGINGS : dye:purple'
+      Boots: 'LEATHER_BOOTS : dye:purple'
+      Hand: AIR
+  ORANGE_SKELETON:
+    Entity: SKELETON
+    Cost: 14
+    Coins-On-Kill: 14
+    Exp-On-Kill: 13
+    Health: 270
+    Damage: 7
+    Wave-Unlocked: 25
+    Speed: Normal
+    Equipment:
+      Helmet: 'LEATHER_HELMET : dye:orange'
+      Chestplate: 'LEATHER_CHESTPLATE : dye:orange'
+      Leggings: 'LEATHER_LEGGINGS : dye:orange'
+      Boots: 'LEATHER_BOOTS : dye:orange'
+      Hand: AIR
+  YELLOW_SKELETON:
+    Entity: SKELETON
+    Cost: 15
+    Coins-On-Kill: 15
+    Exp-On-Kill: 14
+    Health: 290
+    Damage: 7
+    Wave-Unlocked: 27
+    Speed: Normal
+    Equipment:
+      Helmet: 'LEATHER_HELMET : dye:yellow'
+      Chestplate: 'LEATHER_CHESTPLATE : dye:yellow'
+      Leggings: 'LEATHER_LEGGINGS : dye:yellow'
+      Boots: 'LEATHER_BOOTS : dye:yellow'
+      Hand: AIR
+  WHITE_SKELETON:
+    Entity: SKELETON
+    Cost: 16
+    Coins-On-Kill: 16
+    Exp-On-Kill: 15
+    Health: 310
+    Damage: 8
+    Wave-Unlocked: 29
+    Speed: Normal
+    Equipment:
+      Helmet: 'LEATHER_HELMET : dye:white'
+      Chestplate: 'LEATHER_CHESTPLATE : dye:white'
+      Leggings: 'LEATHER_LEGGINGS : dye:white'
+      Boots: 'LEATHER_BOOTS : dye:white'
+      Hand: AIR
+  BLACK_SKELETON:
+    Entity: SKELETON
+    Cost: 17
+    Coins-On-Kill: 17
+    Exp-On-Kill: 16
+    Health: 330
+    Damage: 8
+    Wave-Unlocked: 30
+    Speed: Normal
+    Equipment:
+      Helmet: 'LEATHER_HELMET : dye:black'
+      Chestplate: 'LEATHER_CHESTPLATE : dye:black'
+      Leggings: 'LEATHER_LEGGINGS : dye:black'
+      Boots: 'LEATHER_BOOTS : dye:black'
+      Hand: AIR
+Bosses:
+  Spider King:
+    Entity: SPIDER
+    Coins-On-Kill: 200
+    Exp-On-Kill: 100
+    Health: 1500
+    Damage: 30
+    Wave-Released: 15
+    Speed: Low
+    Equipment:
+      Helmet: AIR
+      Chestplate: AIR
+      Leggings: AIR
+      Boots: AIR
+      Hand: AIR
+  Creeper King:
+    Entity: CREEPER
+    Coins-On-Kill: 400
+    Exp-On-Kill: 200
+    Health: 3000
+    Damage: 30
+    Wave-Released: 20
+    Speed: Very-Low
+    Equipment:
+      Helmet: AIR
+      Chestplate: AIR
+      Leggings: AIR
+      Boots: AIR
+      Hand: AIR
+  Blaze King:
+    Entity: BLAZE
+    Coins-On-Kill: 600
+    Exp-On-Kill: 300
+    Health: 5000
+    Damage: 30
+    Wave-Released: 25
+    Speed: Very-Low
+    Equipment:
+      Helmet: AIR
+      Chestplate: AIR
+      Leggings: AIR
+      Boots: AIR
+      Hand: AIR

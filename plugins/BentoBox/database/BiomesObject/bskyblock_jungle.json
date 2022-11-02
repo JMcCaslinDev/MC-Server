@@ -1,0 +1,19 @@
+{
+  "biome": "JUNGLE",
+  "deployed": true,
+  "friendlyName": "&f&l Jungle",
+  "description": [
+    "&7 Hard to navigate and",
+    "&7 and rainy place.",
+    "&7 Ideal for ocelots."
+  ],
+  "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: JUNGLE_SAPLING\n",
+  "order": -1,
+  "environment": "NORMAL",
+  "uniqueId": "bskyblock_jungle",
+  "unlockLevel": 50,
+  "unlockCost": 0.0,
+  "cost": 200.0,
+  "costMode": "STATIC",
+  "costIncrement": 0.0
+}

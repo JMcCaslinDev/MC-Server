@@ -1,0 +1,62 @@
+{
+  "uniqueId": "bskyblock_chef",
+  "friendlyName": "&f&l Chef",
+  "deployed": true,
+  "description": [
+    "&7 Show your ability",
+    "&7 to cook all types",
+    "&7 of food"
+  ],
+  "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: CAKE\n",
+  "order": 6,
+  "challengeType": "INVENTORY_TYPE",
+  "environment": [],
+  "removeWhenCompleted": false,
+  "level": "bskyblock_advanced",
+  "requirements": {
+    "class": "InventoryRequirements",
+    "parameters": {
+      "requiredItems": [
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: PUMPKIN_PIE\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: COOKIE\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: CAKE\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: RABBIT_STEW\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: MUSHROOM_STEW\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: BEETROOT_SOUP\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: COOKED_BEEF\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: COOKED_MUTTON\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: COOKED_PORKCHOP\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: COOKED_CHICKEN\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: COOKED_RABBIT\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: GOLDEN_CARROT\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: COOKED_COD\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: COOKED_SALMON\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: BREAD\n",
+        "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: BAKED_POTATO\n"
+      ],
+      "ignoreMetaData": [],
+      "takeItems": true,
+      "requiredPermissions": []
+    }
+  },
+  "rewardText": "&7 Get some extra diamonds \n&7 and some shulker boxes",
+  "rewardItems": [
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: DIAMOND\n  amount: 16\n",
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: SHULKER_BOX\n",
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: SHULKER_BOX\n"
+  ],
+  "rewardExperience": 50,
+  "rewardMoney": 0.0,
+  "rewardCommands": [],
+  "ignoreRewardMetaData": [],
+  "repeatable": true,
+  "timeout": 0,
+  "repeatRewardText": "&7 Some diamond ore \n&7 for your food|",
+  "maxTimes": 100,
+  "repeatExperienceReward": 0,
+  "repeatItemReward": [
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: DIAMOND_ORE\n  amount: 4\n"
+  ],
+  "repeatMoneyReward": 0.0,
+  "repeatRewardCommands": []
+}

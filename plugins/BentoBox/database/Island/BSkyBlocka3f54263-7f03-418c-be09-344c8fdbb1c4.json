@@ -1,0 +1,28 @@
+{
+  "deleted": false,
+  "uniqueId": "BSkyBlocka3f54263-7f03-418c-be09-344c8fdbb1c4",
+  "center": [
+    "skyblock_world",
+    800.0,
+    120.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "range": 400,
+  "protectionRange": 50,
+  "bonusRanges": [],
+  "maxEverProtectionRange": 50,
+  "world": "skyblock_world",
+  "gameMode": "BSkyBlock",
+  "createdDate": 1664535241541,
+  "updatedDate": 1664535241541,
+  "members": {},
+  "spawn": false,
+  "purgeProtected": false,
+  "flags": {},
+  "history": [],
+  "spawnPoint": {},
+  "doNotLoad": false,
+  "cooldowns": {}
+}

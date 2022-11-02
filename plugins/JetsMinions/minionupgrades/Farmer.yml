@@ -1,0 +1,21 @@
+MaxLevel: 3
+
+Levels:
+  CostToUpgradeToLevel2: 30000 #The cost to upgrade to level 2
+  CostToUpgradeToLevel3: 60000
+# ENCHANTED will enchant the minions item
+Settings:
+  SettingsAtLevel1: 2x2x2 #For the Farmer minion, 2x2x2 means it will farm materials within 2 blocks either way of the minion (also 4x4x4)
+  SettingsAtLevel2: 4x4x4 | HANDITEM:IRON_HOE
+  SettingsAtLevel3: 6x6x6 | HANDITEM:DIAMOND_HOE | ENCHANTED | MAXHEALTH:30   #MAXHEALTH = changes it's max health to 30
+Messages:
+  MessageOnUpgradeTo2: '&aYou have upgraded the Farmer Minion to le*vel 2!'
+  MessageOnUpgradeTo3: '&aYou have upgraded the Farmer Minion to the highest level!'
+
+#If this is false, the items will be deleted
+DropItemsOnFloorIfChestIsFull: true
+
+#Add blocks here to prevent the farmer turning blocks into farmland, remove the [] and uncomment the comments
+FarmLandBlockList: []
+#  - "PODZOL"
+# - "COARSE_DIRT"

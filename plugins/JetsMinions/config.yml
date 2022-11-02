@@ -1,0 +1,331 @@
+#############################################
+#                                           #
+#                JetsMinions                #
+#             Created by Jet315             #
+#                                           #
+#############################################
+
+#The prefix that is shown before the plugin
+PluginsPrefix: "&eMinions &7» "
+
+#Just whether you want Minions to only be picked up if they are on full health
+OnlyAllowMinionPickupIfFullHealth: false
+
+#The maximum allowed minion name length in characters(Can be anything really)
+MaxAllowedNameLength: 16
+
+#How many minions are allowed in a single chunk? -1 to disable (I.E unlimited minions in a chunk)
+MaxMinionsInAChunk: -1
+
+#Action required to pickup a minion, possible actions:
+#      LEFT
+#      SHIFT AND LEFT
+#      RIGHT
+#      SHIFT AND RIGHT
+PickupMinionAction: "SHIFT AND LEFT"
+
+#If food is enabled for a minion, right-clicking a minion with food specified from this list will heal it by the set amount
+#Format: Material:amount
+FoodList:
+  - BREAD:2 #Will heal two hearts of a minion
+  - APPLE:2 #Will heal two hearts of a minion
+  - COOKED_BEEF:4
+  - SALMON:4
+  - COOKED_MUTTON:4
+  - COOKED_PORKCHOP:4
+  - COOKED_CHICKEN:4
+  - GOLDEN_APPLE:10 #Gapple - 10 hearts
+  - ENCHANTED_GOLDEN_APPLE:20 #Super gapple - 20 hearts
+#What minions would you like to be able to feed from a chest?
+#MinionsToFeedFromChest: [] #to disable feeding, set option to this <<
+MinionsToFeedFromChest:
+  - FEEDER
+  #- MINER
+  #- FEEDER
+  #- COLLECTOR
+  #- FARMER
+  #- FISHER
+  #- LUMBERJACK
+  #- SELLER
+  #- SLAYER
+
+
+#Any disabled worlds?
+#DisabledWorlds: []
+DisabledWorlds:
+  #- world_the_end
+
+#Any blocks you wish the minion not to destroy?
+#This list may not work for custom minions (developed by other developers)
+DisabledBlocks:
+  - BEDROCK
+  - CHEST
+  - DRAGON_EGG
+  - SPAWNER
+
+#Same as above, any entities you wish the minions not to kill?
+#Again may not work for custom made minions
+DisabledEntities:
+  - ENDER_DRAGON
+  - WITHER
+  - GHAST
+  - PLAYER
+  - ARMOR_STAND
+
+#Same as above, any materials you wish the item not to pickup
+DisabledItems: []
+
+#Would you like Minions to continue working while the owner is offline?
+#False = Minions will stop working if the owner of it logs out
+#True = Minions will continue working if the owner logs out (provided chunk is loaded)
+MinionFunctionOffline: true
+
+#The maximum distance the player can place a minions chest from the minion itself
+#Set to -1 to disable (Allow minions to link to chests cross world, and whatever distance)
+MaximumChestDistanceFromMinion: 30
+
+MaxMinionsAllowed:
+  - minions.place.default:3 #Specifiy the permission : number of minions allowed, then give players/groups the permission part ingame. The permission minions.admin.bypasslimit can also be used for no limit
+  - minions.place.vip:5
+  - minions.place.god:10
+#OR you can also do permissions per minion type
+#  - minions.place.<miniontype>:amount
+
+Minions:
+  Miner: #identifier (To customise control panel find Miner in controlpanel.yml)
+    Settings:
+      TicksPerAnimation: 4 #How often do you want the animation to update in ticks (20 = 1 second, -1 to disable animations)
+      TicksPerAction: 20 #How often do you want the minion to mine the rock infront in ticks (20 = 1 second)
+      DefaultSkin: Miner #Want to change the default skin? Check the skins.yml file (You can modify the Miner skin, or create your own one!)
+    Health:
+      EnableHealth: true #Health goes down over time & is recovered by feeding a minion. When health gets to 0 the minion will stop
+      MaxHealth: 20 #The max health for a minion
+      ActionPerHealth: 10 #The amount of actions (in this case block mines) the minion can do before dropping 1 health
+      RightClickWithFoodToFeed: true #Whether the people can right-click the minion with food to heal it
+      FeedWithMoney: true #Players will click a GUI option to feed with money
+      FeedWithMoneyCost: 200 #If the above is true & the GUI has a 'feedwithmoney' option, how much should it cost them to fully feed the minion?
+    DisplayItem: #
+      Item: NETHER_STAR
+      Damage: 0 #For items that require additional data, put this here
+      Glow: true #Do you want the item to have the enchanted glow?
+      DisplayName: "&3Miner &eMinion" #Can use %STATS% for the blocks mined, and %LEVEL% for the level of the minion
+      Lore:
+        - "&7Right-Click this Minion" #Can use %STATS% for the blocks mined, and %LEVEL% for the level of the minion
+        - "&7to place it! Once placed"
+        - "&7it will mine the block infront."
+        - "&7Remember to feed it!" #If you don't want minions to be fed, maybe delete this :)
+        - " "
+        - "&eBlocks Mined: &b%STATS%"
+        - "&eLevel: &b%LEVEL%"
+  Slayer:
+    Settings:
+      TicksPerAnimation: 4
+      TicksPerAction: 140
+      DefaultSkin: Slayer
+    Health:
+      EnableHealth: true
+      MaxHealth: 20
+      ActionPerHealth: 4
+      RightClickWithFoodToFeed: true
+      FeedWithMoney: true
+      FeedWithMoneyCost: 200
+    DisplayItem:
+      Item: NETHER_STAR
+      Damage: 0
+      Glow: true
+      DisplayName: "&cSlayer &eMinion" #Can use %STATS% for the kills the minion has done, and %LEVEL% for the level of the minion
+      Lore:
+        - "&7Right-Click this Minion" #Can use %STATS% for the kills the minion has done, and %LEVEL% for the level of the minion
+        - "&7to place it! Once placed"
+        - "&7it will kill mobs within its"
+        - "&7range! "
+        - "&7Remember to feed it!" #If you don't want minions to be fed, maybe delete this :)
+        - " "
+        - "&eMobs Killed: &b%STATS%"
+        - "&eLevel: &b%LEVEL%"
+  Collector:
+    Settings:
+      TicksPerAnimation: 4
+      TicksPerAction: 100
+      DefaultSkin: Collector
+    Health:
+      EnableHealth: true
+      MaxHealth: 20
+      ActionPerHealth: 15
+      RightClickWithFoodToFeed: true
+      FeedWithMoney: true
+      FeedWithMoneyCost: 200
+    DisplayItem:
+      Item: NETHER_STAR
+      Damage: 0
+      Glow: true
+      DisplayName: "&eCollector Minion" #Can use %STATS% for the kills the minion has done, and %LEVEL% for the level of the minion
+      Lore:
+        - "&7Right-Click this Minion" #Can use %STATS% for the kills the minion has done, and %LEVEL% for the level of the minion
+        - "&7to place it! Once placed"
+        - "&7it will collect all items"
+        - "&7within its range!"
+        - "&7Remember to feed it!" #If you don't want minions to be fed, maybe delete this :)
+        - " "
+        - "&eItems Collected: &b%STATS%"
+        - "&eLevel: &b%LEVEL%"
+  Feeder:
+    Settings:
+      TicksPerAnimation: 4
+      TicksPerAction: 300
+      DefaultSkin: Feeder
+    Health:
+      EnableHealth: true
+      MaxHealth: 20
+      ActionPerHealth: 15
+      RightClickWithFoodToFeed: true
+      FeedWithMoney: true
+      FeedWithMoneyCost: 200
+    DisplayItem:
+      Item: NETHER_STAR
+      Damage: 0
+      Glow: true
+      DisplayName: "&eFeeder Minion"
+      Lore:
+        - "&7Right-Click this Minion"
+        - "&7to place it! Once placed"
+        - "&7it will feed all minions"
+        - "&7within its range!"
+        - "&7Remember to feed it!"
+        - " "
+        - "&eHunger Healed: &b%STATS%"
+        - "&eLevel: &b%LEVEL%"
+  Lumberjack:
+    Settings:
+      TicksPerAnimation: 10
+      TicksPerAction: 20
+      DefaultSkin: Lumberjack
+    Health:
+      EnableHealth: true
+      MaxHealth: 20
+      ActionPerHealth: 10
+      RightClickWithFoodToFeed: true
+      FeedWithMoney: true
+      FeedWithMoneyCost: 200
+    DisplayItem:
+      Item: NETHER_STAR
+      Damage: 0
+      Glow: true
+      DisplayName: "&eLumberjack Minion"
+      Lore:
+        - "&7Right-Click this Minion"
+        - "&7to place it! Once placed"
+        - "&7it start chopping logs & leaves"
+        - "&7within its range!"
+        - "&7Remember to feed it!"
+        - " "
+        - "&eLogs chopped: &b%STATS%"
+        - "&eLevel: &b%LEVEL%"
+  Farmer:
+    Settings:
+      TicksPerAnimation: 4
+      TicksPerAction: 60 #one complete harvest = 1 action
+      DefaultSkin: Farmer
+    Health:
+      EnableHealth: true
+      MaxHealth: 20
+      ActionPerHealth: 15
+      RightClickWithFoodToFeed: true
+      FeedWithMoney: true
+      FeedWithMoneyCost: 200
+    DisplayItem:
+      Item: NETHER_STAR
+      Damage: 0
+      Glow: true
+      DisplayName: "&eFarmer Minion"
+      Lore:
+        - "&7Right-Click this Minion"
+        - "&7to place it! Once placed"
+        - "&7it start farming crops"
+        - "&7within its range!"
+        - "&7Remember to feed it!"
+        - " "
+        - "&eTotal Harvests: &b%STATS%"
+        - "&eLevel: &b%LEVEL%"
+  Fisher:
+    Settings:
+      TicksPerAnimation: 4
+      TicksPerAction: 60 #one attempt to catch a fish
+      DefaultSkin: Fisher
+    Health:
+      EnableHealth: true
+      MaxHealth: 20
+      ActionPerHealth: 20
+      RightClickWithFoodToFeed: true
+      FeedWithMoney: true
+      FeedWithMoneyCost: 200
+    DisplayItem:
+      Item: NETHER_STAR
+      Damage: 0
+      Glow: true
+      DisplayName: "&eFisher Minion"
+      Lore:
+        - "&7Right-Click this Minion"
+        - "&7to place it! Once placed"
+        - "&7it will start fishing"
+        - "&7in water pools 4 blocks"
+        - "&7within range"
+        - "&7Remember to feed it!"
+        - " "
+        - "&eTotal fish caught: &b%STATS%"
+        - "&eLevel: &b%LEVEL%"
+  Seller:
+    Settings:
+      TicksPerAnimation: 4
+      TicksPerAction: 300 #The time it takes for the minion to sell items in the chest
+      DefaultSkin: Seller
+    Health:
+      EnableHealth: true
+      MaxHealth: 20
+      ActionPerHealth: 15
+      RightClickWithFoodToFeed: true
+      FeedWithMoney: true
+      FeedWithMoneyCost: 200
+    DisplayItem:
+      Item: NETHER_STAR
+      Damage: 0
+      Glow: true
+      DisplayName: "&eSeller Minion"
+      Lore:
+        - "&7Right-Click this Minion"
+        - "&7to place it! Once placed"
+        - "&7it will start selling"
+        - "&7the items in its attached"
+        - "&7chest!"
+        - " "
+        - "&eItems Sold: &b%STATS%"
+        - "&eLevel: &b%LEVEL%"
+
+
+# -- SQLDatabase properties --
+
+#Either you may use YAML, MYSQL, or SQLITE
+#If you do not understand these settings, it's probably best not to change
+#There is currently no way to transfer data from one properties solution to another (I.E changing properties types after setting up the plugin will cause player data to start over)
+database:
+  save_period: 10 #The time (in minutes) the database should save
+  yaml:
+    use: true
+#PLEASE DO NOT USE SQL, CONTACT JET315 FOR MORE INFO
+#  sqlite:
+#    use: false
+#  mysql:
+#    use: false
+#    host: "localhost"
+#    user: "root"
+#    password: "pa55sw0rd"
+#    port: "3306"
+#    db: "jetsminions"
+#    ssl: false
+
+#Set this to true to delay minion loading - REQUIRED for some Bentobox addons
+delay_minion_loading: false
+
+#This option should not be changed, unless Entity IDs are changing over server restarts (I.E you run a SkyBlock server where the island is generated each time, and therefor UUIDs of entities are changing)
+#Should UUIDs of Minions be stored?
+store_minion_uuids: true

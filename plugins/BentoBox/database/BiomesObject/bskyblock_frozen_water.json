@@ -1,0 +1,22 @@
+{
+  "biome": "FROZEN_OCEAN",
+  "deployed": true,
+  "friendlyName": "&f&l Cold Ocean",
+  "description": [
+    "&7 A coldness of this",
+    "&7 ocean is matched",
+    "&7 only by its size."
+  ],
+  "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: ICE\n",
+  "order": -1,
+  "environment": "NORMAL",
+  "uniqueId": "bskyblock_frozen_water",
+  "unlockLevel": 20,
+  "unlockCost": 0.0,
+  "cost": 500.0,
+  "itemCost": [
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: ICE\n  amount: 20\n"
+  ],
+  "costMode": "STATIC",
+  "costIncrement": 0.0
+}

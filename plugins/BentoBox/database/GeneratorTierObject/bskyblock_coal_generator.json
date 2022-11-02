@@ -1,0 +1,30 @@
+{
+  "uniqueId": "bskyblock_coal_generator",
+  "friendlyName": "&r&lCoal Generator",
+  "description": [
+    "&7 Lava and water now",
+    "&7 can can produce coal."
+  ],
+  "generatorIcon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: COAL_ORE\n",
+  "lockedIcon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: BARRIER\n",
+  "generatorType": "COBBLESTONE",
+  "defaultGenerator": false,
+  "priority": 1,
+  "requiredMinIslandLevel": 0,
+  "requiredBiomes": [],
+  "requiredPermissions": [],
+  "generatorTierCost": 0.0,
+  "activationCost": 0.0,
+  "deployed": true,
+  "blockChanceMap": {
+    "100.0": "COBBLESTONE",
+    "200.0": "STONE",
+    "250.0": "COAL_ORE"
+  },
+  "treasureChanceMap": {},
+  "treasureItemChanceMap": {
+    "1.0": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: AMETHYST_SHARD\n"
+  },
+  "treasureChance": 0.0010000000474974513,
+  "maxTreasureAmount": 1
+}

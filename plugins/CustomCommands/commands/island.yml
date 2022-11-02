@@ -1,0 +1,1497 @@
+# ----------------------------------------------------------------------------------------------------
+# Configuration file for CustomCommands
+# More information can be found in the documentation
+# ----------------------------------------------------------------------------------------------------
+
+aliases: [island, is]
+patterns:
+  - pattern: ''   
+    permission: customcommands.island
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          cp island
+        as_player: true  
+        
+  - pattern: 'warps'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island warps
+        as_player: true  
+
+  - pattern: 'warps help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island warps help
+        as_player: true  
+  
+  - pattern: 'warp [player]'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island warp {arg:2}
+        notify:
+          message: 'Warping to {player}s island'
+        as_player: true  
+
+  - pattern: 'warp'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island warp
+        as_player: true  
+
+  - pattern: 'warp help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island warp
+        as_player: true  
+
+  - pattern: 'warp [player] help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island warp
+        as_player: true  
+  
+  - pattern: 'about'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island about
+        as_player: true  
+  
+  - pattern: 'about help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island about help
+        as_player: true  
+  
+  - pattern: 'ban'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island ban help
+        as_player: true  
+  
+  - pattern: 'ban help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island ban help
+        as_player: true  
+  
+  - pattern: 'ban [string]'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island ban {arg:2}
+        as_player: true  
+ 
+  - pattern: 'banlist'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island banlist
+        as_player: true  
+
+  - pattern: 'banlist help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island banlist help
+        as_player: true  
+
+  - pattern: 'bank help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island bank help
+        as_player: true  
+
+  - pattern: 'bank'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          cp island-bank
+        as_player: true  
+  
+  - pattern: 'bank baltop'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island bank baltop
+        as_player: true  
+  
+  - pattern: 'bank baltop help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island bank baltop help
+        as_player: true  
+  
+  - pattern: 'bank statement'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island bank statement
+        as_player: true  
+  
+  - pattern: 'bank statement help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island bank statement help
+        as_player: true  
+
+  - pattern: 'bank deposit'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island bank deposit help
+        as_player: true  
+  
+  - pattern: 'bank deposit help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island bank deposit help
+        as_player: true  
+
+  - pattern: 'bank deposit [integer]'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island bank deposit {arg:1}
+        as_player: true  
+  
+  - pattern: 'bank withdraw'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island bank withdraw help
+        as_player: true  
+
+  - pattern: 'bank withdraw help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island bank withdraw help
+        as_player: true  
+
+  - pattern: 'bank withdraw [integer]'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island bank withdraw {arg:1}
+        as_player: true  
+  
+  - pattern: 'bank balance'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island bank balance
+        as_player: true  
+
+  - pattern: 'bank balance help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island bank balance help
+        as_player: true  
+  
+  - pattern: 'biomes'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island biomes
+        as_player: true  
+  
+  - pattern: 'biomes help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island biomes help
+        as_player: true  
+
+  - pattern: 'border'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island border
+        as_player: true  
+
+  - pattern: 'border help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island border help
+        as_player: true  
+
+  - pattern: 'challenges'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          cp island-challenges
+        as_player: true  
+
+  - pattern: 'challenges help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island challenges help
+        as_player: true  
+  
+  - pattern: 'challenges complete'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island challenges help
+        as_player: true  
+
+  - pattern: 'challenges complete help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island challenges help
+        as_player: true  
+
+  - pattern: 'challenges complete [string] [integer]'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island challenges {arg:3} {arg:4}
+        as_player: true  
+
+  - pattern: 'chat'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island chat
+        as_player: true  
+
+  - pattern: 'chat help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island chat help
+        as_player: true  
+
+  - pattern: 'checkmeout'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island checkmeout
+        as_player: true  
+
+  - pattern: 'checkmeout help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island checkmeout help
+        as_player: true  
+
+  - pattern: 'checkmeout view'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: NOTIFY
+        notify:
+          message: '&C&lPlease fix /island checkmeout view command or remove!'
+          sound: ENTITY_PLAYER_HURT
+    #  - type: EXECUTE_COMMANDS
+    #    commands: |
+    #      island checkmeout view
+    #    as_player: true  
+
+  - pattern: 'checkmeout view help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island checkmeout view help
+        as_player: true  
+
+  - pattern: 'controlpanel'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          cp island
+        as_player: true  
+
+  - pattern: 'controlpanel help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island controlpanel help
+        as_player: true  
+
+  - pattern: 'create'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island create
+        as_player: true  
+
+  - pattern: 'create help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island create help
+        as_player: true  
+
+  - pattern: 'create [string]'   
+    permission: customcommands.island.admin
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island create {arg:2}
+        as_player: true  
+
+  - pattern: 'create [string] help'   
+    permission: customcommands.island.admin
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island create {arg:2} help
+        as_player: true  
+
+  - pattern: 'deletehome'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island deletehome help
+        as_player: true   
+
+  - pattern: 'deletehome help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island deletehome help
+        as_player: true  
+
+  - pattern: 'deletehome [string]'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island deletehome {arg:2}
+        as_player: true  
+
+  - pattern: 'deletehome [string] [string]'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island deletehome help
+        as_player: true  
+
+  - pattern: 'deletehome [string] [phrase]'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island deletehome help
+        as_player: true  
+
+  - pattern: 'expel'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island expel help
+        as_player: true  
+
+  - pattern: 'expel help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island expel help
+        as_player: true  
+
+  - pattern: 'expel [player] help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island expel help
+        as_player: true  
+
+  - pattern: 'expel [player]'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island expel {arg:2}
+        as_player: true  
+
+  - pattern: 'fly'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island fly
+        as_player: true  
+
+  - pattern: 'fly help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island fly help
+        as_player: true  
+
+  - pattern: 'greenhouse'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island greenhouse
+        as_player: true  
+
+  - pattern: 'greenhouse help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island greenhouse help
+        as_player: true  
+
+  - pattern: 'greenhouse make [string]'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island greenhouse make {arg:3}
+        as_player: true  
+
+  - pattern: 'greenhouse make [string] help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island greenhouse help
+        as_player: true  
+
+  - pattern: 'greenhouse remove'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island greenhouse remove
+        as_player: true  
+
+  - pattern: 'greenhouse remove help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island greenhouse remove help
+        as_player: true  
+
+  - pattern: 'help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island help
+        as_player: true  
+
+  - pattern: 'go'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island go
+        as_player: true  
+
+  - pattern: 'go help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island go help
+        as_player: true  
+
+  - pattern: 'homes'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island homes
+        as_player: true  
+
+  - pattern: 'homes help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island homes help
+        as_player: true  
+
+  - pattern: 'home'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island home
+        as_player: true  
+
+  - pattern: 'home help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island home help
+        as_player: true  
+
+  - pattern: 'home [string]'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island home {arg:2}
+        as_player: true  
+
+  - pattern: 'home [string] help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island home help
+        as_player: true  
+
+  - pattern: 'info'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island info
+        as_player: true  
+
+  - pattern: 'info help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island info help
+        as_player: true  
+
+  - pattern: 'language'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island language
+        as_player: true  
+
+  - pattern: 'language help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island language help
+        as_player: true  
+
+  - pattern: 'level'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island level
+        as_player: true  
+
+  - pattern: 'level help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island level help
+        as_player: true  
+
+  - pattern: 'level [string]'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island level {arg:2}
+        as_player: true  
+
+  - pattern: 'level [string] help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island level help
+        as_player: true  
+
+  - pattern: 'likes'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island likes
+        as_player: true  
+
+  - pattern: 'likes'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island likes
+        as_player: true  
+
+  - pattern: 'likes help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island likes help
+        as_player: true  
+
+  - pattern: 'likes top [string]'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island likes top {arg:3}
+        as_player: true  
+
+  - pattern: 'likes top [string] [string]'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island likes top {arg:3}
+        as_player: true  
+
+  - pattern: 'likes view [player]'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island likes view {arg:3}
+        as_player: true  
+
+  - pattern: 'limits'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island limits
+        as_player: true  
+
+  - pattern: 'limits help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island limits help
+        as_player: true  
+
+  - pattern: 'limits recount'   
+    permission: customcommands.island.subcommands
+    cooldown: 300 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island limits recount
+        as_player: true  
+
+  - pattern: 'limits recount help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island limits recount help
+        as_player: true  
+
+  - pattern: 'near'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island near
+        as_player: true  
+
+  - pattern: 'near help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island near help
+        as_player: true  
+
+  - pattern: 'oregen'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island oregen
+        as_player: true  
+
+  - pattern: 'oregen help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island oregen help
+        as_player: true  
+
+  - pattern: 'oregen view [string]'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island oregen view {arg:3}
+        as_player: true  
+
+  - pattern: 'oregen view [string] help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island oregen view {arg:3} help
+        as_player: true  
+
+  - pattern: 'oregen buy [string]'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island oregen buy {arg:3}
+        as_player: true  
+
+  - pattern: 'oregen buy [string] help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island oregen buy {arg:3} help
+        as_player: true  
+
+  - pattern: 'oregen activate [string]'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island oregen activate {arg:3}
+        as_player: true  
+
+  - pattern: 'oregen activate [string] help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island oregen activate {arg:3} help
+        as_player: true  
+
+  - pattern: 'renamehome'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island renamehome
+        as_player: true  
+
+  - pattern: 'renamehome help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island renamehome help
+        as_player: true  
+
+  - pattern: 'renamehome [string]'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island renamehome {arg:2}
+        as_player: true  
+
+  - pattern: 'renamehome [string] help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island renamehome {arg:2} help
+        as_player: true  
+
+  - pattern: 'renamehome [string] help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island renamehome {arg:2} help
+        as_player: true  
+
+  - pattern: 'reset'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island reset
+        as_player: true  
+
+  - pattern: 'reset help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island reset help
+        as_player: true  
+
+  - pattern: 'reset [string]'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island reset
+        as_player: true  
+
+  - pattern: 'reset [string] help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island reset help
+        as_player: true  
+
+  - pattern: 'resetname'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island resetname
+        as_player: true  
+
+  - pattern: 'resetname help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island resetname help
+        as_player: true  
+
+  - pattern: 'sethome'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island sethome
+        as_player: true  
+
+  - pattern: 'sethome help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island sethome help
+        as_player: true  
+
+  - pattern: 'setname help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island setname help
+        as_player: true  
+
+  - pattern: 'setname [phrase]'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island setname {arg:2}
+        as_player: true  
+
+  - pattern: 'settings'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island settings
+        as_player: true  
+
+  - pattern: 'settings help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          island settings help
+        as_player: true  
+
+  - pattern: 'spawn'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          spawn
+        as_player: true  
+
+  - pattern: 'spawn help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          spawn
+        as_player: true  
+
+  - pattern: 'team'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          team
+        as_player: true  
+
+  - pattern: 'team help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          team help
+        as_player: true  
+
+  - pattern: 'team invite|team invite help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          team invite help
+        as_player: true  
+
+  - pattern: 'team invite [player]'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          team invite {arg:3}
+        as_player: true  
+
+  - pattern: 'team leave'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          team leave
+        as_player: true  
+
+  - pattern: 'team leave help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          team leave help
+        as_player: true  
+
+  - pattern: 'team setowner|team setowner [player] help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          team setowner help
+        as_player: true  
+
+  - pattern: 'team setowner [player]'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          team setowner {arg:3}
+        as_player: true  
+
+  - pattern: 'kick|kick help|kick [player] help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          team kick help
+        as_player: true  
+
+  - pattern: 'kick [player]'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          team kick {arg:2}
+        as_player: true  
+
+  - pattern: 'team accept'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          team accept
+        as_player: true  
+
+  - pattern: 'team accept help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          team accept help
+        as_player: true  
+
+  - pattern: 'team reject'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          team reject
+        as_player: true  
+
+  - pattern: 'team reject help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          team reject help
+        as_player: true  
+
+  - pattern: 'team coop [player]'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          team coop {arg:3}
+        as_player: true  
+
+  - pattern: 'team coop|team coop help|team coop [player] help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          team coop help
+        as_player: true  
+
+  - pattern: 'team uncoop [player]'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          team uncoop {arg:3}
+        as_player: true  
+
+  - pattern: 'team uncoop|team uncoop help|team uncoop [player] help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          team uncoop help
+        as_player: true  
+
+  - pattern: 'team trust [player]'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          team trust {arg:3}
+        as_player: true  
+
+  - pattern: 'team trust|team trust help|team trust [player] help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          team trust help
+        as_player: true  
+
+  - pattern: 'team untrust [player]'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          team untrust {arg:3}
+        as_player: true  
+
+  - pattern: 'team untrust|team untrust help|team untrust [player] help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          team untrust help
+        as_player: true  
+
+  - pattern: 'team promote [player]'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          team promote {arg:3}
+        as_player: true  
+
+  - pattern: 'team promote|team promote help|team promote [player] help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          team promote help
+        as_player: true  
+
+  - pattern: 'team demote [player]'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          team demote {arg:3}
+        as_player: true  
+
+  - pattern: 'team demote|team demote help|team demote [player] help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          team demote help
+        as_player: true  
+
+  - pattern: 'teamchat'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          teamchat
+        as_player: true  
+
+  - pattern: 'teamchat help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          teamchat help
+        as_player: true  
+
+  - pattern: 'top'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          top
+        as_player: true  
+
+  - pattern: 'top help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          top help
+        as_player: true  
+
+  - pattern: 'uban [player]'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          uban {arg:2}
+        as_player: true  
+
+  - pattern: 'unban|unban help|unban [player] help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          unban help
+        as_player: true  
+
+  - pattern: 'upgrade'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          upgrade
+        as_player: true  
+
+  - pattern: 'upgrade help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          upgrade help
+        as_player: true  
+
+  - pattern: 'value'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          value
+        as_player: true  
+
+  - pattern: 'value help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          value help
+        as_player: true  
+
+  - pattern: 'visit'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          visit
+        as_player: true  
+
+  - pattern: 'visit [player]'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          visit {arg:2}
+        as_player: true  
+
+  - pattern: 'visit help|visit [player] help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          visit help
+        as_player: true  
+
+  - pattern: 'visit configure'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          visit configure
+        as_player: true  
+
+  - pattern: 'visit configure help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          visit configure help
+        as_player: true  
+
+  - pattern: 'visit setlocation'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          visit setlocation
+        as_player: true  
+
+  - pattern: 'visit setlocation help'   
+    permission: customcommands.island.subcommands
+    cooldown: 1 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          visit setlocation help
+        as_player: true  

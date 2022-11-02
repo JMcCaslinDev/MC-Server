@@ -1,0 +1,30 @@
+# ----------------------------------------------------------------------------------------------------
+# Configuration file for CustomCommands
+# More information can be found in the documentation
+# ----------------------------------------------------------------------------------------------------
+
+# Aliases for the command
+# Our command can be used with /spawn, /gotospawn and /lobby
+aliases: [smitecannon, sc]
+
+# Patterns for the command
+patterns:
+
+  - pattern: '[player-online]'  # here, we don't need arguments for the command, so we set only one empty pattern
+    description: Smite an online player
+    permission: customcommands.smitecannon
+    worlds:
+      whitelist: [skyblock_world]  # our command can only be used in the default world
+      blacklist: []
+    cooldown: 5 SECOND
+    actions:
+      - type: NOTIFY
+        notify:
+          message: '&c&l{arg:1} You have Smite Cannoned!'
+          actionbar: '&c&l{arg:1} You have Smite Cannoned!'
+          actionbar_duration: 3 SECOND
+        target: '{arg:1}'
+        - type: EXECUTE_COMMANDS
+        commands: |
+          'esmite {arg:1}'
+        as_player: false  # true to perform the command as the player, false to perform them from console

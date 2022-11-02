@@ -1,0 +1,16 @@
+MaxLevel: 3
+
+Levels:
+  CostToUpgradeToLevel2: 25000 #The cost to upgrade to level 2
+  CostToUpgradeToLevel3: 50000 #The cost to upgrade to level 2
+# ENCHANTED will enchant the minions item
+Settings:
+  SettingsAtLevel1: 1                     #Pretty much, the higher this number the higher chance of catching a fish
+  SettingsAtLevel2: 2
+  SettingsAtLevel3: 3 | ENCHANTED | SMELT #SMELT cooks the first
+Messages:
+  MessageOnUpgradeTo2: '&aYou have upgraded the Fisher minion to level 2!'
+  MessageOnUpgradeTo3: '&aYou have upgraded the Fisher minion to level 3!'
+
+#If this is false, the items will be deleted
+DropItemsOnFloorIfChestIsFull: true

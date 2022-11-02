@@ -1,0 +1,227 @@
+# Control Panel Template file
+# Command Parser Values:
+#    [player] - [player] in command will be replaced with username,
+#               f.e. 'give [player] diamond' will result in '/give BONNe1704 diamond'
+#    [server] - Command will be run by console, f.e. '[server] op [player]' will result in '/op BONNe1704'
+#    [label]  - [label] in command will be replaced with corresponding GameMode user command,
+#               f.e. '[label] challenges' in BSkyblock will result in 'island challenges'
+# material is used from Matherial.match
+# permission is a suffix that will be added to the end of "[gamemode].controlpanel.panel.[suffix]".
+#    Adding permission means that user will open control panel defined by permission.
+#    If user will have multiple panel permissions, it will open first encountered with default flag.
+#    If user will have '*', it will open first defined panel with default flag.
+# description can include color codes using & and new lines using | and placeholders with with % at the
+#    start and the end. [gamemode] in placeholders will be converted to correct string.
+# number before each button means slot location
+
+panel-list:
+  default:
+    defaultPanel: true
+    panelName: '&8Island >> Menu'
+    permission: 'default'
+    buttons:
+      0:
+        name: "&0&k."
+        material: black_stained_glass_pane
+      1:
+        name: "&0&k."
+        material: black_stained_glass_pane
+      2:
+        name: "&0&k."
+        material: black_stained_glass_pane
+      3:
+        name: "&0&k."
+        material: black_stained_glass_pane
+      4:
+        name: "&0&k."
+        material: black_stained_glass_pane
+      5:
+        name: "&0&k."
+        material: black_stained_glass_pane
+      6:
+        name: "&0&k."
+        material: black_stained_glass_pane
+      7:
+        name: "&0&k."
+        material: black_stained_glass_pane
+      8:
+        name: "&0&k."
+        material: black_stained_glass_pane
+      9:
+        name: "&0&k."
+        material: black_stained_glass_pane
+      10:
+        name: "&0&k."
+        material: black_stained_glass_pane
+      11:
+        name: "&0&k."
+        material: black_stained_glass_pane
+      12:
+        name: '&b&lIsland Biome'
+        material: MYCELIUM
+        description:
+          - 'Unlock Biomes'
+        command: '[label] biomes'
+      13:
+        name: '&b&lIsland Home'
+        material: RED_BED
+        description:
+          - 'Teleport to your island home'
+        command: '[label] go'
+      14:
+        name: '&b&lIsland Members'
+        material: PLAYER_HEAD
+        description:
+          - 'view your island members'
+        command: '[label] team'
+      15:
+        name: "&0&k."
+        material: black_stained_glass_pane
+      16:
+        name: "&0&k."
+        material: black_stained_glass_pane
+      17:
+        name: "&0&k."
+        material: black_stained_glass_pane
+      18:
+        name: "&0&k."
+        material: black_stained_glass_pane
+      19:
+        name: "&0&k."
+        material: black_stained_glass_pane
+      20:
+        name: '&b&lIsland Warps'
+        material: end_portal_frame
+        description:
+          - 'View your island warps'
+        command: '[label] warps'
+      21:
+        name: '&b&lIsland Upgrades'
+        material: DIAMOND
+        description:
+          - 'view your island upgrades'
+        command: 'cp upgrades'
+      22:
+        name: '&b&lIsland Missions'
+        material: writable_book
+        description:
+          - 'View your missions'
+        command: '[label] challenges'
+      23:
+        name: '&b&lIsland Settings'
+        material: CLOCK
+        description:
+          - 'view your island settings'
+        command: '[label] settings'
+      24:
+        name: '&b&lIsland Border'
+        material: beacon
+        description:
+          - 'Toggle your island border'
+        command: 'island border'
+      25:
+        name: "&0&k."
+        material: black_stained_glass_pane
+      26:
+        name: "&0&k."
+        material: black_stained_glass_pane
+      27:
+        name: "&0&k."
+        material: black_stained_glass_pane
+      28:
+        name: "&0&k."
+        material: black_stained_glass_pane
+      29:
+        name: '&b&lIsland Logs'
+        material: writable_book
+        description:
+          - 'View your island logs'
+        command: '[label] logs'
+      30:
+        name: '&b&lIsland Bank'
+        material: gold_ingot
+        description:
+          - 'View your island bank'
+        command: 'cp island-bank'
+      31:
+        name: '&b&lIsland Permissions'
+        material: name_tag
+        description:
+          - 'View your island permissions'
+        command: '[label] permissions'
+      32:
+        name: '&b&lTrusted Members'
+        material: emerald
+        description:
+          - 'View your islands trusted members'
+        command: '[label] members'
+      33:
+        name: '&b&lIsland Reset'
+        material: Tnt
+        description:
+          - 'Reset your island'
+          - ''
+          - '&c(!) This will delete your island!'
+        command: '[label] reset'
+      34:
+        name: "&0&k."
+        material: black_stained_glass_pane
+      35:
+        name: "&0&k."
+        material: black_stained_glass_pane
+      36:
+        name: "&0&k."
+        material: black_stained_glass_pane
+      37:
+        name: "&0&k."
+        material: black_stained_glass_pane
+      38:
+        name: "&0&k."
+        material: black_stained_glass_pane
+      39:
+        name: "&0&k."
+        material: black_stained_glass_pane
+      40:
+        name: "&0&k."
+        material: black_stained_glass_pane
+      41:
+        name: "&0&k."
+        material: black_stained_glass_pane
+      42:
+        name: "&0&k."
+        material: black_stained_glass_pane
+      43:
+        name: "&0&k."
+        material: black_stained_glass_pane
+      44:
+        name: "&0&k."
+        material: black_stained_glass_pane
+      45:
+        name: "&0&k."
+        material: black_stained_glass_pane
+      46:
+        name: "&0&k."
+        material: black_stained_glass_pane
+      47:
+        name: "&0&k."
+        material: black_stained_glass_pane
+      48:
+        name: "&0&k."
+        material: black_stained_glass_pane
+      49:
+        name: "&c&lClose Menu"
+        material: BARRIER
+        commands:
+        - ' '
+      50:
+        name: "&0&k."
+        material: black_stained_glass_pane
+      51:
+        name: "&0&k."
+        material: black_stained_glass_pane
+      52:
+        name: "&0&k."
+        material: black_stained_glass_pane
+      53:
+        name: "&0&k."
+        material: black_stained_glass_pane

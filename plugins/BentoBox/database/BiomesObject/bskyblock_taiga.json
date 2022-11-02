@@ -1,0 +1,18 @@
+{
+  "biome": "TAIGA",
+  "deployed": true,
+  "friendlyName": "&f&l Taiga",
+  "description": [
+    "&7 Cold but not snowy",
+    "&7 forest. Rabbits and",
+    "&7 foxes love this",
+    "&7 weather."
+  ],
+  "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: FERN\n",
+  "order": -1,
+  "environment": "NORMAL",
+  "uniqueId": "bskyblock_taiga",
+  "cost": 100.0,
+  "costMode": "STATIC",
+  "costIncrement": 0.0
+}

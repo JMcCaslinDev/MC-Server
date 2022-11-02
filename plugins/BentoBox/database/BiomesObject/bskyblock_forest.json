@@ -1,0 +1,20 @@
+{
+  "biome": "FLOWER_FOREST",
+  "deployed": true,
+  "friendlyName": "&f&l Flower Forest",
+  "description": [
+    "&7 A place where every",
+    "&7 bee would love to live.",
+    "&7 All flowers that you",
+    "&7 wished are here."
+  ],
+  "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: ORANGE_TULIP\n",
+  "order": -1,
+  "environment": "NORMAL",
+  "uniqueId": "bskyblock_forest",
+  "unlockLevel": 75,
+  "unlockCost": 0.0,
+  "cost": 500.0,
+  "costMode": "STATIC",
+  "costIncrement": 0.0
+}

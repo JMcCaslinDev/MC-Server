@@ -1,0 +1,26 @@
+LastUpdated: 1667376476343
+IntColumns:
+- VotePartyVotes
+- MilestoneCount
+- MonthTotal
+- AllTimeTotal
+- DailyTotal
+- WeeklyTotal
+- Points
+- DayVoteStreak
+- BestDayVoteStreak
+- WeekVoteStreak
+- BestWeekVoteStreak
+- MonthVoteStreak
+- HighestDailyTotal
+- HighestMonthlyTotal
+- HighestWeeklyTotal
+- LastMonthTotal
+- BestMonthVoteStreak
+VotingPlugin:
+  Version: 'git-Paper-201 (MC: 1.19.2)'
+PluginVersions:
+  VotingPlugin: 6.9.5
+Month: NOVEMBER
+PrevWeek: 45
+PrevDay: 2

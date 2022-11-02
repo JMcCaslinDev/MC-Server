@@ -1,0 +1,47 @@
+{
+  "uniqueId": "bskyblock_visitend",
+  "friendlyName": "&f&l Visit the End",
+  "deployed": true,
+  "description": [
+    "&7 Is there something",
+    "&7 even after the end?"
+  ],
+  "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: END_STONE\n",
+  "order": 3,
+  "challengeType": "ISLAND_TYPE",
+  "environment": [
+    "THE_END"
+  ],
+  "removeWhenCompleted": true,
+  "level": "bskyblock_elite",
+  "requirements": {
+    "class": "IslandRequirements",
+    "parameters": {
+      "requiredBlocks": {
+        "NETHERRACK": 1
+      },
+      "removeBlocks": false,
+      "requiredEntities": {},
+      "removeEntities": false,
+      "searchRadius": 20,
+      "requiredPermissions": []
+    }
+  },
+  "rewardText": "&7 Some diamonds and \n&7 an elytra for your efforts.",
+  "rewardItems": [
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: DIAMOND_ORE\n  amount: 16\n",
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: ELYTRA\n"
+  ],
+  "rewardExperience": 50,
+  "rewardMoney": 0.0,
+  "rewardCommands": [],
+  "ignoreRewardMetaData": [],
+  "repeatable": false,
+  "timeout": 0,
+  "repeatRewardText": "",
+  "maxTimes": 0,
+  "repeatExperienceReward": 0,
+  "repeatItemReward": [],
+  "repeatMoneyReward": 0.0,
+  "repeatRewardCommands": []
+}

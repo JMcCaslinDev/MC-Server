@@ -1,0 +1,28 @@
+{
+  "uniqueId": "BSkyBlockd164e1ff-b500-4ae9-a884-f71439f4f3c3",
+  "level": 1501,
+  "initialLevel": 3,
+  "pointsToNextLevel": 99,
+  "uwCount": {},
+  "mdCount": {
+    "CRIMSON_DOOR": 2,
+    "COBBLESTONE_SLAB": 2,
+    "COBBLESTONE": 3,
+    "DARK_OAK_SIGN": 1,
+    "BEDROCK": 1,
+    "DIRT": 39,
+    "CHEST": 1,
+    "OAK_LEAVES": 56,
+    "OAK_STAIRS": 1,
+    "SAND": 3,
+    "COBBLESTONE_STAIRS": 2,
+    "OAK_TRAPDOOR": 9,
+    "CALCITE": 214,
+    "COBWEB": 3,
+    "GRASS_BLOCK": 93,
+    "OAK_LOG": 5,
+    "DIAMOND_BLOCK": 500,
+    "AIR": 3839555,
+    "STONE": 9
+  }
+}

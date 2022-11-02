@@ -1,0 +1,14 @@
+timer: 60
+Random: false
+UseTellRawMessages: false
+Messages:
+- '&b&lDISCORD &8>> &fLink your account @ &b/discord'
+- '&e&lANNOUNCER &8>> &fUse the the &e/luckspinner &fcommand to earn free daily rewards!'
+- '&e&lANNOUNCER &8>> &fLink your discord!'
+TellRawMessages:
+- '{"text":"[Get more info on TellRaws here: minecraft.tools/en/tellraw.php ]","color":"dark_purple"}'
+- '{"text":"[This is a test message!] ","color":"aqua"}'
+- '["",{"text":"Click me to open URL!","color":"red","bold":true,"underlined":false,"clickEvent":{"action":"open_url","value":"https://www.google.com"}}]'
+- '{"text":"Hover over me for help text!","color":"yellow","bold":true,"hoverEvent":{"action":"show_text","value":{"text":"","extra":[{"text":"I
+  am a hint!","color":"yellow","bold":true}]}}}'
+- '{"text":"Click me to run help command!","color":"yellow","bold":true,"clickEvent":{"action":"run_command","value":"/help"}}'

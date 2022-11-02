@@ -1,0 +1,21 @@
+{
+  "biome": "DEEP_OCEAN",
+  "deployed": true,
+  "friendlyName": "&f&l Deep Ocean",
+  "description": [
+    "&7 A deep dark ocean may",
+    "&7 provide some cod,",
+    "&7 but squids may wander",
+    "&7 in its depth."
+  ],
+  "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: COD\n",
+  "order": -1,
+  "environment": "NORMAL",
+  "uniqueId": "bskyblock_simple_ocean",
+  "cost": 500.0,
+  "itemCost": [
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: COD_BUCKET\n"
+  ],
+  "costMode": "STATIC",
+  "costIncrement": 0.0
+}

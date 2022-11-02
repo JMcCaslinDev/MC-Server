@@ -1,0 +1,48 @@
+{
+  "uniqueId": "bskyblock_visitnether",
+  "friendlyName": "&f&l Visit nether",
+  "deployed": true,
+  "description": [
+    "&7 The nether is a horrible",
+    "&7 place, but it has some",
+    "&7 useful materials."
+  ],
+  "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: NETHERRACK\n",
+  "order": 3,
+  "challengeType": "ISLAND_TYPE",
+  "environment": [
+    "NETHER"
+  ],
+  "removeWhenCompleted": true,
+  "level": "bskyblock_competent",
+  "requirements": {
+    "class": "IslandRequirements",
+    "parameters": {
+      "requiredBlocks": {
+        "NETHERRACK": 1
+      },
+      "removeBlocks": false,
+      "requiredEntities": {},
+      "removeEntities": false,
+      "searchRadius": 20,
+      "requiredPermissions": []
+    }
+  },
+  "rewardText": "&7 Some iron and lapis \n&7 for your efforts.",
+  "rewardItems": [
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: IRON_ORE\n  amount: 16\n",
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: LAPIS_BLOCK\n  amount: 3\n"
+  ],
+  "rewardExperience": 50,
+  "rewardMoney": 0.0,
+  "rewardCommands": [],
+  "ignoreRewardMetaData": [],
+  "repeatable": false,
+  "timeout": 0,
+  "repeatRewardText": "",
+  "maxTimes": 0,
+  "repeatExperienceReward": 0,
+  "repeatItemReward": [],
+  "repeatMoneyReward": 0.0,
+  "repeatRewardCommands": []
+}

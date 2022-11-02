@@ -1,0 +1,23 @@
+{
+  "biome": "BASALT_DELTAS",
+  "deployed": true,
+  "friendlyName": "&f&l Basalt Deltas",
+  "description": [
+    "&7 A bit cooler place in",
+    "&7 hell where magma cubes",
+    "&7 wander and search",
+    "&7 for food."
+  ],
+  "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: BASALT\n",
+  "order": -1,
+  "environment": "NETHER",
+  "uniqueId": "bskyblock_basalt",
+  "unlockLevel": 250,
+  "unlockCost": 0.0,
+  "cost": 1000.0,
+  "itemCost": [
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: BASALT\n  amount: 128\n"
+  ],
+  "costMode": "STATIC",
+  "costIncrement": 0.0
+}

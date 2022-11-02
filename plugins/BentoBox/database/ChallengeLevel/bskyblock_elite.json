@@ -1,0 +1,32 @@
+{
+  "uniqueId": "bskyblock_elite",
+  "friendlyName": "&f&l Elite",
+  "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: MAGENTA_CONCRETE\n",
+  "world": "skyblock_world",
+  "order": 5,
+  "waiverAmount": 0,
+  "unlockMessage": "&7 Congratulations - \n&7 you unlocked the \n&7 &dElite level!",
+  "rewardText": "&7 Small reward for \n&7 completing all\n&7 Elite challenges.",
+  "rewardItems": [
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: DIAMOND_SWORD\n  meta:\n    ==: ItemMeta\n    meta-type: UNSPECIFIC\n    enchants:\n      LOOT_BONUS_MOBS: 3\n      DAMAGE_ALL: 5\n      DURABILITY: 3\n",
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: BOW\n  meta:\n    ==: ItemMeta\n    meta-type: UNSPECIFIC\n    enchants:\n      ARROW_FIRE: 1\n      ARROW_INFINITE: 1\n      ARROW_DAMAGE: 5\n      DURABILITY: 3\n",
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: ELYTRA\n  meta:\n    ==: ItemMeta\n    meta-type: UNSPECIFIC\n    enchants:\n      DURABILITY: 3\n",
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: TRIDENT\n  meta:\n    ==: ItemMeta\n    meta-type: UNSPECIFIC\n    enchants:\n      DURABILITY: 3\n"
+  ],
+  "rewardExperience": 8670,
+  "rewardMoney": 0.0,
+  "rewardCommands": [
+    "effect give [player] luck 600"
+  ],
+  "challenges": [
+    "bskyblock_beaconator",
+    "bskyblock_terracottamaker",
+    "bskyblock_diamondage",
+    "bskyblock_engineer",
+    "bskyblock_visitend",
+    "bskyblock_enderkiller",
+    "bskyblock_glassmaker",
+    "bskyblock_elite"
+  ],
+  "ignoreRewardMetaData": []
+}

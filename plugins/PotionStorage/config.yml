@@ -1,0 +1,29 @@
+#---------------------------------------------------------------------------------------------#
+#                                                                                             #
+#__________       __  .__                   _________ __                                      #  
+#\______   \_____/  |_|__| ____   ____     /   _____//  |_  ________________     ____   ____  #
+# |     ___/  _ \   __\  |/  _ \ /    \    \_____  \\   __\/  _ \_  __ \__  \   / ___\_/ __ \ #
+# |    |  (  <_> )  | |  (  <_> )   |  \   /        \|  | (  <_> )  | \// __ \_/ /_/  >  ___/ #
+# |____|   \____/|__| |__|\____/|___|  /  /_______  /|__|  \____/|__|  (____  /\___  / \___  >#
+#                                    \/           \/                        \//_____/      \/ #
+#                                                                                             #
+#                                                                                             #
+#---------------------------------------------------------------------------------------------#
+
+# Configuration #
+# Can the player throw a potion in a stack? #
+potionThrowStack: false
+
+# Language #
+# Make sure you put '' to add and apostrophe ' in your message. #
+# If you don't know what your doing do NOT touch this. #
+potionStackMessage: '&9Your potions have been stacked for storage!'
+noPotionMessage: '&cYou don''t have any potions to stack!'
+noPermissionMessage: '&cYou do not have permission to stack potions!'
+noItemInHandMessage: '&cYou do not have a potion stack in your hand!'
+noPotionStackMessage: '&cYou do not have a potion stack in your hand!'
+unstackSuccesfulMessage: '&9Your potions have been unstacked!'
+noInventorySpaceMessage: '&cYou don''t have enough inventory space'
+amountLargerThanStackMessage: '&cThe amount you want to unstack by is larger than the potion stack!'
+argNeedsToBeAmountMessage: '&cThe amount to unstack needs to be a number!'
+notPotionMessage: '&cYou do not have a potion stack in your hand!'

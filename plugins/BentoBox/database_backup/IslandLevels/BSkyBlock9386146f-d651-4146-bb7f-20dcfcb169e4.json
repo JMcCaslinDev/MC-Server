@@ -1,0 +1,31 @@
+{
+  "uniqueId": "BSkyBlock9386146f-d651-4146-bb7f-20dcfcb169e4",
+  "level": 404,
+  "initialLevel": 3,
+  "pointsToNextLevel": 49,
+  "uwCount": {},
+  "mdCount": {
+    "GLASS": 1116,
+    "SNOW": 536,
+    "AIR": 10067902,
+    "OAK_LEAVES": 29,
+    "DIAMOND_BLOCK": 7840,
+    "WATER": 3,
+    "LAVA": 1,
+    "COBWEB": 3,
+    "BIRCH_TRAPDOOR": 60,
+    "COBBLESTONE_SLAB": 2,
+    "SPRUCE_SLAB": 9,
+    "DIRT": 48,
+    "GRASS_BLOCK": 76,
+    "GOLD_ORE": 1,
+    "OAK_SIGN": 1,
+    "CHEST": 1,
+    "STONE": 56,
+    "BEDROCK": 1,
+    "OAK_LOG": 5,
+    "SAND": 3,
+    "WALL_TORCH": 1,
+    "COBBLESTONE_STAIRS": 2
+  }
+}

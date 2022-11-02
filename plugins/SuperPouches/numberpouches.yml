@@ -1,0 +1,138 @@
+NumberExample:
+  name: "NumberExample"
+  min: 100
+  max: 1000
+  format:
+    enabled: false
+    locale: "US"
+  message: "&eThe &6Number Example &epouch chose the number &6%number%"
+  title:
+    enabled: true
+    message: "&e%number%"
+    submessage: "&7&o(( Number Pouch Example ))"
+    reveal_from_right: true
+    color_after_randomization: "&e"
+    fadein_ticks: 0
+    stay_ticks: 20
+    fadeout_ticks: 5
+    update_ticks: 20
+  sound:
+    enabled: true
+    type: "ANVIL_LAND"
+    volume: 10
+    pitch: 1
+  commands:
+    - "example %player% %number%"
+  item:
+    material: "OBSIDIAN"
+    name: "&e&lNumber Pouch Example"
+    lore:
+      - "&7This is an example of a number pouch"
+      - ""
+      - "&7Information:"
+      - " &fMinimum amount: &7%min%"
+      - " &fMaximum amount: &7%max%"
+    durability: 0
+    glow: true
+Money:
+  name: "Money"
+  min: 100000
+  max: 250000
+  format:
+    enabled: true
+    locale: "US"
+  message: "&a&l+ $%number%"
+  title:
+    enabled: true
+    message: "&2$&a%number%"
+    submessage: "&7&o(( Money Pouch ))"
+    reveal_from_right: true
+    color_after_randomization: "&a"
+    fadein_ticks: 0
+    stay_ticks: 20
+    fadeout_ticks: 5
+    update_ticks: 10
+  sound:
+    enabled: true
+    type: "NOTE_PLING"
+    volume: 10
+    pitch: 1
+  commands:
+    - "eco give %player% %number%"
+  item:
+    material: "ENDER_CHEST"
+    name: "&a&lMoney Pouch Example (&f???&a&l)"
+    lore:
+      - "&aAmount: &f100k-250k"
+      - ""
+      - "&a&l(!) &aRight Click to open the pouch"
+    durability: 0
+    glow: false
+Experience:
+  name: "Experience"
+  min: 1000
+  max: 10000
+  format:
+    enabled: true
+    locale: "US"
+  message: "&a&l+ %number% Exp"
+  title:
+    enabled: true
+    message: "&d%number%&r &5EXP"
+    submessage: "&7&o(( Experience Pouch ))"
+    reveal_from_right: true
+    color_after_randomization: "&d"
+    fadein_ticks: 0
+    stay_ticks: 20
+    fadeout_ticks: 5
+    update_ticks: 10
+  sound:
+    enabled: true
+    type: "ORB_PICKUP"
+    volume: 10
+    pitch: 1
+  commands:
+    - "essentials:xp give %player% %number%"
+  item:
+    material: "EXP_BOTTLE"
+    name: "&d&lExperience Pouch Example (&f???&d&l)"
+    lore:
+      - "&dAmount: &f1k-10k"
+      - ""
+      - "&d&l(!) &dRight Click to open the pouch"
+    durability: 0
+    glow: false
+MobCoins:
+  name: "MobCoins"
+  min: 100
+  max: 1000
+  format:
+    enabled: true
+    locale: "US"
+  message: "&a&l+ %number% MobCoins"
+  title:
+    enabled: true
+    message: "&b%number%&r &3MobCoins"
+    submessage: "&7&o(( MobCoins Pouch ))"
+    reveal_from_right: true
+    color_after_randomization: "&b"
+    fadein_ticks: 0
+    stay_ticks: 20
+    fadeout_ticks: 5
+    update_ticks: 10
+  sound:
+    enabled: true
+    type: "ORB_PICKUP"
+    volume: 10
+    pitch: 1
+  commands:
+    - "mobcoins give %player% %number%"
+  item:
+    material: "DOUBLE_PLANT"
+    name: "&b&lMobCoins Pouch Example(&f???&b&l)"
+    lore:
+      - "&bAmount: &f100-1k"
+      - ""
+      - "&b&l(!) &bRight Click to open the pouch"
+    durability: 0
+    glow: false

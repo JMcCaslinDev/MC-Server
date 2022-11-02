@@ -1,0 +1,605 @@
+[00:00:11] [Server thread/INFO]: birton issued server command: /island border
+[00:00:34] [Server thread/INFO]: DISCORD >> Link your account @ /discord
+[00:00:57] [Timer-6/INFO]: [VotingPlugin] Detected day changed, processing...
+[00:00:57] [Timer-6/INFO]: [VotingPlugin] Time change event: DAY, Fake: false
+[00:00:57] [Timer-6/INFO]: [VotingPlugin] Finished processing day change, took 0 seconds
+[00:00:57] [Timer-6/INFO]: [VotingPlugin] Created zip file at /Users/Jonathan/Desktop/Clean Paper Server 1.19/plugins/VotingPlugin/Backups/Backup-2022_NOVEMBER_2.zip
+[00:00:57] [Timer-6/INFO]: [VotingPlugin] Finished processing day changes
+[00:01:02] [Server thread/INFO]: birton issued server command: /ci
+[00:01:04] [Server thread/INFO]: birton issued server command: /time day
+[00:01:06] [Server thread/INFO]: birton issued server command: /plugins
+[00:01:21] [Server thread/INFO]: birton issued server command: /jetsminion
+[00:01:27] [Server thread/INFO]: birton issued server command: /jetsminion store
+[00:01:34] [Server thread/INFO]: ANNOUNCER >> Use the the /luckspinner command to earn free daily rewards!
+[00:02:34] [Server thread/INFO]: DISCORD >> Link your account @ /discord
+[00:02:55] [Server thread/INFO]: birton issued server command: //pos1
+[00:02:57] [Server thread/INFO]: birton issued server command: //wand
+[00:03:19] [Server thread/INFO]: birton issued server command: //set oak_sapling
+[00:03:34] [Server thread/INFO]: ANNOUNCER >> Use the the /luckspinner command to earn free daily rewards!
+[00:04:13] [Server thread/INFO]: §7[§cCrazyEnvoys§7]: §c[§4ALERT§c] §7There is an envoy event happening in §610m, 0s§7.
+[00:04:18] [User Authenticator #2/INFO]: UUID of player holyamethyst22 is cca0350e-e079-4701-bc25-d77250da6b25
+[00:04:19] [Server thread/WARN]: java.lang.NoSuchFieldException: playerConnection
+[00:04:19] [Server thread/WARN]: 	at java.base/java.lang.Class.getDeclaredField(Class.java:2663)
+[00:04:19] [Server thread/WARN]: 	at BlackMarket.jar//dev.minecraftdorado.blackmarket.utils.packets.Reflections.getField(Reflections.java:50)
+[00:04:19] [Server thread/WARN]: 	at BlackMarket.jar//dev.minecraftdorado.blackmarket.utils.packets.PacketReader$reader.<init>(PacketReader.java:37)
+[00:04:19] [Server thread/WARN]: 	at BlackMarket.jar//dev.minecraftdorado.blackmarket.utils.packets.PacketReader.get(PacketReader.java:23)
+[00:04:19] [Server thread/WARN]: 	at BlackMarket.jar//dev.minecraftdorado.blackmarket.listeners.PlayerListener.join(PlayerListener.java:38)
+[00:04:19] [Server thread/WARN]: 	at com.destroystokyo.paper.event.executor.MethodHandleEventExecutor.execute(MethodHandleEventExecutor.java:37)
+[00:04:19] [Server thread/WARN]: 	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80)
+[00:04:19] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[00:04:19] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:670)
+[00:04:19] [Server thread/WARN]: 	at net.minecraft.server.players.PlayerList.postChunkLoadJoin(PlayerList.java:372)
+[00:04:19] [Server thread/WARN]: 	at net.minecraft.server.players.PlayerList.lambda$placeNewPlayer$0(PlayerList.java:309)
+[00:04:19] [Server thread/WARN]: 	at net.minecraft.server.TickTask.run(TickTask.java:18)
+[00:04:19] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.d(IAsyncTaskHandler.java:153)
+[00:04:19] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.d(IAsyncTaskHandlerReentrant.java:24)
+[00:04:19] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1341)
+[00:04:19] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:185)
+[00:04:19] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.x(IAsyncTaskHandler.java:126)
+[00:04:19] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.bh(MinecraftServer.java:1318)
+[00:04:19] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1311)
+[00:04:19] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.c(IAsyncTaskHandler.java:136)
+[00:04:19] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1389)
+[00:04:19] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.v(MinecraftServer.java:1173)
+[00:04:19] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:305)
+[00:04:19] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1589)
+[00:04:19] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "Object.getClass()" because "object" is null
+[00:04:19] [Server thread/WARN]: 	at BlackMarket.jar//dev.minecraftdorado.blackmarket.utils.packets.Reflections.getField(Reflections.java:50)
+[00:04:19] [Server thread/WARN]: 	at BlackMarket.jar//dev.minecraftdorado.blackmarket.utils.packets.PacketReader$reader.<init>(PacketReader.java:38)
+[00:04:19] [Server thread/WARN]: 	at BlackMarket.jar//dev.minecraftdorado.blackmarket.utils.packets.PacketReader.get(PacketReader.java:23)
+[00:04:19] [Server thread/WARN]: 	at BlackMarket.jar//dev.minecraftdorado.blackmarket.listeners.PlayerListener.join(PlayerListener.java:38)
+[00:04:19] [Server thread/WARN]: 	at com.destroystokyo.paper.event.executor.MethodHandleEventExecutor.execute(MethodHandleEventExecutor.java:37)
+[00:04:19] [Server thread/WARN]: 	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80)
+[00:04:19] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[00:04:19] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:670)
+[00:04:19] [Server thread/WARN]: 	at net.minecraft.server.players.PlayerList.postChunkLoadJoin(PlayerList.java:372)
+[00:04:19] [Server thread/WARN]: 	at net.minecraft.server.players.PlayerList.lambda$placeNewPlayer$0(PlayerList.java:309)
+[00:04:19] [Server thread/WARN]: 	at net.minecraft.server.TickTask.run(TickTask.java:18)
+[00:04:19] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.d(IAsyncTaskHandler.java:153)
+[00:04:19] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.d(IAsyncTaskHandlerReentrant.java:24)
+[00:04:19] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1341)
+[00:04:19] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:185)
+[00:04:19] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.x(IAsyncTaskHandler.java:126)
+[00:04:19] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.bh(MinecraftServer.java:1318)
+[00:04:19] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1311)
+[00:04:19] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.c(IAsyncTaskHandler.java:136)
+[00:04:19] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1389)
+[00:04:19] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.v(MinecraftServer.java:1173)
+[00:04:19] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:305)
+[00:04:19] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1589)
+[00:04:19] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to BlackMarket v1.34.1
+java.lang.NullPointerException: Cannot invoke "io.netty.channel.Channel.pipeline()" because "this.channel" is null
+	at dev.minecraftdorado.blackmarket.utils.packets.PacketReader$reader.inject(PacketReader.java:46) ~[BlackMarket.jar:?]
+	at dev.minecraftdorado.blackmarket.listeners.PlayerListener.join(PlayerListener.java:38) ~[BlackMarket.jar:?]
+	at com.destroystokyo.paper.event.executor.MethodHandleEventExecutor.execute(MethodHandleEventExecutor.java:37) ~[paper-api-1.19.2-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.19.2-R0.1-SNAPSHOT.jar:git-Paper-201]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.19.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:670) ~[paper-api-1.19.2-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.players.PlayerList.postChunkLoadJoin(PlayerList.java:372) ~[paper-1.19.2.jar:git-Paper-201]
+	at net.minecraft.server.players.PlayerList.lambda$placeNewPlayer$0(PlayerList.java:309) ~[paper-1.19.2.jar:git-Paper-201]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.19.2.jar:git-Paper-201]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1341) ~[paper-1.19.2.jar:git-Paper-201]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:185) ~[paper-1.19.2.jar:git-Paper-201]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1318) ~[paper-1.19.2.jar:git-Paper-201]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1311) ~[paper-1.19.2.jar:git-Paper-201]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1389) ~[paper-1.19.2.jar:git-Paper-201]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1173) ~[paper-1.19.2.jar:git-Paper-201]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:305) ~[paper-1.19.2.jar:git-Paper-201]
+	at java.lang.Thread.run(Thread.java:1589) ~[?:?]
+[00:04:19] [Server thread/INFO]: holyamethyst22 joined the game
+[00:04:19] [Server thread/INFO]: holyamethyst22[/192.168.0.10:62583] logged in with entity id 40308 at ([skyblock_world]-51.060029462392635, 126.24936277795925, -809.0199439041319)
+[00:04:34] [Server thread/INFO]: DISCORD >> Link your account @ /discord
+[00:05:32] [Server thread/INFO]: birton issued server command: /ci
+[00:05:34] [Server thread/INFO]: ANNOUNCER >> Use the the /luckspinner command to earn free daily rewards!
+[00:05:36] [Server thread/INFO]: [com.fastasyncworldedit.bukkit.listener.ChunkListener] [FAWE Tick Limiter] Detected and cancelled physics lag source at Location{world=CraftWorld{name=skyblock_world},x=-812.0,y=129.0,z=1593.0,pitch=0.0,yaw=0.0}
+[00:06:02] [Server thread/INFO]: holyamethyst22 issued server command: /gm 1
+[00:06:08] [Server thread/INFO]: birton issued server command: /killall all
+[00:06:20] [Server thread/INFO]: [com.fastasyncworldedit.bukkit.listener.ChunkListener] [FAWE Tick Limiter] Detected and cancelled physics lag source at Location{world=CraftWorld{name=skyblock_world},x=-797.0,y=129.0,z=1611.0,pitch=0.0,yaw=0.0}
+[00:06:24] [Server thread/INFO]: birton issued server command: /is warps
+[00:06:25] [Server thread/INFO]: [BentoBox] [Warps] birton called: `island warp holyamethyst22`
+[00:06:32] [Server thread/INFO]: birton issued server command: /minions shop
+[00:06:34] [Server thread/INFO]: DISCORD >> Link your account @ /discord
+[00:06:35] [Server thread/INFO]: birton issued server command: /minions store
+[00:07:05] [Craft Scheduler Thread - 427 - TowerDefense/INFO]: [TowerDefense] Players stats have been saved!
+[00:07:34] [Server thread/INFO]: ANNOUNCER >> Use the the /luckspinner command to earn free daily rewards!
+[00:08:06] [Server thread/INFO]: birton issued server command: /weather sun
+[00:08:09] [Server thread/INFO]: birton issued server command: /ci
+[00:08:34] [Server thread/INFO]: DISCORD >> Link your account @ /discord
+[00:08:46] [Server thread/INFO]: birton issued server command: /give birton tnt 9000
+[00:08:56] [Server thread/INFO]: birton issued server command: /give birton tnt 9000
+[00:09:16] [Server thread/INFO]: birton issued server command: /ci
+[00:09:33] [Server thread/INFO]: holyamethyst22 issued server command: /fish
+[00:09:34] [Server thread/INFO]: ANNOUNCER >> Use the the /luckspinner command to earn free daily rewards!
+[00:10:24] [Server thread/INFO]: birton issued server command: /island go
+[00:10:33] [Server thread/INFO]: [com.fastasyncworldedit.bukkit.listener.ChunkListener] [FAWE Tick Limiter] Detected and cancelled physics lag source at Location{world=CraftWorld{name=skyblock_world},x=-809.0,y=134.0,z=1599.0,pitch=0.0,yaw=0.0}
+[00:10:34] [Server thread/INFO]: DISCORD >> Link your account @ /discord
+[00:10:34] [Server thread/INFO]: birton issued server command: //set air
+[00:10:44] [Server thread/INFO]: birton issued server command: //wand
+[00:11:05] [Server thread/INFO]: birton issued server command: //pos2
+[00:11:06] [Server thread/INFO]: birton issued server command: //set air
+[00:11:11] [Server thread/INFO]: birton issued server command: /ci
+[00:11:34] [Server thread/INFO]: ANNOUNCER >> Use the the /luckspinner command to earn free daily rewards!
+[00:12:01] [Server thread/INFO]: birton issued server command: /time day
+[00:12:04] [Server thread/INFO]: [Lottery] There were no Tickets sold.
+[00:12:34] [Server thread/INFO]: DISCORD >> Link your account @ /discord
+[00:13:13] [Server thread/INFO]: §7[§cCrazyEnvoys§7]: §c[§4ALERT§c] §7There is an envoy event happening in §61m, 0s§7.
+[00:13:34] [Server thread/INFO]: ANNOUNCER >> Use the the /luckspinner command to earn free daily rewards!
+[00:13:43] [Server thread/INFO]: §7[§cCrazyEnvoys§7]: §c[§4ALERT§c] §7There is an envoy event happening in §630s§7.
+[00:13:53] [Server thread/INFO]: §7[§cCrazyEnvoys§7]: §c[§4ALERT§c] §7There is an envoy event happening in §620s§7.
+[00:14:03] [Server thread/INFO]: §7[§cCrazyEnvoys§7]: §c[§4ALERT§c] §7There is an envoy event happening in §610s§7.
+[00:14:08] [Server thread/INFO]: §7[§cCrazyEnvoys§7]: §c[§4ALERT§c] §7There is an envoy event happening in §65s§7.
+[00:14:10] [Server thread/INFO]: §7[§cCrazyEnvoys§7]: §c[§4ALERT§c] §7There is an envoy event happening in §63s§7.
+[00:14:12] [Server thread/INFO]: §7[§cCrazyEnvoys§7]: §c[§4ALERT§c] §7There is an envoy event happening in §61s§7.
+[00:14:13] [Server thread/INFO]: §7[§cCrazyEnvoys§7]: §cNo spawn locations were found and so the event has been cancelled and the cooldown has been reset.
+[00:14:34] [Server thread/INFO]: DISCORD >> Link your account @ /discord
+[00:14:40] [Server thread/INFO]: holyamethyst22 issued server command: /gm 0
+[00:14:50] [Server thread/INFO]: holyamethyst22 issued server command: /gm 1
+[00:15:34] [Server thread/INFO]: ANNOUNCER >> Use the the /luckspinner command to earn free daily rewards!
+[00:16:34] [Server thread/INFO]: DISCORD >> Link your account @ /discord
+[00:17:05] [Craft Scheduler Thread - 493 - TowerDefense/INFO]: [TowerDefense] Players stats have been saved!
+[00:17:34] [Server thread/INFO]: ANNOUNCER >> Use the the /luckspinner command to earn free daily rewards!
+[00:18:34] [Server thread/INFO]: DISCORD >> Link your account @ /discord
+[00:19:34] [Server thread/INFO]: ANNOUNCER >> Use the the /luckspinner command to earn free daily rewards!
+[00:20:34] [Server thread/INFO]: DISCORD >> Link your account @ /discord
+[00:21:34] [Server thread/INFO]: ANNOUNCER >> Use the the /luckspinner command to earn free daily rewards!
+[00:22:34] [Server thread/INFO]: DISCORD >> Link your account @ /discord
+[00:23:34] [Server thread/INFO]: ANNOUNCER >> Use the the /luckspinner command to earn free daily rewards!
+[00:24:34] [Server thread/INFO]: DISCORD >> Link your account @ /discord
+[00:25:34] [Server thread/INFO]: ANNOUNCER >> Use the the /luckspinner command to earn free daily rewards!
+[00:26:34] [Server thread/INFO]: DISCORD >> Link your account @ /discord
+[00:27:05] [Craft Scheduler Thread - 473 - TowerDefense/INFO]: [TowerDefense] Players stats have been saved!
+[00:27:06] [Craft Scheduler Thread - 427 - BentoBox/INFO]: [BentoBox] Downloading data from GitHub...
+[00:27:06] [Craft Scheduler Thread - 427 - BentoBox/INFO]: [BentoBox] Updating the Catalog...
+[00:27:06] [Craft Scheduler Thread - 427 - BentoBox/INFO]: [BentoBox] Updating Contributors information...
+[00:27:06] [Craft Scheduler Thread - 427 - BentoBox/INFO]: [BentoBox] Gathering contribution data for: BentoBoxWorld/BentoBox, BentoBoxWorld/BSkyBlock, BentoBoxWorld/MagicCobblestoneGenerator, BentoBoxWorld/Likes, BentoBoxWorld/Upgrades, BentoBoxWorld/VoidPortals, BentoBoxWorld/Biomes, BentoBoxWorld/ExtraMobs, BentoBoxWorld/Visit, BentoBoxWorld/ControlPanel, BentoBoxWorld/CauldronWitchery, BentoBoxWorld/Challenges
+[00:27:06] [Craft Scheduler Thread - 427 - BentoBox/INFO]: [BentoBox] Successfully downloaded data from GitHub.
+[00:27:31] [Server thread/INFO]: holyamethyst22 issued server command: /weather sun
+[00:27:34] [Server thread/INFO]: ANNOUNCER >> Use the the /luckspinner command to earn free daily rewards!
+[00:27:34] [Craft Scheduler Thread - 460 - BentoBox/INFO]: [BentoBox] Downloading data from GitHub...
+[00:27:34] [Craft Scheduler Thread - 453 - BentoBox/INFO]: [BentoBox] Downloading data from GitHub...
+[00:27:34] [Craft Scheduler Thread - 453 - BentoBox/INFO]: [BentoBox] Successfully downloaded data from GitHub.
+[00:27:34] [Craft Scheduler Thread - 437 - BentoBox/INFO]: [BentoBox] Downloading data from GitHub...
+[00:27:34] [Craft Scheduler Thread - 437 - BentoBox/INFO]: [BentoBox] Successfully downloaded data from GitHub.
+[00:27:35] [Craft Scheduler Thread - 460 - BentoBox/INFO]: [BentoBox] Could not connect to GitHub.
+[00:27:35] [Craft Scheduler Thread - 460 - BentoBox/INFO]: [BentoBox] Successfully downloaded data from GitHub.
+[00:28:34] [Server thread/INFO]: DISCORD >> Link your account @ /discord
+[00:29:34] [Server thread/INFO]: ANNOUNCER >> Use the the /luckspinner command to earn free daily rewards!
+[00:30:13] [Server thread/INFO]: holyamethyst22 issued server command: //wand
+[00:30:34] [Server thread/INFO]: DISCORD >> Link your account @ /discord
+[00:30:43] [Server thread/INFO]: holyamethyst22 issued server command: //set air
+[00:30:49] [Server thread/INFO]: holyamethyst22 issued server command: /time day
+[00:30:53] [Server thread/INFO]: holyamethyst22 issued server command: /weather sun
+[00:31:03] [Server thread/INFO]: holyamethyst22 issued server command: /killall hostile
+[00:31:34] [Server thread/INFO]: ANNOUNCER >> Use the the /luckspinner command to earn free daily rewards!
+[00:31:52] [Server thread/INFO]: birton issued server command: /shop
+[00:32:34] [Server thread/INFO]: DISCORD >> Link your account @ /discord
+[00:33:34] [Server thread/INFO]: ANNOUNCER >> Use the the /luckspinner command to earn free daily rewards!
+[00:34:34] [Server thread/INFO]: DISCORD >> Link your account @ /discord
+[00:35:09] [Server thread/INFO]: birton issued server command: /deop birton
+[00:35:09] [Server thread/INFO]: [birton: Made birton no longer a server operator]
+[00:35:13] [Async Chat Thread - #8/INFO]: <[Member]birton> .
+[00:35:15] [Server thread/INFO]: birton issued server command: /fly
+[00:35:15] [Server thread/INFO]: [Essentials] birton was denied access to command.
+[00:35:27] [Server thread/INFO]: birton issued server command: /island
+[00:35:34] [Server thread/INFO]: ANNOUNCER >> Use the the /luckspinner command to earn free daily rewards!
+[00:36:18] [Server thread/INFO]: birton issued server command: /shop
+[00:36:20] [Server thread/INFO]: birton issued server command: /shop
+[00:36:31] [Server thread/INFO]: birton issued server command: /spawn
+[00:36:34] [Server thread/INFO]: DISCORD >> Link your account @ /discord
+[00:36:35] [Server thread/INFO]: birton issued server command: /spawn
+[00:37:05] [Craft Scheduler Thread - 477 - TowerDefense/INFO]: [TowerDefense] Players stats have been saved!
+[00:37:21] [Server thread/INFO]: birton issued server command: /spawn
+[00:37:34] [Server thread/INFO]: ANNOUNCER >> Use the the /luckspinner command to earn free daily rewards!
+[00:37:37] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[00:37:40] [luckperms-command-executor/INFO]: [LP] Preparing a new editor session, please wait...
+[00:37:45] [luckperms-command-executor/INFO]: [LP] Click the link below to open the editor:
+[00:37:45] [luckperms-command-executor/INFO]: https://luckperms.net/editor/fOyq34IxpN
+[00:37:54] [luckperms-worker-1/INFO]: [LP] Editor window connected successfully.
+[00:38:22] [luckperms-worker-1/INFO]: [LP] Changes have been received from the connected web editor session.
+[00:38:22] [luckperms-worker-1/INFO]: [LP] Web editor data was applied to group default successfully.
+[00:38:22] [luckperms-worker-1/INFO]: [LP] (1 addition and 0 deletions)
+[00:38:22] [luckperms-worker-1/INFO]: +  customcommands.spawn (true)
+[00:38:32] [luckperms-worker-1/INFO]: [LP] Changes have been received from the connected web editor session.
+[00:38:32] [luckperms-worker-1/INFO]: [LP] No changes were applied from the web editor, the returned data didn't contain any edits.
+[00:38:34] [Server thread/INFO]: DISCORD >> Link your account @ /discord
+[00:38:40] [luckperms-worker-9/INFO]: [LP] Changes have been received from the connected web editor session.
+[00:38:40] [luckperms-worker-9/INFO]: [LP] No changes were applied from the web editor, the returned data didn't contain any edits.
+[00:38:47] [Server thread/INFO]: birton issued server command: /spawn
+[00:39:13] [luckperms-worker-9/INFO]: [LP] Changes have been received from the connected web editor session.
+[00:39:13] [luckperms-worker-9/INFO]: [LP] Web editor data was applied to group default successfully.
+[00:39:13] [luckperms-worker-9/INFO]: [LP] (1 addition and 0 deletions)
+[00:39:13] [luckperms-worker-9/INFO]: +  customcommands.shop (true)
+[00:39:19] [Server thread/INFO]: birton issued server command: /shop
+[00:39:31] [Server thread/INFO]: birton issued server command: /is go
+[00:39:34] [Server thread/INFO]: ANNOUNCER >> Use the the /luckspinner command to earn free daily rewards!
+[00:40:15] [Server thread/INFO]: birton issued server command: /cf
+[00:40:19] [Server thread/INFO]: birton issued server command: /auction
+[00:40:25] [Server thread/INFO]: birton issued server command: /spawn holyamethyst22
+[00:40:34] [Server thread/INFO]: DISCORD >> Link your account @ /discord
+[00:40:58] [Server thread/INFO]: birton issued server command: /fly
+[00:40:58] [Server thread/INFO]: [Essentials] birton was denied access to command.
+[00:41:02] [Server thread/INFO]: birton issued server command: /buy
+[00:41:02] [Server thread/INFO]: Inventory appears to be empty, trying to read from gui.cache file...
+[00:41:02] [Server thread/WARN]: java.io.FileNotFoundException: plugins/BuycraftX/gui.cache (No such file or directory)
+[00:41:02] [Server thread/WARN]: 	at java.base/java.io.FileInputStream.open0(Native Method)
+[00:41:02] [Server thread/WARN]: 	at java.base/java.io.FileInputStream.open(FileInputStream.java:219)
+[00:41:02] [Server thread/WARN]: 	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:158)
+[00:41:02] [Server thread/WARN]: 	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:112)
+[00:41:02] [Server thread/WARN]: 	at java.base/java.io.FileReader.<init>(FileReader.java:60)
+[00:41:02] [Server thread/WARN]: 	at BuycraftX.jar//net.buycraft.plugin.bukkit.gui.ViewCategoriesGUI.open(ViewCategoriesGUI.java:41)
+[00:41:02] [Server thread/WARN]: 	at BuycraftX.jar//net.buycraft.plugin.bukkit.BuycraftListener.onPlayerCommandPreprocess(BuycraftListener.java:48)
+[00:41:02] [Server thread/WARN]: 	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor182.execute(Unknown Source)
+[00:41:02] [Server thread/WARN]: 	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:75)
+[00:41:02] [Server thread/WARN]: 	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80)
+[00:41:02] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[00:41:02] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:670)
+[00:41:02] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection.b(PlayerConnection.java:2262)
+[00:41:02] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection.lambda$handleChatCommand$20(PlayerConnection.java:2248)
+[00:41:02] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.b(IAsyncTaskHandler.java:59)
+[00:41:02] [Server thread/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+[00:41:02] [Server thread/WARN]: 	at net.minecraft.server.TickTask.run(TickTask.java:18)
+[00:41:02] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.d(IAsyncTaskHandler.java:153)
+[00:41:02] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.d(IAsyncTaskHandlerReentrant.java:24)
+[00:41:02] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1341)
+[00:41:02] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:185)
+[00:41:02] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.x(IAsyncTaskHandler.java:126)
+[00:41:02] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.bh(MinecraftServer.java:1318)
+[00:41:02] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1311)
+[00:41:02] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.c(IAsyncTaskHandler.java:136)
+[00:41:02] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1289)
+[00:41:02] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.v(MinecraftServer.java:1177)
+[00:41:02] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:305)
+[00:41:02] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1589)
+[00:41:06] [Server thread/INFO]: birton issued server command: /plugins
+[00:41:17] [Server thread/INFO]: birton issued server command: /minions
+[00:41:25] [Server thread/INFO]: birton issued server command: /minions store
+[00:41:34] [Server thread/INFO]: ANNOUNCER >> Use the the /luckspinner command to earn free daily rewards!
+[00:41:49] [Server thread/INFO]: birton issued server command: /minions
+[00:42:34] [Server thread/INFO]: DISCORD >> Link your account @ /discord
+[00:42:46] [Server thread/INFO]: birton issued server command: /minions
+[00:42:53] [luckperms-command-executor/INFO]: [LP] Web editor data was applied to group default successfully.
+[00:42:53] [luckperms-command-executor/INFO]: [LP] (3 additions and 0 deletions)
+[00:42:53] [luckperms-command-executor/INFO]: +  minions.player.store (true)
+[00:42:53] [luckperms-command-executor/INFO]: +  minions.player.linkchest (true)
+[00:42:53] [luckperms-command-executor/INFO]: +  minions.place.default (true)
+[00:42:56] [Server thread/INFO]: birton issued server command: /minions
+[00:42:59] [Server thread/INFO]: birton issued server command: /minions store
+[00:43:13] [Server thread/INFO]: birton issued server command: /time day
+[00:43:13] [Server thread/INFO]: [Essentials] birton was denied access to command.
+[00:43:34] [Server thread/INFO]: ANNOUNCER >> Use the the /luckspinner command to earn free daily rewards!
+[00:43:55] [Server thread/INFO]: birton issued server command: /sba
+[00:44:13] [Server thread/INFO]: §7[§cCrazyEnvoys§7]: §c[§4ALERT§c] §7There is an envoy event happening in §630m, 0s§7.
+[00:44:22] [Server thread/INFO]: birton issued server command: /plugins
+[00:44:34] [Server thread/INFO]: DISCORD >> Link your account @ /discord
+[00:44:40] [Server thread/INFO]: birton issued server command: /potionstack
+[00:45:08] [Server thread/INFO]: birton issued server command: /island
+[00:45:18] [Async Chat Thread - #10/INFO]: <[Member]birton> 5
+[00:45:22] [Server thread/INFO]: birton issued server command: /help
+[00:45:29] [Server thread/INFO]: birton issued server command: /help pvp
+[00:45:34] [Server thread/INFO]: ANNOUNCER >> Use the the /luckspinner command to earn free daily rewards!
+[00:45:36] [Server thread/INFO]: birton issued server command: /help shop
+[00:45:57] [Server thread/INFO]: birton issued server command: /ia
+[00:46:01] [Server thread/INFO]: birton issued server command: /ianvil
+[00:46:05] [Server thread/INFO]: birton issued server command: /ianvil help
+[00:46:09] [Server thread/INFO]: birton issued server command: /island
+[00:46:28] [Server thread/WARN]: [Pladdon] Loaded class dev.rosewood.rosestacker.api.RoseStackerAPI from RoseStacker v1.4.15 which is not a depend or softdepend of this plugin.
+[00:46:34] [Server thread/INFO]: DISCORD >> Link your account @ /discord
+[00:47:05] [Craft Scheduler Thread - 538 - TowerDefense/INFO]: [TowerDefense] Players stats have been saved!
+[00:47:32] [Server thread/INFO]: birton issued server command: /weather sun
+[00:47:32] [Server thread/INFO]: [Essentials] birton was denied access to command.
+[00:47:34] [Server thread/INFO]: ANNOUNCER >> Use the the /luckspinner command to earn free daily rewards!
+[00:47:37] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /weather sun
+[00:47:37] [Server thread/INFO]: Error: When running from console, usage is: /weather <world> <storm/sun> [duration]
+[00:48:05] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /weather skyblock_world sun 9999999999
+[00:48:05] [Server thread/INFO]: Error: For input string: "9999999999"
+[00:48:17] [Server thread/INFO]: birton issued server command: /shop
+[00:48:27] [Server thread/INFO]: [EconomyShopGUI] §8[§fMember§8]§fbirton§r bought 1 x §dBlaze Spawner(Spawners.15) for $950,000 with the buy screen.
+[00:48:31] [Server thread/WARN]: [EconomyShopGUI] Player birton tried to mine a spawner with a not allowed spawner-break-tool: ItemStack{SPAWNER x 1, TILE_ENTITY_META:{meta-type=TILE_ENTITY, display-name={"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"light_purple","text":"Blaze Spawner"}],"text":""}, internal=H4sIAAAAAAAA/+NiYOBiYHUNdg/15GDgDi5ILM9LLQqpLEhlYHXycYxyZWAAAKLJWMYiAAAA, blockMaterial=SPAWNER}}
+[00:48:34] [Server thread/INFO]: DISCORD >> Link your account @ /discord
+[00:49:32] [Server thread/INFO]: birton issued server command: /ci
+[00:49:32] [Server thread/INFO]: [Essentials] birton was denied access to command.
+[00:49:34] [Server thread/INFO]: ANNOUNCER >> Use the the /luckspinner command to earn free daily rewards!
+[00:49:44] [Server thread/INFO]: birton issued server command: /lottery
+[00:49:47] [Server thread/INFO]: birton issued server command: /lottery help
+[00:50:00] [Server thread/INFO]: birton issued server command: /island bank
+[00:50:20] [Server thread/INFO]: birton issued server command: /shop
+[00:50:34] [Server thread/INFO]: DISCORD >> Link your account @ /discord
+[00:51:34] [Server thread/INFO]: ANNOUNCER >> Use the the /luckspinner command to earn free daily rewards!
+[00:52:34] [Server thread/INFO]: DISCORD >> Link your account @ /discord
+[00:53:09] [Server thread/INFO]: Made birton a server operator
+[00:53:23] [Server thread/INFO]: birton issued server command: /economyshopgui:sreload
+[00:53:23] [Server thread/INFO]: [EconomyShopGUI] Using lang-en.yml as language file.
+[00:53:23] [Server thread/INFO]: [EconomyShopGUI] Shops.yml has been found!
+[00:53:23] [Server thread/INFO]: [EconomyShopGUI] Sections.yml is not found, creating one...
+[00:53:23] [Server thread/INFO]: [EconomyShopGUI] Sections.yml successful created!
+[00:53:23] [Server thread/INFO]: [EconomyShopGUI] Successfully hooked into Vault
+[00:53:23] [Server thread/INFO]: [EconomyShopGUI] Using minecraft version 1.19.2...
+[00:53:23] [Server thread/INFO]: [EconomyShopGUI] Using plugin default spawners...
+[00:53:23] [Server thread/INFO]: [EconomyShopGUI] Debug mode is enabled.
+[00:53:23] [Server thread/INFO]: [EconomyShopGUI] Updating Shop settings...
+[00:53:23] [Server thread/INFO]: [EconomyShopGUI] Creating a backup from the old shops.yml, the file can be found in the backups folder inside the EconomyShopGUI plugin's folder.
+[00:53:23] [Server thread/INFO]: [EconomyShopGUI] Adding a new shop called Blocks to shops.yml.
+[00:53:23] [Server thread/INFO]: [EconomyShopGUI] Adding a new shop called Decoration to shops.yml.
+[00:53:23] [Server thread/INFO]: [EconomyShopGUI] Adding a new shop called Dyes to shops.yml.
+[00:53:23] [Server thread/INFO]: [EconomyShopGUI] Adding a new shop called Enchanting to shops.yml.
+[00:53:23] [Server thread/INFO]: [EconomyShopGUI] Adding a new shop called Farming to shops.yml.
+[00:53:23] [Server thread/INFO]: [EconomyShopGUI] Adding a new shop called Food to shops.yml.
+[00:53:23] [Server thread/INFO]: [EconomyShopGUI] Adding a new shop called Mobs to shops.yml.
+[00:53:23] [Server thread/INFO]: [EconomyShopGUI] Adding a new shop called Music to shops.yml.
+[00:53:23] [Server thread/INFO]: [EconomyShopGUI] Adding a new shop called Ores to shops.yml.
+[00:53:23] [Server thread/INFO]: [EconomyShopGUI] Adding a new shop called Miscellaneous to shops.yml.
+[00:53:23] [Server thread/INFO]: [EconomyShopGUI] Adding a new shop called Potions to shops.yml.
+[00:53:23] [Server thread/INFO]: [EconomyShopGUI] Adding a new shop called Redstone to shops.yml.
+[00:53:23] [Server thread/INFO]: [EconomyShopGUI] Adding a new shop called Spawners to shops.yml.
+[00:53:23] [Server thread/INFO]: [EconomyShopGUI] Adding a new shop called Workstations to shops.yml.
+[00:53:23] [Server thread/INFO]: [EconomyShopGUI] Adding a new shop called SpawnEggs to shops.yml.
+[00:53:23] [Server thread/INFO]: [EconomyShopGUI] Adding a new shop called Z_EverythingElse to shops.yml.
+[00:53:24] [Server thread/INFO]: [EconomyShopGUI] Loading all items...
+[00:53:24] [Server thread/WARN]: [EconomyShopGUI] [ERROR] Failed to create the transactions log file
+[00:53:27] [Server thread/INFO]: birton issued server command: /shop
+[00:53:34] [Server thread/INFO]: ANNOUNCER >> Use the the /luckspinner command to earn free daily rewards!
+[00:54:34] [Server thread/INFO]: DISCORD >> Link your account @ /discord
+[00:54:58] [Server thread/INFO]: birton issued server command: /economyshopgui:sreload
+[00:54:58] [Server thread/INFO]: [EconomyShopGUI] Using lang-en.yml as language file.
+[00:54:58] [Server thread/INFO]: [EconomyShopGUI] Shops.yml has been found!
+[00:54:58] [Server thread/INFO]: [EconomyShopGUI] Sections.yml has been found!
+[00:54:58] [Server thread/INFO]: [EconomyShopGUI] Successfully hooked into Vault
+[00:54:58] [Server thread/INFO]: [EconomyShopGUI] Using minecraft version 1.19.2...
+[00:54:58] [Server thread/INFO]: [EconomyShopGUI] Using plugin default spawners...
+[00:54:58] [Server thread/INFO]: [EconomyShopGUI] Debug mode is enabled.
+[00:54:58] [Server thread/INFO]: [EconomyShopGUI] Updating Shop settings...
+[00:54:58] [Server thread/INFO]: [EconomyShopGUI] Loading all items...
+[00:55:00] [Server thread/INFO]: birton issued server command: /shop
+[00:55:34] [Server thread/INFO]: ANNOUNCER >> Use the the /luckspinner command to earn free daily rewards!
+[00:55:39] [Server thread/INFO]: holyamethyst22 lost connection: Disconnected
+[00:55:39] [Server thread/ERROR]: Could not pass event PlayerQuitEvent to BlackMarket v1.34.1
+java.lang.NullPointerException: Cannot invoke "io.netty.channel.Channel.pipeline()" because "this.channel" is null
+	at dev.minecraftdorado.blackmarket.utils.packets.PacketReader$reader.uninject(PacketReader.java:57) ~[BlackMarket.jar:?]
+	at dev.minecraftdorado.blackmarket.listeners.PlayerListener.leave(PlayerListener.java:77) ~[BlackMarket.jar:?]
+	at com.destroystokyo.paper.event.executor.MethodHandleEventExecutor.execute(MethodHandleEventExecutor.java:37) ~[paper-api-1.19.2-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.19.2-R0.1-SNAPSHOT.jar:git-Paper-201]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.19.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:670) ~[paper-api-1.19.2-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.players.PlayerList.remove(PlayerList.java:627) ~[paper-1.19.2.jar:git-Paper-201]
+	at net.minecraft.server.players.PlayerList.remove(PlayerList.java:612) ~[paper-1.19.2.jar:git-Paper-201]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.onDisconnect(ServerGamePacketListenerImpl.java:2127) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.onDisconnect(ServerGamePacketListenerImpl.java:2107) ~[?:?]
+	at net.minecraft.network.Connection.handleDisconnection(Connection.java:769) ~[?:?]
+	at net.minecraft.server.network.ServerConnectionListener.tick(ServerConnectionListener.java:253) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1565) ~[paper-1.19.2.jar:git-Paper-201]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446) ~[paper-1.19.2.jar:git-Paper-201]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1397) ~[paper-1.19.2.jar:git-Paper-201]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1173) ~[paper-1.19.2.jar:git-Paper-201]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:305) ~[paper-1.19.2.jar:git-Paper-201]
+	at java.lang.Thread.run(Thread.java:1589) ~[?:?]
+[00:55:39] [Server thread/INFO]: holyamethyst22 left the game
+[00:56:34] [Server thread/INFO]: DISCORD >> Link your account @ /discord
+[00:57:05] [Craft Scheduler Thread - 540 - TowerDefense/INFO]: [TowerDefense] Players stats have been saved!
+[00:57:34] [Server thread/INFO]: ANNOUNCER >> Use the the /luckspinner command to earn free daily rewards!
+[00:58:06] [Server thread/INFO]: [EconomyShopGUI] §8[§fMember§8]§fbirton§r bought 1 x Splash Potion(Potions.43) for $64.99 with the buy screen.
+[00:58:25] [Server thread/INFO]: birton issued server command: /gm 0
+[00:58:27] [Server thread/INFO]: birton issued server command: /fly
+[00:58:34] [Server thread/INFO]: DISCORD >> Link your account @ /discord
+[00:59:13] [Server thread/INFO]: §7[§cCrazyEnvoys§7]: §c[§4ALERT§c] §7There is an envoy event happening in §615m, 0s§7.
+[00:59:34] [Server thread/INFO]: ANNOUNCER >> Use the the /luckspinner command to earn free daily rewards!
+[00:59:37] [Server thread/INFO]: birton issued server command: /shop
+[01:00:34] [Server thread/INFO]: DISCORD >> Link your account @ /discord
+[01:01:34] [Server thread/INFO]: ANNOUNCER >> Use the the /luckspinner command to earn free daily rewards!
+[01:02:34] [Server thread/INFO]: DISCORD >> Link your account @ /discord
+[01:03:34] [Server thread/INFO]: ANNOUNCER >> Use the the /luckspinner command to earn free daily rewards!
+[01:04:13] [Server thread/INFO]: §7[§cCrazyEnvoys§7]: §c[§4ALERT§c] §7There is an envoy event happening in §610m, 0s§7.
+[01:04:34] [Server thread/INFO]: DISCORD >> Link your account @ /discord
+[01:05:34] [Server thread/INFO]: ANNOUNCER >> Use the the /luckspinner command to earn free daily rewards!
+[01:06:34] [Server thread/INFO]: DISCORD >> Link your account @ /discord
+[01:07:05] [Craft Scheduler Thread - 589 - TowerDefense/INFO]: [TowerDefense] Players stats have been saved!
+[01:07:34] [Server thread/INFO]: ANNOUNCER >> Use the the /luckspinner command to earn free daily rewards!
+[01:07:46] [Server thread/INFO]: birton issued server command: /killall hostile
+[01:07:48] [Server thread/INFO]: birton issued server command: /time day
+[01:07:50] [Server thread/INFO]: birton issued server command: /gm 1
+[01:07:54] [Server thread/INFO]: birton issued server command: /stop
+[01:07:54] [Server thread/INFO]: [birton: Stopping the server]
+[01:07:54] [Server thread/INFO]: Stopping server
+[01:07:54] [Server thread/INFO]: [BlackMarket] Disabling BlackMarket v1.34.1
+[01:07:54] [Server thread/ERROR]: Error occurred while disabling BlackMarket v1.34.1 (Is it up to date?)
+java.lang.NullPointerException: Cannot invoke "io.netty.channel.Channel.pipeline()" because "this.channel" is null
+	at dev.minecraftdorado.blackmarket.utils.packets.PacketReader$reader.uninject(PacketReader.java:57) ~[BlackMarket.jar:?]
+	at dev.minecraftdorado.blackmarket.mainclass.MainClass.lambda$2(MainClass.java:112) ~[BlackMarket.jar:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at java.util.Collections$UnmodifiableCollection.forEach(Collections.java:1092) ~[?:?]
+	at dev.minecraftdorado.blackmarket.mainclass.MainClass.onDisable(MainClass.java:106) ~[BlackMarket.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:266) ~[paper-api-1.19.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:399) ~[paper-api-1.19.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:579) ~[paper-api-1.19.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:556) ~[paper-api-1.19.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.disablePlugins(CraftServer.java:499) ~[paper-1.19.2.jar:git-Paper-201]
+	at net.minecraft.server.MinecraftServer.stopServer(MinecraftServer.java:943) ~[paper-1.19.2.jar:git-Paper-201]
+	at net.minecraft.server.dedicated.DedicatedServer.stopServer(DedicatedServer.java:808) ~[paper-1.19.2.jar:git-Paper-201]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1212) ~[paper-1.19.2.jar:git-Paper-201]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:305) ~[paper-1.19.2.jar:git-Paper-201]
+	at java.lang.Thread.run(Thread.java:1589) ~[?:?]
+[01:07:54] [Server thread/INFO]: [JetsMinions] Disabling JetsMinions v7.6.6
+[01:07:54] [Server thread/INFO]: [ComplexTurrets] Disabling ComplexTurrets v3.6.2
+[01:07:54] [Server thread/INFO]: [ComplexTurret] Has been disabled! Version: 3.6.2
+[01:07:54] [Server thread/INFO]: [CrazyEnvoy] Disabling CrazyEnvoy v1.4.17
+[01:07:54] [Server thread/INFO]: [CustomCommands] Disabling CustomCommands v4.3.0
+[01:07:54] [Server thread/INFO]: [CustomCommands-4.3.0] Disabled integration for PlaceholderAPI
+[01:07:54] [Server thread/INFO]: [EconomyShopGUI] Disabling EconomyShopGUI v4.9.3
+[01:07:54] [Server thread/INFO]: [VoidSpawn] Disabling VoidSpawn v1.20.0
+[01:07:54] [Server thread/INFO]: [VoidSpawn] v1.20.0 saving config
+[01:07:54] [Server thread/INFO]: [VoidSpawn] v1.20.0 disabled
+[01:07:54] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.1-b861
+[01:07:54] [Server thread/INFO]: [EvenMoreFish] Disabling EvenMoreFish v1.6.4
+[01:07:54] [Server thread/INFO]: [EvenMoreFish] EvenMoreFish by Oheers : Disabled
+[01:07:54] [Server thread/INFO]: [Quests] Disabling Quests v4.6.0-b361
+[01:07:54] [Server thread/INFO]: [Quests] Saving Quester data...
+[01:07:54] [Server thread/INFO]: [Quests] Closing storage...
+[01:07:54] [Server thread/INFO]: [GCore] Disabling GCore v8.43.1
+[01:07:54] [Server thread/INFO]: [GCore-8.43.1] Disabled integration for PlaceholderAPI
+[01:07:54] [Server thread/INFO]: [GCore-8.43.1] Disabled integration for Citizens
+[01:07:54] [Server thread/INFO]: [RoseStacker] Disabling RoseStacker v1.4.15
+[01:07:54] [Server thread/INFO]: [ChestShop] Disabling ChestShop v3.12.2 (build 353)
+[01:07:55] [Server thread/INFO]: [mcMMO] Disabling mcMMO v2.1.217
+[01:07:55] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion mcmmo
+[01:07:55] [Server thread/INFO]: [PlaceholderAPI] Reason: required plugin mcMMO was disabled.
+[01:07:55] [Server thread/INFO]: [mcMMO] Server shutdown has been executed, saving and cleaning up data...
+[01:07:55] [Server thread/INFO]: [mcMMO] Saving mcMMOPlayers... (1)
+[01:07:55] [Server thread/INFO]: [mcMMO] Saving data for player: birton
+[01:07:55] [Server thread/INFO]: [mcMMO] Finished save operation for 1 players!
+[01:07:55] [Server thread/INFO]: [EchoPet] Disabling EchoPet v2.8.0-b52
+[01:07:55] [Server thread/INFO]: [WG-GUI] Disabling WG-GUI v1.6
+[01:07:55] [Server thread/INFO]: [WG-GUI] Disabling WG-GUI version 1.6
+[01:07:55] [Server thread/INFO]: [BentoBox] Disabling BentoBox v1.20.1
+[01:07:55] [Server thread/INFO]: [BentoBox] Disabling addons...
+[01:07:55] [Server thread/INFO]: [BentoBox] Disabling Level...
+[01:07:55] [Server thread/INFO]: [BentoBox] [Level] Stopping Level queue
+[01:07:55] [Server thread/INFO]: [Pladdon] Disabling Pladdon v2.9.0
+[01:07:55] [Server thread/INFO]: [BentoBox] Disabling BSkyBlock...
+[01:07:55] [Server thread/INFO]: [Pladdon] Disabling Pladdon v1.15.2
+[01:07:55] [Server thread/INFO]: [BentoBox] Disabling TwerkingForTrees...
+[01:07:55] [Server thread/INFO]: [BentoBox] Disabling Border...
+[01:07:55] [Server thread/INFO]: [BentoBox] Disabling Warps...
+[01:07:55] [Server thread/INFO]: [Pladdon] Disabling Pladdon v1.0
+[01:07:55] [Server thread/INFO]: [BentoBox] Disabling Greenhouses...
+[01:07:55] [Server thread/INFO]: [Pladdon] Disabling Pladdon v1.0
+[01:07:55] [Server thread/INFO]: [BentoBox] Disabling Limits...
+[01:07:55] [Server thread/INFO]: [BentoBox] Disabling MagicCobblestoneGenerator...
+[01:07:55] [Server thread/INFO]: [Pladdon] Disabling Pladdon v1.0
+[01:07:55] [Server thread/INFO]: [BentoBox] Disabling Likes...
+[01:07:55] [Server thread/INFO]: [Pladdon] Disabling Pladdon v1.0
+[01:07:55] [Server thread/INFO]: [BentoBox] Disabling CheckMeOut...
+[01:07:55] [Server thread/INFO]: [Pladdon] Disabling Pladdon v1.0
+[01:07:55] [Server thread/INFO]: [BentoBox] Disabling Upgrades...
+[01:07:55] [Server thread/INFO]: [BentoBox] Disabling VoidPortals...
+[01:07:55] [Server thread/INFO]: [BentoBox] Disabling IslandFly...
+[01:07:55] [Server thread/INFO]: [Pladdon] Disabling Pladdon v1.0
+[01:07:55] [Server thread/INFO]: [BentoBox] Disabling Biomes...
+[01:07:55] [Server thread/INFO]: [BentoBox] Biomes addon disabled.
+[01:07:55] [Server thread/INFO]: [Pladdon] Disabling Pladdon v1.0
+[01:07:55] [Server thread/INFO]: [BentoBox] Disabling Bank...
+[01:07:55] [Server thread/INFO]: [Pladdon] Disabling Pladdon v1.4.0
+[01:07:55] [Server thread/INFO]: [BentoBox] Disabling ExtraMobs...
+[01:07:55] [Server thread/INFO]: [BentoBox] Disabling Visit...
+[01:07:55] [Server thread/INFO]: [Pladdon] Disabling Pladdon v1.0
+[01:07:55] [Server thread/INFO]: [BentoBox] Disabling ControlPanel...
+[01:07:55] [Server thread/INFO]: [BentoBox] Disabling DimensionalTrees...
+[01:07:55] [Server thread/INFO]: [BentoBox] Disabling CauldronWitchery...
+[01:07:55] [Server thread/INFO]: [BentoBox] Disabling Challenges...
+[01:07:55] [Server thread/INFO]: [Pladdon] Disabling Pladdon v1.0
+[01:07:55] [Server thread/INFO]: [BentoBox] Disabling Chat...
+[01:07:55] [Server thread/INFO]: [BentoBox] Addons successfully disabled.
+[01:07:55] [Server thread/INFO]: [BentoBox] Removing coops from islands...
+[01:07:55] [Server thread/INFO]: [BentoBox] Saving islands - this has to be done sync so it may take a while with a lot of islands...
+[01:07:55] [Server thread/INFO]: [BentoBox] Islands saved.
+[01:07:55] [Server thread/INFO]: [BentoBox] Closing database.
+[01:07:55] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.30-SNAPSHOT (build 2673)
+[01:07:55] [Server thread/INFO]: [CommandPanels] Disabling CommandPanels v3.18.2.0
+[01:07:55] [Server thread/INFO]: RockyHawk's CommandPanels Plugin Disabled, aww man.
+[01:07:55] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v21.2
+[01:07:55] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
+[01:07:56] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v21.2
+[01:07:56] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.19.7
+[01:07:56] [Server thread/INFO]: [MeteoritesPro] Disabling MeteoritesPro v1.5.3
+[01:07:56] [Server thread/INFO]: [GSit] Disabling GSit v1.2.8
+[01:07:56] [Server thread/INFO]: [GSit] The plugin was successfully disabled.
+[01:07:56] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.19.7
+[01:07:56] [Server thread/INFO]: [EditableSign] [32m[EditableSign] Disabling EditableSign v8.0.0[0m
+[01:07:56] [Server thread/INFO]: [EditableSign] [32m[EditableSign] EditableSign version 8.0.0 is Disabled[0m
+[01:07:56] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.19.7
+[01:07:56] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.7+216b061
+[01:07:56] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[01:07:56] [Server thread/INFO]: [Lottery] Disabling Lottery v1.4.6
+[01:07:56] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.19.7
+[01:07:56] [Server thread/INFO]: [FastAsyncWorldEdit] Disabling FastAsyncWorldEdit v2.4.9-SNAPSHOT-296;0d112b2
+[01:07:56] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[01:07:56] [Server thread/INFO]: [VotingPlugin] Disabling VotingPlugin v6.9.5
+[01:07:56] [Server thread/INFO]: [CoinFlipper] Disabling CoinFlipper v2.92
+[01:07:56] [Server thread/INFO]: [ChangeSkin] Disabling ChangeSkin v3.1-8b3f47d
+[01:07:56] [Server thread/INFO]: [changeskin.hikari.HikariDataSource] ChangeSkin - Shutdown initiated...
+[01:07:56] [Server thread/INFO]: [changeskin.hikari.HikariDataSource] ChangeSkin - Shutdown completed.
+[01:07:56] [Server thread/INFO]: [Essentials] Disabling Essentials v2.19.7
+[01:07:56] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[01:07:56] [Server thread/INFO]: [boosCooldowns] Disabling boosCooldowns v3.17.1
+[01:07:56] [Server thread/INFO]: [boosCooldowns] cooldowns saved!
+[01:07:56] [Server thread/INFO]: [boosCooldowns] version 3.17.1 disabled!
+[01:07:56] [Server thread/INFO]: [TowerDefense] Disabling TowerDefense v2.0
+[01:07:56] [Server thread/INFO]: [TowerDefense] Plugin has been disabled!
+[01:07:56] [Server thread/INFO]: [AuctionHouse] Disabling AuctionHouse v3.3.1
+[01:07:56] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion auctionhouse
+[01:07:56] [Server thread/INFO]: [PlaceholderAPI] Reason: required plugin AuctionHouse was disabled.
+[01:07:56] [Server thread/INFO]: [AuctionHouse] Saving auctions data
+[01:07:56] [Server thread/INFO]: [NametagEdit] Disabling NametagEdit v4.5.11
+[01:07:56] [Server thread/INFO]: [EpicHeads] Disabling EpicHeads v3.2.14
+[01:07:56] [Server thread/INFO]:  
+[01:07:56] [Server thread/INFO]: =============================
+[01:07:56] [Server thread/INFO]: EpicHeads 3.2.14 by Songoda <3!
+[01:07:56] [Server thread/INFO]: Action: Disabling...
+[01:07:56] [Server thread/INFO]: =============================
+[01:07:56] [Server thread/INFO]:  
+[01:07:56] [Server thread/INFO]: [HolographicExtension] Disabling HolographicExtension v1.10.9
+[01:07:56] [Server thread/INFO]: [HolographicExtension] Disabling HolographicExtension v1.10.9
+[01:07:56] [Server thread/INFO]: [ChatGames] Disabling ChatGames v11.0
+[01:07:56] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[01:07:56] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion vault
+[01:07:56] [Server thread/INFO]: [PlaceholderAPI] Reason: required plugin Vault was disabled.
+[01:07:56] [Server thread/INFO]: [Minepacks] Disabling Minepacks v2.4.8-Release
+[01:07:57] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Shutdown initiated...
+[01:07:57] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Shutdown completed.
+[01:07:57] [Server thread/INFO]: [Minepacks] [31m Minepacks has been disabled. [33m :( [0m
+[01:07:57] [Server thread/INFO]: [LibsDisguises] Disabling LibsDisguises v10.0.31
+[01:07:57] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.0.0-SNAPSHOT-b602
+[01:07:57] [Server thread/INFO]: [InfiniteAnvil] Disabling InfiniteAnvil v1.2.1
+[01:07:57] [Server thread/INFO]: [BuycraftX] Disabling BuycraftX v12.0.8
+[01:07:57] [Server thread/INFO]: [spark] Disabling spark v1.9.42
+[01:07:57] [Server thread/INFO]: [InventoryFullPlus] Disabling InventoryFullPlus v3.1.0
+[01:07:57] [Server thread/INFO]: [AutoMessage] Disabling AutoMessage v1.0
+[01:07:57] [Server thread/INFO]: [WorldBorderAPI] Disabling WorldBorderAPI v1.192.0
+[01:07:57] [Server thread/INFO]: [AnimatedScoreboard] Disabling AnimatedScoreboard v0.2.7
+[01:07:57] [Server thread/INFO]: [PotionStorage] Disabling PotionStorage v3.0
+[01:07:57] [Server thread/INFO]: [PotionStorage] Potion Storage disabling...
+[01:07:57] [Server thread/INFO]: [PotionStorage] Potion Storage disabled!
+[01:07:57] [Server thread/INFO]: [AdvancedHarvesterHoes] Disabling AdvancedHarvesterHoes v1.3.0
+[01:07:57] [Server thread/INFO]: [LootCrate] Disabling LootCrate v0.10.0
+[01:07:57] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.46
+[01:07:57] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion luckperms
+[01:07:57] [Server thread/INFO]: [PlaceholderAPI] Reason: required plugin LuckPerms was disabled.
+[01:07:57] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[01:07:57] [Server thread/INFO]: [LuckPerms] Closing storage...
+[01:07:57] [Server thread/INFO]: [LuckPerms] Goodbye!
+[01:07:57] [Server thread/INFO]: [NBTAPI] Disabling NBTAPI v2.10.0
+[01:07:57] [Server thread/INFO]: [AdvancedHelp] Disabling AdvancedHelp v1.12.7
+[01:07:58] [Server thread/INFO]: [ConsoleSpamFix] Disabling ConsoleSpamFix v1.9.0
+[01:07:58] [Server thread/INFO]: [ConsoleSpamFix] Messages hidden since the server started: 0
+[01:07:58] [Server thread/INFO]: [ConsoleSpamFix] ConsoleSpamFix is disabled!
+[01:07:58] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v3.0.0
+[01:07:58] [Server thread/INFO]: [DeluxeCommands] Disabling DeluxeCommands v1.11.3
+[01:07:58] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.2
+[01:07:58] [Server thread/INFO]: Saving players
+[01:07:58] [Server thread/INFO]: birton lost connection: Server closed
+[01:07:58] [Server thread/INFO]: birton left the game
+[01:07:58] [Server thread/INFO]: Saving worlds
+[01:07:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[skyblock_world]'/minecraft:overworld
+[01:07:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'skyblock_world'
+[01:07:58] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'skyblock_world'
+[01:07:58] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'skyblock_world'
+[01:07:59] [Server thread/INFO]: [ChunkHolderManager] Saved 2433 chunks in world 'skyblock_world' in 1s
+[01:07:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (skyblock_world): All chunks are saved
+[01:07:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[skyblock_world_nether]'/minecraft:the_nether
+[01:07:59] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'skyblock_world_nether'
+[01:07:59] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'skyblock_world_nether'
+[01:07:59] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'skyblock_world_nether'
+[01:07:59] [Server thread/INFO]: [ChunkHolderManager] Saved 529 chunks in world 'skyblock_world_nether' in 0s
+[01:07:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:07:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[skyblock_world_the_end]'/minecraft:the_end
+[01:07:59] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'skyblock_world_the_end'
+[01:07:59] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'skyblock_world_the_end'
+[01:07:59] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'skyblock_world_the_end'
+[01:07:59] [Server thread/INFO]: [ChunkHolderManager] Saved 529 chunks in world 'skyblock_world_the_end' in 0s
+[01:07:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:07:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:07:59] [Server thread/INFO]: Flushing Chunk IO
+[01:07:59] [Server thread/INFO]: Closing Thread Pool
+[01:07:59] [Server thread/INFO]: Closing Server

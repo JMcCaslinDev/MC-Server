@@ -1,0 +1,81 @@
+Inventories:
+  main:
+    slots: 27
+    title: '&9Turret Inventory'
+    0-7;9;17-26:
+      id: BLACK_STAINED_GLASS_PANE
+      name: ' '
+    10;16:
+      id: BLUE_STAINED_GLASS_PANE
+      name: ' '
+    11;12;14;15:
+      id: WHITE_STAINED_GLASS_PANE
+      name: ' '
+    '8':
+      id: CHEST
+      name: '&aTurret Options'
+      open_inventory: options
+    '13':
+      type: turret_upgrade
+    '26':
+      type: delete_turret_item
+  options:
+    slots: 45
+    title: '&9Turret Options'
+    0-9;17;18;26;27;35-44:
+      id: BLACK_STAINED_GLASS_PANE
+      name: ' '
+    10;16;28;34:
+      id: WHITE_STAINED_GLASS_PANE
+      name: ' '
+    '8':
+      type: turret_status_item
+    '20':
+      type: attack_players_item
+    '21':
+      type: attack_monsters_item
+    '22':
+      type: whitelisted_players_item
+    '23':
+      type: attack_animals_item
+    '24':
+      type: attack_others_item
+    '36':
+      id: ARROW
+      name: '&7Back'
+      open_inventory: main
+    '40':
+      type: priority_item
+    '44':
+      type: turret_ammo_item
+  whitelist:
+    slots: 45
+    title: '&9Turret Player Whitelist'
+    37-43:
+      id: BLACK_STAINED_GLASS_PANE
+      name: ' '
+    0-35:
+      type: whitelist_player_item
+    '36':
+      id: ARROW
+      name: '&7Back'
+      open_inventory: options
+    '40':
+      type: whitelist_add_player_item
+    '44':
+      type: whitelist_apply_item
+  ammunition:
+    title: '&9Turret Ammunition'
+    1-7:
+      id: BLACK_STAINED_GLASS_PANE
+      name: ' '
+    '0':
+      id: ARROW
+      name: '&7Back'
+      open_inventory: options
+    '6':
+      type: ammo_previous_page
+    '7':
+      type: ammo_next_page
+    '8':
+      type: infinite_ammo_item

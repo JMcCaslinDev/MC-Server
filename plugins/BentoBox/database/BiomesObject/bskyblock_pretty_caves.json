@@ -1,0 +1,21 @@
+{
+  "biome": "LUSH_CAVES",
+  "deployed": true,
+  "friendlyName": "&f&l Lush Caves",
+  "description": [
+    "&7 Deep underground are sill",
+    "&7 some places with greenery."
+  ],
+  "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: FLOWERING_AZALEA\n",
+  "order": -1,
+  "environment": "NORMAL",
+  "uniqueId": "bskyblock_pretty_caves",
+  "unlockLevel": 50,
+  "unlockCost": 0.0,
+  "cost": 500.0,
+  "itemCost": [
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: MOSS_BLOCK\n  amount: 64\n"
+  ],
+  "costMode": "STATIC",
+  "costIncrement": 0.0
+}

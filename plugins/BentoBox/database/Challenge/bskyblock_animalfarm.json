@@ -1,0 +1,50 @@
+{
+  "uniqueId": "bskyblock_animalfarm",
+  "friendlyName": "&f&l Animal farm",
+  "deployed": true,
+  "description": [
+    "&7 Create a grass field and",
+    "&7 wait for animals to spawn."
+  ],
+  "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: GRASS_BLOCK\n",
+  "order": 2,
+  "challengeType": "ISLAND_TYPE",
+  "environment": [],
+  "removeWhenCompleted": true,
+  "level": "bskyblock_competent",
+  "requirements": {
+    "class": "IslandRequirements",
+    "parameters": {
+      "requiredBlocks": {
+        "GRASS_BLOCK": 16
+      },
+      "removeBlocks": false,
+      "requiredEntities": {
+        "PIG": 2,
+        "SHEEP": 2,
+        "COW": 2,
+        "CHICKEN": 2
+      },
+      "removeEntities": false,
+      "searchRadius": 10,
+      "requiredPermissions": []
+    }
+  },
+  "rewardText": "&7 Iron to craft some \n&7 tools and a couple of \n&7 cats.",
+  "rewardItems": [
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: IRON_ORE\n  amount: 16\n",
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: OCELOT_SPAWN_EGG\n  amount: 2\n"
+  ],
+  "rewardExperience": 50,
+  "rewardMoney": 0.0,
+  "rewardCommands": [],
+  "ignoreRewardMetaData": [],
+  "repeatable": false,
+  "timeout": 0,
+  "repeatRewardText": "",
+  "maxTimes": 0,
+  "repeatExperienceReward": 0,
+  "repeatItemReward": [],
+  "repeatMoneyReward": 0.0,
+  "repeatRewardCommands": []
+}

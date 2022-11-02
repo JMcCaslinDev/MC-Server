@@ -1,0 +1,34 @@
+{
+  "uniqueId": "BSkyBlock9386146f-d651-4146-bb7f-20dcfcb169e4",
+  "unlockedBiomes": [
+    "bskyblock_fields",
+    "bskyblock_taiga",
+    "bskyblock_simple_ocean",
+    "bskyblock_desert",
+    "bskyblock_swamp",
+    "bskyblock_frozen_water",
+    "bskyblock_mooshroom",
+    "bskyblock_beach",
+    "bskyblock_jungle",
+    "bskyblock_cold_fields",
+    "bskyblock_savanna",
+    "bskyblock_warm_ocean",
+    "bskyblock_forest",
+    "bskyblock_pretty_caves",
+    "bskyblock_mountain",
+    "bskyblock_hell",
+    "bskyblock_lost_souls",
+    "bskyblock_red_forest",
+    "bskyblock_cyan_forest",
+    "bskyblock_basalt"
+  ],
+  "purchasedBiomes": [
+    "bskyblock_mooshroom"
+  ],
+  "biomeChangeCounter": {
+    "bskyblock_jungle": 1,
+    "bskyblock_desert": 1,
+    "bskyblock_frozen_water": 1,
+    "bskyblock_fields": 1
+  }
+}

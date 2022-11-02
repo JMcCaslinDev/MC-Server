@@ -1,0 +1,22 @@
+{
+  "biome": "SNOWY_SLOPES",
+  "deployed": true,
+  "friendlyName": "&f&l Mountain Slopes",
+  "description": [
+    "&7 Dangerous place where",
+    "&7 only crazy goats can",
+    "&7 survive."
+  ],
+  "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: SNOW_BLOCK\n",
+  "order": -1,
+  "environment": "NORMAL",
+  "uniqueId": "bskyblock_mountain",
+  "unlockLevel": 75,
+  "unlockCost": 0.0,
+  "cost": 1000.0,
+  "itemCost": [
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: SNOW_BLOCK\n  amount: 64\n"
+  ],
+  "costMode": "STATIC",
+  "costIncrement": 0.0
+}

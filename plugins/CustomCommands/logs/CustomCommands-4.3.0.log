@@ -1,0 +1,390 @@
+[20/10 19:32:55] [ERROR] Invalid value 'world' in file §4commands/spawn.yml§r§c at path §4patterns.a.worlds.whitelist§r§c
+[20/10 19:32:55] [ERROR] Invalid value 'world,0,64,0' in file §4commands/spawn.yml§r§c at path §4patterns.a.actions.a.location§r§c
+[20/10 19:32:55] [ERROR] Couldn't parse location in action a of command spawn
+[20/10 19:33:05] [ERROR] Invalid value 'world' in file §4commands/spawn.yml§r§c at path §4patterns.a.worlds.whitelist§r§c
+[20/10 19:34:12] [ERROR] Invalid value 'world' in file §4commands/spawn.yml§r§c at path §4patterns.a.worlds.whitelist§r§c
+[20/10 19:34:12] [ERROR] Invalid value 'world,0,64,0' in file §4commands/spawn.yml§r§c at path §4patterns.a.actions.a.location§r§c
+[20/10 19:34:12] [ERROR] Couldn't parse location in action a of command spawn
+[20/10 19:35:30] [info] Disabled integration for PlaceholderAPI
+[20/10 19:35:35] [ERROR] Invalid value 'world,0,90,0' in file §4commands/spawn.yml§r§c at path §4patterns.a.actions.a.location§r§c
+[20/10 19:35:35] [ERROR] Couldn't parse location in action a of command spawn
+[20/10 19:39:07] [info] Disabled integration for PlaceholderAPI
+[20/10 19:48:37] [info] Disabled integration for PlaceholderAPI
+[20/10 19:53:38] [info] Disabled integration for PlaceholderAPI
+[20/10 19:57:43] [info] Disabled integration for PlaceholderAPI
+[20/10 21:28:48] [info] Disabled integration for PlaceholderAPI
+[20/10 21:46:51] [info] Disabled integration for PlaceholderAPI
+[20/10 22:49:07] [info] Disabled integration for PlaceholderAPI
+[21/10 00:31:07] [info] Disabled integration for PlaceholderAPI
+[21/10 00:32:17] [info] Disabled integration for PlaceholderAPI
+[21/10 00:39:45] [info] Disabled integration for PlaceholderAPI
+[21/10 02:13:39] [info] Disabled integration for PlaceholderAPI
+[24/10 23:08:23] [info] Disabled integration for PlaceholderAPI
+[25/10 03:50:37] [info] Disabled integration for PlaceholderAPI
+[25/10 15:46:04] [info] Disabled integration for PlaceholderAPI
+[25/10 17:08:47] [info] Disabled integration for PlaceholderAPI
+[25/10 17:26:40] [info] Disabled integration for PlaceholderAPI
+[25/10 17:33:26] [info] Disabled integration for PlaceholderAPI
+[25/10 17:37:38] [info] Disabled integration for PlaceholderAPI
+[25/10 17:44:40] [info] Disabled integration for PlaceholderAPI
+[25/10 21:45:52] [info] Disabled integration for PlaceholderAPI
+[25/10 21:52:08] [info] Disabled integration for PlaceholderAPI
+[25/10 21:55:55] [info] Disabled integration for PlaceholderAPI
+[25/10 21:56:47] [info] Disabled integration for PlaceholderAPI
+[25/10 21:58:25] [info] Disabled integration for PlaceholderAPI
+[25/10 21:58:32] [ERROR] Couldn't find player 'CONSOLE' to execute action a of command shop
+[25/10 22:00:47] [info] Disabled integration for PlaceholderAPI
+[25/10 22:03:40] [info] Disabled integration for PlaceholderAPI
+[27/10 00:15:42] [info] Disabled integration for PlaceholderAPI
+[27/10 00:20:15] [info] Disabled integration for PlaceholderAPI
+[27/10 00:26:11] [info] Disabled integration for PlaceholderAPI
+[27/10 00:29:34] [info] Disabled integration for PlaceholderAPI
+[27/10 00:30:23] [info] Disabled integration for PlaceholderAPI
+[27/10 00:33:02] [info] Disabled integration for PlaceholderAPI
+[27/10 00:48:36] [info] Disabled integration for PlaceholderAPI
+[27/10 00:49:09] [info] Disabled integration for PlaceholderAPI
+[27/10 00:49:25] [ERROR] Couldn't find player 'CONSOLE' to execute action a of command smitecannon
+[27/10 00:50:28] [info] Disabled integration for PlaceholderAPI
+[27/10 00:51:44] [info] Disabled integration for PlaceholderAPI
+[27/10 00:52:33] [info] Disabled integration for PlaceholderAPI
+[27/10 00:59:21] [info] Disabled integration for PlaceholderAPI
+[27/10 00:59:54] [info] Disabled integration for PlaceholderAPI
+[27/10 01:06:27] [info] Disabled integration for PlaceholderAPI
+[27/10 01:06:54] [info] Disabled integration for PlaceholderAPI
+[27/10 01:07:46] [info] Disabled integration for PlaceholderAPI
+[27/10 01:08:27] [info] Disabled integration for PlaceholderAPI
+[27/10 01:10:37] [info] Disabled integration for PlaceholderAPI
+[27/10 01:12:10] [info] Disabled integration for PlaceholderAPI
+[27/10 01:13:25] [info] Disabled integration for PlaceholderAPI
+[27/10 01:42:27] [info] Disabled integration for PlaceholderAPI
+[27/10 01:43:13] [info] Disabled integration for PlaceholderAPI
+[27/10 01:43:33] [info] Disabled integration for PlaceholderAPI
+[27/10 01:43:47] [info] Disabled integration for PlaceholderAPI
+[27/10 04:16:20] [info] Disabled integration for PlaceholderAPI
+[27/10 15:46:11] [info] Disabled integration for PlaceholderAPI
+[27/10 15:46:46] [info] Disabled integration for PlaceholderAPI
+[27/10 16:01:40] [info] Disabled integration for PlaceholderAPI
+[27/10 16:01:56] [info] Disabled integration for PlaceholderAPI
+[27/10 16:03:31] [info] Disabled integration for PlaceholderAPI
+[27/10 16:04:13] [info] Disabled integration for PlaceholderAPI
+[27/10 16:04:45] [info] Disabled integration for PlaceholderAPI
+[27/10 16:04:47] [ERROR] An error occured during processing command island (/'island')
+com.guillaumevdn.customcommands.lib.cmdlib.error.InvalidPatternError: could not decode argument pattern ban [anything] : could not decode argument model [anything]
+	at CustomCommands.jar//com.guillaumevdn.customcommands.lib.cmdlib.CommandPattern.<init>(CommandPattern.java:100)
+	at CustomCommands.jar//com.guillaumevdn.customcommands.lib.customcommand.ElementPattern$1.<init>(ElementPattern.java:113)
+	at CustomCommands.jar//com.guillaumevdn.customcommands.lib.customcommand.ElementPattern.getCmdlibPattern(ElementPattern.java:113)
+	at CustomCommands.jar//com.guillaumevdn.customcommands.lib.customcommand.ElementCustomCommand.lambda$0(ElementCustomCommand.java:54)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682)
+	at CustomCommands.jar//com.guillaumevdn.customcommands.lib.customcommand.ElementCustomCommand.getCmdlibCommand(ElementCustomCommand.java:54)
+	at CustomCommands.jar//com.guillaumevdn.customcommands.listeners.PlayerEvents.lambda$0(PlayerEvents.java:49)
+	at GCore.jar//com.guillaumevdn.gcore.lib.bukkit.BukkitThread.operate(BukkitThread.java:40)
+	at GCore.jar//com.guillaumevdn.gcore.lib.bukkit.BukkitThread.operate(BukkitThread.java:25)
+	at GCore.jar//com.guillaumevdn.gcore.lib.GPlugin.operate(GPlugin.java:962)
+	at GCore.jar//com.guillaumevdn.gcore.lib.GPlugin.operateSync(GPlugin.java:978)
+	at CustomCommands.jar//com.guillaumevdn.customcommands.listeners.PlayerEvents.event(PlayerEvents.java:47)
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor540.execute(Unknown Source)
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:75)
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:670)
+	at net.minecraft.server.network.PlayerConnection.b(PlayerConnection.java:2262)
+	at net.minecraft.server.network.PlayerConnection.lambda$handleChatCommand$20(PlayerConnection.java:2248)
+	at net.minecraft.util.thread.IAsyncTaskHandler.b(IAsyncTaskHandler.java:59)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at net.minecraft.server.TickTask.run(TickTask.java:18)
+	at net.minecraft.util.thread.IAsyncTaskHandler.d(IAsyncTaskHandler.java:153)
+	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.d(IAsyncTaskHandlerReentrant.java:24)
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1341)
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:185)
+	at net.minecraft.util.thread.IAsyncTaskHandler.x(IAsyncTaskHandler.java:126)
+	at net.minecraft.server.MinecraftServer.bh(MinecraftServer.java:1318)
+	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1311)
+	at net.minecraft.util.thread.IAsyncTaskHandler.c(IAsyncTaskHandler.java:136)
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1289)
+	at net.minecraft.server.MinecraftServer.v(MinecraftServer.java:1177)
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:305)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+Caused by: com.guillaumevdn.customcommands.lib.cmdlib.error.InvalidPatternError: could not decode argument model [anything]
+	at CustomCommands.jar//com.guillaumevdn.customcommands.lib.cmdlib.CommandPattern.<init>(CommandPattern.java:80)
+	... 39 more
+
+[27/10 16:05:44] [info] Disabled integration for PlaceholderAPI
+[27/10 16:06:23] [info] Disabled integration for PlaceholderAPI
+[27/10 16:06:51] [info] Disabled integration for PlaceholderAPI
+[27/10 16:10:27] [info] Disabled integration for PlaceholderAPI
+[27/10 16:12:40] [info] Disabled integration for PlaceholderAPI
+[27/10 16:13:38] [info] Disabled integration for PlaceholderAPI
+[27/10 16:14:36] [info] Disabled integration for PlaceholderAPI
+[27/10 16:18:16] [info] Disabled integration for PlaceholderAPI
+[27/10 16:36:28] [info] Disabled integration for PlaceholderAPI
+[27/10 16:37:15] [info] Disabled integration for PlaceholderAPI
+[27/10 16:37:23] [info] Disabled integration for PlaceholderAPI
+[27/10 16:41:20] [info] Disabled integration for PlaceholderAPI
+[27/10 16:45:08] [info] Disabled integration for PlaceholderAPI
+[27/10 16:47:33] [info] Disabled integration for PlaceholderAPI
+[27/10 16:51:47] [info] Disabled integration for PlaceholderAPI
+[27/10 16:53:10] [info] Disabled integration for PlaceholderAPI
+[28/10 12:06:22] [info] Disabled integration for PlaceholderAPI
+[28/10 12:10:24] [info] Disabled integration for PlaceholderAPI
+[28/10 12:15:21] [info] Disabled integration for PlaceholderAPI
+[28/10 12:16:39] [info] Disabled integration for PlaceholderAPI
+[28/10 12:18:38] [info] Disabled integration for PlaceholderAPI
+[28/10 12:18:48] [ERROR] An error occured during processing command island (/'island')
+com.guillaumevdn.customcommands.lib.cmdlib.error.InvalidPatternError: could not decode argument pattern challenges complete [string] [number] : could not decode argument model [number]
+	at CustomCommands.jar//com.guillaumevdn.customcommands.lib.cmdlib.CommandPattern.<init>(CommandPattern.java:100)
+	at CustomCommands.jar//com.guillaumevdn.customcommands.lib.customcommand.ElementPattern$1.<init>(ElementPattern.java:113)
+	at CustomCommands.jar//com.guillaumevdn.customcommands.lib.customcommand.ElementPattern.getCmdlibPattern(ElementPattern.java:113)
+	at CustomCommands.jar//com.guillaumevdn.customcommands.lib.customcommand.ElementCustomCommand.lambda$0(ElementCustomCommand.java:54)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682)
+	at CustomCommands.jar//com.guillaumevdn.customcommands.lib.customcommand.ElementCustomCommand.getCmdlibCommand(ElementCustomCommand.java:54)
+	at CustomCommands.jar//com.guillaumevdn.customcommands.listeners.PlayerEvents.lambda$0(PlayerEvents.java:49)
+	at GCore.jar//com.guillaumevdn.gcore.lib.bukkit.BukkitThread.operate(BukkitThread.java:40)
+	at GCore.jar//com.guillaumevdn.gcore.lib.bukkit.BukkitThread.operate(BukkitThread.java:25)
+	at GCore.jar//com.guillaumevdn.gcore.lib.GPlugin.operate(GPlugin.java:962)
+	at GCore.jar//com.guillaumevdn.gcore.lib.GPlugin.operateSync(GPlugin.java:978)
+	at CustomCommands.jar//com.guillaumevdn.customcommands.listeners.PlayerEvents.event(PlayerEvents.java:47)
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor540.execute(Unknown Source)
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:75)
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:670)
+	at net.minecraft.server.network.PlayerConnection.b(PlayerConnection.java:2262)
+	at net.minecraft.server.network.PlayerConnection.lambda$handleChatCommand$20(PlayerConnection.java:2248)
+	at net.minecraft.util.thread.IAsyncTaskHandler.b(IAsyncTaskHandler.java:59)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at net.minecraft.server.TickTask.run(TickTask.java:18)
+	at net.minecraft.util.thread.IAsyncTaskHandler.d(IAsyncTaskHandler.java:153)
+	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.d(IAsyncTaskHandlerReentrant.java:24)
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1341)
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:185)
+	at net.minecraft.util.thread.IAsyncTaskHandler.x(IAsyncTaskHandler.java:126)
+	at net.minecraft.server.MinecraftServer.bh(MinecraftServer.java:1318)
+	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1311)
+	at net.minecraft.util.thread.IAsyncTaskHandler.c(IAsyncTaskHandler.java:136)
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1289)
+	at net.minecraft.server.MinecraftServer.v(MinecraftServer.java:1177)
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:305)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+Caused by: com.guillaumevdn.customcommands.lib.cmdlib.error.InvalidPatternError: could not decode argument model [number]
+	at CustomCommands.jar//com.guillaumevdn.customcommands.lib.cmdlib.CommandPattern.<init>(CommandPattern.java:80)
+	... 39 more
+
+[28/10 12:18:58] [ERROR] An error occured during processing command island (/'island')
+com.guillaumevdn.customcommands.lib.cmdlib.error.InvalidPatternError: could not decode argument pattern challenges complete [string] [number] : could not decode argument model [number]
+	at CustomCommands.jar//com.guillaumevdn.customcommands.lib.cmdlib.CommandPattern.<init>(CommandPattern.java:100)
+	at CustomCommands.jar//com.guillaumevdn.customcommands.lib.customcommand.ElementPattern$1.<init>(ElementPattern.java:113)
+	at CustomCommands.jar//com.guillaumevdn.customcommands.lib.customcommand.ElementPattern.getCmdlibPattern(ElementPattern.java:113)
+	at CustomCommands.jar//com.guillaumevdn.customcommands.lib.customcommand.ElementCustomCommand.lambda$0(ElementCustomCommand.java:54)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682)
+	at CustomCommands.jar//com.guillaumevdn.customcommands.lib.customcommand.ElementCustomCommand.getCmdlibCommand(ElementCustomCommand.java:54)
+	at CustomCommands.jar//com.guillaumevdn.customcommands.listeners.PlayerEvents.lambda$0(PlayerEvents.java:49)
+	at GCore.jar//com.guillaumevdn.gcore.lib.bukkit.BukkitThread.operate(BukkitThread.java:40)
+	at GCore.jar//com.guillaumevdn.gcore.lib.bukkit.BukkitThread.operate(BukkitThread.java:25)
+	at GCore.jar//com.guillaumevdn.gcore.lib.GPlugin.operate(GPlugin.java:962)
+	at GCore.jar//com.guillaumevdn.gcore.lib.GPlugin.operateSync(GPlugin.java:978)
+	at CustomCommands.jar//com.guillaumevdn.customcommands.listeners.PlayerEvents.event(PlayerEvents.java:47)
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor540.execute(Unknown Source)
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:75)
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:670)
+	at net.minecraft.server.network.PlayerConnection.b(PlayerConnection.java:2262)
+	at net.minecraft.server.network.PlayerConnection.lambda$handleChatCommand$20(PlayerConnection.java:2248)
+	at net.minecraft.util.thread.IAsyncTaskHandler.b(IAsyncTaskHandler.java:59)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at net.minecraft.server.TickTask.run(TickTask.java:18)
+	at net.minecraft.util.thread.IAsyncTaskHandler.d(IAsyncTaskHandler.java:153)
+	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.d(IAsyncTaskHandlerReentrant.java:24)
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1341)
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:185)
+	at net.minecraft.util.thread.IAsyncTaskHandler.x(IAsyncTaskHandler.java:126)
+	at net.minecraft.server.MinecraftServer.bh(MinecraftServer.java:1318)
+	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1311)
+	at net.minecraft.util.thread.IAsyncTaskHandler.c(IAsyncTaskHandler.java:136)
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1289)
+	at net.minecraft.server.MinecraftServer.v(MinecraftServer.java:1177)
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:305)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+Caused by: com.guillaumevdn.customcommands.lib.cmdlib.error.InvalidPatternError: could not decode argument model [number]
+	at CustomCommands.jar//com.guillaumevdn.customcommands.lib.cmdlib.CommandPattern.<init>(CommandPattern.java:80)
+	... 39 more
+
+[28/10 12:19:07] [ERROR] An error occured during processing command island (/'island')
+com.guillaumevdn.customcommands.lib.cmdlib.error.InvalidPatternError: could not decode argument pattern challenges complete [string] [number] : could not decode argument model [number]
+	at CustomCommands.jar//com.guillaumevdn.customcommands.lib.cmdlib.CommandPattern.<init>(CommandPattern.java:100)
+	at CustomCommands.jar//com.guillaumevdn.customcommands.lib.customcommand.ElementPattern$1.<init>(ElementPattern.java:113)
+	at CustomCommands.jar//com.guillaumevdn.customcommands.lib.customcommand.ElementPattern.getCmdlibPattern(ElementPattern.java:113)
+	at CustomCommands.jar//com.guillaumevdn.customcommands.lib.customcommand.ElementCustomCommand.lambda$0(ElementCustomCommand.java:54)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682)
+	at CustomCommands.jar//com.guillaumevdn.customcommands.lib.customcommand.ElementCustomCommand.getCmdlibCommand(ElementCustomCommand.java:54)
+	at CustomCommands.jar//com.guillaumevdn.customcommands.listeners.PlayerEvents.lambda$0(PlayerEvents.java:49)
+	at GCore.jar//com.guillaumevdn.gcore.lib.bukkit.BukkitThread.operate(BukkitThread.java:40)
+	at GCore.jar//com.guillaumevdn.gcore.lib.bukkit.BukkitThread.operate(BukkitThread.java:25)
+	at GCore.jar//com.guillaumevdn.gcore.lib.GPlugin.operate(GPlugin.java:962)
+	at GCore.jar//com.guillaumevdn.gcore.lib.GPlugin.operateSync(GPlugin.java:978)
+	at CustomCommands.jar//com.guillaumevdn.customcommands.listeners.PlayerEvents.event(PlayerEvents.java:47)
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor540.execute(Unknown Source)
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:75)
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:670)
+	at net.minecraft.server.network.PlayerConnection.b(PlayerConnection.java:2262)
+	at net.minecraft.server.network.PlayerConnection.lambda$handleChatCommand$20(PlayerConnection.java:2248)
+	at net.minecraft.util.thread.IAsyncTaskHandler.b(IAsyncTaskHandler.java:59)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at net.minecraft.server.TickTask.run(TickTask.java:18)
+	at net.minecraft.util.thread.IAsyncTaskHandler.d(IAsyncTaskHandler.java:153)
+	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.d(IAsyncTaskHandlerReentrant.java:24)
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1341)
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:185)
+	at net.minecraft.util.thread.IAsyncTaskHandler.x(IAsyncTaskHandler.java:126)
+	at net.minecraft.server.MinecraftServer.bh(MinecraftServer.java:1318)
+	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1311)
+	at net.minecraft.util.thread.IAsyncTaskHandler.c(IAsyncTaskHandler.java:136)
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1289)
+	at net.minecraft.server.MinecraftServer.v(MinecraftServer.java:1177)
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:305)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+Caused by: com.guillaumevdn.customcommands.lib.cmdlib.error.InvalidPatternError: could not decode argument model [number]
+	at CustomCommands.jar//com.guillaumevdn.customcommands.lib.cmdlib.CommandPattern.<init>(CommandPattern.java:80)
+	... 39 more
+
+[28/10 12:21:03] [info] Disabled integration for PlaceholderAPI
+[28/10 12:21:05] [ERROR] An error occured during processing command island (/'island')
+com.guillaumevdn.customcommands.lib.cmdlib.error.InvalidPatternError: could not decode argument pattern challenges complete [string] [number] : could not decode argument model [number]
+	at CustomCommands.jar//com.guillaumevdn.customcommands.lib.cmdlib.CommandPattern.<init>(CommandPattern.java:100)
+	at CustomCommands.jar//com.guillaumevdn.customcommands.lib.customcommand.ElementPattern$1.<init>(ElementPattern.java:113)
+	at CustomCommands.jar//com.guillaumevdn.customcommands.lib.customcommand.ElementPattern.getCmdlibPattern(ElementPattern.java:113)
+	at CustomCommands.jar//com.guillaumevdn.customcommands.lib.customcommand.ElementCustomCommand.lambda$0(ElementCustomCommand.java:54)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682)
+	at CustomCommands.jar//com.guillaumevdn.customcommands.lib.customcommand.ElementCustomCommand.getCmdlibCommand(ElementCustomCommand.java:54)
+	at CustomCommands.jar//com.guillaumevdn.customcommands.listeners.PlayerEvents.lambda$0(PlayerEvents.java:49)
+	at GCore.jar//com.guillaumevdn.gcore.lib.bukkit.BukkitThread.operate(BukkitThread.java:40)
+	at GCore.jar//com.guillaumevdn.gcore.lib.bukkit.BukkitThread.operate(BukkitThread.java:25)
+	at GCore.jar//com.guillaumevdn.gcore.lib.GPlugin.operate(GPlugin.java:962)
+	at GCore.jar//com.guillaumevdn.gcore.lib.GPlugin.operateSync(GPlugin.java:978)
+	at CustomCommands.jar//com.guillaumevdn.customcommands.listeners.PlayerEvents.event(PlayerEvents.java:47)
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor540.execute(Unknown Source)
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:75)
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:670)
+	at net.minecraft.server.network.PlayerConnection.b(PlayerConnection.java:2262)
+	at net.minecraft.server.network.PlayerConnection.lambda$handleChatCommand$20(PlayerConnection.java:2248)
+	at net.minecraft.util.thread.IAsyncTaskHandler.b(IAsyncTaskHandler.java:59)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at net.minecraft.server.TickTask.run(TickTask.java:18)
+	at net.minecraft.util.thread.IAsyncTaskHandler.d(IAsyncTaskHandler.java:153)
+	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.d(IAsyncTaskHandlerReentrant.java:24)
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1341)
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:185)
+	at net.minecraft.util.thread.IAsyncTaskHandler.x(IAsyncTaskHandler.java:126)
+	at net.minecraft.server.MinecraftServer.bh(MinecraftServer.java:1318)
+	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1311)
+	at net.minecraft.util.thread.IAsyncTaskHandler.c(IAsyncTaskHandler.java:136)
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1289)
+	at net.minecraft.server.MinecraftServer.v(MinecraftServer.java:1177)
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:305)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+Caused by: com.guillaumevdn.customcommands.lib.cmdlib.error.InvalidPatternError: could not decode argument model [number]
+	at CustomCommands.jar//com.guillaumevdn.customcommands.lib.cmdlib.CommandPattern.<init>(CommandPattern.java:80)
+	... 39 more
+
+[28/10 12:23:03] [info] Disabled integration for PlaceholderAPI
+[28/10 12:44:28] [info] Disabled integration for PlaceholderAPI
+[28/10 13:09:33] [info] Disabled integration for PlaceholderAPI
+[28/10 13:31:53] [info] Disabled integration for PlaceholderAPI
+[28/10 13:48:35] [info] Disabled integration for PlaceholderAPI
+[28/10 13:50:09] [info] Disabled integration for PlaceholderAPI
+[28/10 13:51:11] [info] Disabled integration for PlaceholderAPI
+[28/10 13:58:42] [info] Disabled integration for PlaceholderAPI
+[28/10 14:07:39] [info] Disabled integration for PlaceholderAPI
+[28/10 14:13:28] [info] Disabled integration for PlaceholderAPI
+[28/10 14:27:01] [info] Disabled integration for PlaceholderAPI
+[28/10 14:28:56] [info] Disabled integration for PlaceholderAPI
+[28/10 14:33:40] [info] Disabled integration for PlaceholderAPI
+[28/10 14:54:17] [info] Disabled integration for PlaceholderAPI
+[28/10 14:58:56] [info] Disabled integration for PlaceholderAPI
+[28/10 15:04:40] [info] Disabled integration for PlaceholderAPI
+[28/10 15:07:23] [info] Disabled integration for PlaceholderAPI
+[28/10 15:29:38] [info] Disabled integration for PlaceholderAPI
+[28/10 15:45:11] [info] Disabled integration for PlaceholderAPI
+[28/10 15:48:04] [info] Disabled integration for PlaceholderAPI
+[28/10 15:49:37] [info] Disabled integration for PlaceholderAPI
+[28/10 15:50:27] [info] Disabled integration for PlaceholderAPI
+[28/10 15:56:16] [info] Disabled integration for PlaceholderAPI
+[28/10 15:57:40] [info] Disabled integration for PlaceholderAPI
+[28/10 15:59:22] [info] Disabled integration for PlaceholderAPI
+[28/10 16:33:21] [info] Disabled integration for PlaceholderAPI
+[28/10 16:40:07] [info] Disabled integration for PlaceholderAPI
+[28/10 16:40:48] [info] Disabled integration for PlaceholderAPI
+[28/10 16:41:43] [info] Disabled integration for PlaceholderAPI
+[28/10 16:44:54] [info] Disabled integration for PlaceholderAPI
+[28/10 16:53:37] [info] Disabled integration for PlaceholderAPI
+[28/10 17:01:57] [info] Disabled integration for PlaceholderAPI
+[28/10 17:08:45] [info] Disabled integration for PlaceholderAPI
+[28/10 17:10:56] [info] Disabled integration for PlaceholderAPI
+[28/10 17:16:08] [info] Disabled integration for PlaceholderAPI
+[28/10 17:20:17] [info] Disabled integration for PlaceholderAPI
+[28/10 17:22:31] [info] Disabled integration for PlaceholderAPI
+[28/10 17:24:46] [info] Disabled integration for PlaceholderAPI
+[28/10 17:27:03] [info] Disabled integration for PlaceholderAPI
+[28/10 18:05:28] [info] Disabled integration for PlaceholderAPI
+[28/10 18:17:50] [info] Disabled integration for PlaceholderAPI
+[28/10 18:19:59] [info] Disabled integration for PlaceholderAPI
+[28/10 18:21:04] [info] Disabled integration for PlaceholderAPI
+[28/10 18:24:20] [info] Disabled integration for PlaceholderAPI
+[28/10 18:24:49] [info] Disabled integration for PlaceholderAPI
+[28/10 18:25:45] [info] Disabled integration for PlaceholderAPI
+[28/10 18:27:40] [info] Disabled integration for PlaceholderAPI
+[28/10 18:28:25] [info] Disabled integration for PlaceholderAPI
+[28/10 18:29:20] [info] Disabled integration for PlaceholderAPI
+[28/10 18:29:36] [info] Disabled integration for PlaceholderAPI
+[28/10 18:30:23] [info] Disabled integration for PlaceholderAPI
+[28/10 18:31:41] [info] Disabled integration for PlaceholderAPI
+[28/10 18:32:16] [info] Disabled integration for PlaceholderAPI
+[28/10 18:32:33] [info] Disabled integration for PlaceholderAPI
+[28/10 18:33:38] [info] Disabled integration for PlaceholderAPI
+[28/10 18:39:29] [info] Disabled integration for PlaceholderAPI
+[28/10 18:45:52] [info] Disabled integration for PlaceholderAPI
+[28/10 18:53:32] [info] Disabled integration for PlaceholderAPI
+[31/10 00:39:25] [info] Disabled integration for PlaceholderAPI
+[31/10 03:49:55] [info] Disabled integration for PlaceholderAPI
+[31/10 06:30:55] [info] Disabled integration for PlaceholderAPI
+[31/10 06:42:13] [info] Disabled integration for PlaceholderAPI
+[31/10 06:53:23] [info] Disabled integration for PlaceholderAPI
+[01/11 00:56:34] [info] Disabled integration for PlaceholderAPI
+[01/11 01:06:10] [info] Disabled integration for PlaceholderAPI
+[01/11 02:09:41] [info] Disabled integration for PlaceholderAPI
+[01/11 20:21:13] [info] Disabled integration for PlaceholderAPI
+[02/11 01:07:54] [info] Disabled integration for PlaceholderAPI

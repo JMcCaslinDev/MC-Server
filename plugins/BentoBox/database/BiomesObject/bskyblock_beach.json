@@ -1,0 +1,19 @@
+{
+  "biome": "BEACH",
+  "deployed": true,
+  "friendlyName": "&f&l Beach",
+  "description": [
+    "&7 The best place for vacation.",
+    "&7 Get some suncream and a",
+    "&7 good mood."
+  ],
+  "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 3120\n  type: WATER_BUCKET\n",
+  "order": -1,
+  "environment": "NORMAL",
+  "uniqueId": "bskyblock_beach",
+  "unlockLevel": 25,
+  "unlockCost": 0.0,
+  "cost": 200.0,
+  "costMode": "STATIC",
+  "costIncrement": 0.0
+}

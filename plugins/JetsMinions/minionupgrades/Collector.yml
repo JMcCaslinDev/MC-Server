@@ -1,0 +1,18 @@
+MaxLevel: 3
+
+Levels:
+  CostToUpgradeToLevel2: 10000 #The cost to upgrade to level 2
+  CostToUpgradeToLevel3: 30000
+# ENCHANTED will enchant the minions item
+Settings:
+  SettingsAtLevel1: 3x3x3 #For the Collector minion, 3x3x3 means it will pickup items within a 3x3x3 radius
+  SettingsAtLevel2: 4x4x4 #As of Minions version 2.0 this format must be '<Number>x<Number>x<Number>'
+  SettingsAtLevel3: 6x6x6 | ENCHANTED
+Messages:
+  MessageOnUpgradeTo2: '&aYou have upgraded the Collector Minion to level 2!'
+  MessageOnUpgradeTo3: '&aYou have upgraded the Collector Minion to the highest level!'
+
+#If this is false, the items will be deleted
+DropItemsOnFloorIfChestIsFull: true
+#This will prevent the minion from teleporting items to itself, and disable the minion if the linked container is full,DropItemsOnFloorIfChestIsFull has to be false to enable this option
+DisableMinionIfContainerIsFull: false

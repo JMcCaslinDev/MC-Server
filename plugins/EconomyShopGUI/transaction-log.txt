@@ -1,0 +1,990 @@
+[2022-10-11 15:06:35] - [Member]birton bought 1 x Spawner(Spawners.14) for $120,000 with the buy screen.
+[2022-10-11 15:06:35] - [Member]birton bought 1 x Spawner(Spawners.14) for $120,000 with the buy screen.
+[2022-10-11 15:06:35] - [Member]birton bought 1 x Spawner(Spawners.14) for $120,000 with the buy screen.
+[2022-10-11 15:06:35] - [Member]birton bought 1 x Spawner(Spawners.14) for $120,000 with the buy screen.
+[2022-10-11 15:06:35] - [Member]birton bought 1 x Spawner(Spawners.14) for $120,000 with the buy screen.
+[2022-10-11 15:06:35] - [Member]birton bought 1 x Spawner(Spawners.14) for $120,000 with the buy screen.
+[2022-10-11 15:06:35] - [Member]birton bought 1 x Spawner(Spawners.14) for $120,000 with the buy screen.
+[2022-10-11 16:16:47] - [Member]birton sold 1x Diamond(Ores.9), 3x Arrow(Mobs.1), 4x Gunpowder(Mobs.9), 2x Bone(Mobs.4), 1x Quartz(Ores.21) for $238.47 with the sell gui.
+[2022-10-25 21:19:27] - [Member]birton bought 1 x [Zombie Spawner](Spawners.34) for $120,000 with the buy screen.
+[2022-10-25 22:02:41] - [Member]birton bought 1 x Target(Redstone.15) for $71.67 with the buy screen.
+[2022-10-25 22:02:45] - [Member]birton bought 1 x Respawn Anchor(Redstone.14) for $486.36 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:38:14] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:23] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:38:14] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:23] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:57] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:38:14] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:23] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:57] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:41:33] - [Member]birton bought 64 x Sheep Spawner(Spawners.1) for $12,800,000 with the buy stacks screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:38:14] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:23] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:57] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:41:33] - [Member]birton bought 64 x Sheep Spawner(Spawners.1) for $12,800,000 with the buy stacks screen.
+[2022-10-27 02:46:09] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:38:14] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:23] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:57] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:41:33] - [Member]birton bought 64 x Sheep Spawner(Spawners.1) for $12,800,000 with the buy stacks screen.
+[2022-10-27 02:46:09] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:46:44] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:38:14] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:23] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:57] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:41:33] - [Member]birton bought 64 x Sheep Spawner(Spawners.1) for $12,800,000 with the buy stacks screen.
+[2022-10-27 02:46:09] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:46:44] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:48:39] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:38:14] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:23] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:57] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:41:33] - [Member]birton bought 64 x Sheep Spawner(Spawners.1) for $12,800,000 with the buy stacks screen.
+[2022-10-27 02:46:09] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:46:44] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:48:39] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:38:14] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:23] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:57] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:41:33] - [Member]birton bought 64 x Sheep Spawner(Spawners.1) for $12,800,000 with the buy stacks screen.
+[2022-10-27 02:46:09] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:46:44] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:48:39] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:51:44] - [Member]birton bought 1 x Chicken Spawner(Spawners.4) for $245,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:38:14] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:23] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:57] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:41:33] - [Member]birton bought 64 x Sheep Spawner(Spawners.1) for $12,800,000 with the buy stacks screen.
+[2022-10-27 02:46:09] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:46:44] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:48:39] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:51:44] - [Member]birton bought 1 x Chicken Spawner(Spawners.4) for $245,000 with the buy screen.
+[2022-10-27 02:52:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:38:14] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:23] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:57] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:41:33] - [Member]birton bought 64 x Sheep Spawner(Spawners.1) for $12,800,000 with the buy stacks screen.
+[2022-10-27 02:46:09] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:46:44] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:48:39] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:51:44] - [Member]birton bought 1 x Chicken Spawner(Spawners.4) for $245,000 with the buy screen.
+[2022-10-27 02:52:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:54:31] - [Member]birton bought 1 x Rabbit Spawner(Spawners.5) for $165,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:38:14] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:23] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:57] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:41:33] - [Member]birton bought 64 x Sheep Spawner(Spawners.1) for $12,800,000 with the buy stacks screen.
+[2022-10-27 02:46:09] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:46:44] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:48:39] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:51:44] - [Member]birton bought 1 x Chicken Spawner(Spawners.4) for $245,000 with the buy screen.
+[2022-10-27 02:52:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:54:31] - [Member]birton bought 1 x Rabbit Spawner(Spawners.5) for $165,000 with the buy screen.
+[2022-10-27 02:56:00] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:38:14] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:23] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:57] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:41:33] - [Member]birton bought 64 x Sheep Spawner(Spawners.1) for $12,800,000 with the buy stacks screen.
+[2022-10-27 02:46:09] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:46:44] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:48:39] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:51:44] - [Member]birton bought 1 x Chicken Spawner(Spawners.4) for $245,000 with the buy screen.
+[2022-10-27 02:52:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:54:31] - [Member]birton bought 1 x Rabbit Spawner(Spawners.5) for $165,000 with the buy screen.
+[2022-10-27 02:56:00] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 02:57:39] - [Member]birton bought 1 x Spawner(Spawners.36) for $5 with the buy screen.
+[2022-10-27 03:02:37] - [Member]birton bought 1 x Sheep Spawner(Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 03:05:40] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:38:14] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:23] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:57] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:41:33] - [Member]birton bought 64 x Sheep Spawner(Spawners.1) for $12,800,000 with the buy stacks screen.
+[2022-10-27 02:46:09] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:46:44] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:48:39] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:51:44] - [Member]birton bought 1 x Chicken Spawner(Spawners.4) for $245,000 with the buy screen.
+[2022-10-27 02:52:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:54:31] - [Member]birton bought 1 x Rabbit Spawner(Spawners.5) for $165,000 with the buy screen.
+[2022-10-27 02:56:00] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 02:57:39] - [Member]birton bought 1 x Spawner(Spawners.36) for $5 with the buy screen.
+[2022-10-27 03:02:37] - [Member]birton bought 1 x Sheep Spawner(Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 03:05:40] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:49] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:09:42] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:38:14] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:23] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:57] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:41:33] - [Member]birton bought 64 x Sheep Spawner(Spawners.1) for $12,800,000 with the buy stacks screen.
+[2022-10-27 02:46:09] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:46:44] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:48:39] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:51:44] - [Member]birton bought 1 x Chicken Spawner(Spawners.4) for $245,000 with the buy screen.
+[2022-10-27 02:52:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:54:31] - [Member]birton bought 1 x Rabbit Spawner(Spawners.5) for $165,000 with the buy screen.
+[2022-10-27 02:56:00] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 02:57:39] - [Member]birton bought 1 x Spawner(Spawners.36) for $5 with the buy screen.
+[2022-10-27 03:02:37] - [Member]birton bought 1 x Sheep Spawner(Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 03:05:40] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:49] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:09:42] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:12:03] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:38:14] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:23] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:57] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:41:33] - [Member]birton bought 64 x Sheep Spawner(Spawners.1) for $12,800,000 with the buy stacks screen.
+[2022-10-27 02:46:09] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:46:44] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:48:39] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:51:44] - [Member]birton bought 1 x Chicken Spawner(Spawners.4) for $245,000 with the buy screen.
+[2022-10-27 02:52:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:54:31] - [Member]birton bought 1 x Rabbit Spawner(Spawners.5) for $165,000 with the buy screen.
+[2022-10-27 02:56:00] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 02:57:39] - [Member]birton bought 1 x Spawner(Spawners.36) for $5 with the buy screen.
+[2022-10-27 03:02:37] - [Member]birton bought 1 x Sheep Spawner(Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 03:05:40] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:49] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:09:42] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:12:03] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:38:14] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:23] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:57] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:41:33] - [Member]birton bought 64 x Sheep Spawner(Spawners.1) for $12,800,000 with the buy stacks screen.
+[2022-10-27 02:46:09] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:46:44] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:48:39] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:51:44] - [Member]birton bought 1 x Chicken Spawner(Spawners.4) for $245,000 with the buy screen.
+[2022-10-27 02:52:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:54:31] - [Member]birton bought 1 x Rabbit Spawner(Spawners.5) for $165,000 with the buy screen.
+[2022-10-27 02:56:00] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 02:57:39] - [Member]birton bought 1 x Spawner(Spawners.36) for $5 with the buy screen.
+[2022-10-27 03:02:37] - [Member]birton bought 1 x Sheep Spawner(Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 03:05:40] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:49] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:09:42] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:12:03] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 03:17:02] - [Member]birton bought 1 x Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:38:14] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:23] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:57] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:41:33] - [Member]birton bought 64 x Sheep Spawner(Spawners.1) for $12,800,000 with the buy stacks screen.
+[2022-10-27 02:46:09] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:46:44] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:48:39] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:51:44] - [Member]birton bought 1 x Chicken Spawner(Spawners.4) for $245,000 with the buy screen.
+[2022-10-27 02:52:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:54:31] - [Member]birton bought 1 x Rabbit Spawner(Spawners.5) for $165,000 with the buy screen.
+[2022-10-27 02:56:00] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 02:57:39] - [Member]birton bought 1 x Spawner(Spawners.36) for $5 with the buy screen.
+[2022-10-27 03:02:37] - [Member]birton bought 1 x Sheep Spawner(Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 03:05:40] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:49] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:09:42] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:12:03] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 03:17:02] - [Member]birton bought 1 x Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:38:14] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:23] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:57] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:41:33] - [Member]birton bought 64 x Sheep Spawner(Spawners.1) for $12,800,000 with the buy stacks screen.
+[2022-10-27 02:46:09] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:46:44] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:48:39] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:51:44] - [Member]birton bought 1 x Chicken Spawner(Spawners.4) for $245,000 with the buy screen.
+[2022-10-27 02:52:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:54:31] - [Member]birton bought 1 x Rabbit Spawner(Spawners.5) for $165,000 with the buy screen.
+[2022-10-27 02:56:00] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 02:57:39] - [Member]birton bought 1 x Spawner(Spawners.36) for $5 with the buy screen.
+[2022-10-27 03:02:37] - [Member]birton bought 1 x Sheep Spawner(Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 03:05:40] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:49] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:09:42] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:12:03] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 03:17:02] - [Member]birton bought 1 x Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:18:45] - [Member]birton bought 1 x Llama Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:38:14] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:23] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:57] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:41:33] - [Member]birton bought 64 x Sheep Spawner(Spawners.1) for $12,800,000 with the buy stacks screen.
+[2022-10-27 02:46:09] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:46:44] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:48:39] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:51:44] - [Member]birton bought 1 x Chicken Spawner(Spawners.4) for $245,000 with the buy screen.
+[2022-10-27 02:52:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:54:31] - [Member]birton bought 1 x Rabbit Spawner(Spawners.5) for $165,000 with the buy screen.
+[2022-10-27 02:56:00] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 02:57:39] - [Member]birton bought 1 x Spawner(Spawners.36) for $5 with the buy screen.
+[2022-10-27 03:02:37] - [Member]birton bought 1 x Sheep Spawner(Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 03:05:40] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:49] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:09:42] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:12:03] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 03:17:02] - [Member]birton bought 1 x Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:18:45] - [Member]birton bought 1 x Llama Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:38:14] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:23] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:57] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:41:33] - [Member]birton bought 64 x Sheep Spawner(Spawners.1) for $12,800,000 with the buy stacks screen.
+[2022-10-27 02:46:09] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:46:44] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:48:39] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:51:44] - [Member]birton bought 1 x Chicken Spawner(Spawners.4) for $245,000 with the buy screen.
+[2022-10-27 02:52:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:54:31] - [Member]birton bought 1 x Rabbit Spawner(Spawners.5) for $165,000 with the buy screen.
+[2022-10-27 02:56:00] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 02:57:39] - [Member]birton bought 1 x Spawner(Spawners.36) for $5 with the buy screen.
+[2022-10-27 03:02:37] - [Member]birton bought 1 x Sheep Spawner(Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 03:05:40] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:49] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:09:42] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:12:03] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 03:17:02] - [Member]birton bought 1 x Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:18:45] - [Member]birton bought 1 x Llama Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:38:14] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:23] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:57] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:41:33] - [Member]birton bought 64 x Sheep Spawner(Spawners.1) for $12,800,000 with the buy stacks screen.
+[2022-10-27 02:46:09] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:46:44] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:48:39] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:51:44] - [Member]birton bought 1 x Chicken Spawner(Spawners.4) for $245,000 with the buy screen.
+[2022-10-27 02:52:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:54:31] - [Member]birton bought 1 x Rabbit Spawner(Spawners.5) for $165,000 with the buy screen.
+[2022-10-27 02:56:00] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 02:57:39] - [Member]birton bought 1 x Spawner(Spawners.36) for $5 with the buy screen.
+[2022-10-27 03:02:37] - [Member]birton bought 1 x Sheep Spawner(Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 03:05:40] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:49] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:09:42] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:12:03] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 03:17:02] - [Member]birton bought 1 x Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:18:45] - [Member]birton bought 1 x Llama Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:38:14] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:23] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:57] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:41:33] - [Member]birton bought 64 x Sheep Spawner(Spawners.1) for $12,800,000 with the buy stacks screen.
+[2022-10-27 02:46:09] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:46:44] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:48:39] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:51:44] - [Member]birton bought 1 x Chicken Spawner(Spawners.4) for $245,000 with the buy screen.
+[2022-10-27 02:52:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:54:31] - [Member]birton bought 1 x Rabbit Spawner(Spawners.5) for $165,000 with the buy screen.
+[2022-10-27 02:56:00] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 02:57:39] - [Member]birton bought 1 x Spawner(Spawners.36) for $5 with the buy screen.
+[2022-10-27 03:02:37] - [Member]birton bought 1 x Sheep Spawner(Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 03:05:40] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:49] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:09:42] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:12:03] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 03:17:02] - [Member]birton bought 1 x Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:18:45] - [Member]birton bought 1 x Llama Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:38:14] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:23] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:57] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:41:33] - [Member]birton bought 64 x Sheep Spawner(Spawners.1) for $12,800,000 with the buy stacks screen.
+[2022-10-27 02:46:09] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:46:44] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:48:39] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:51:44] - [Member]birton bought 1 x Chicken Spawner(Spawners.4) for $245,000 with the buy screen.
+[2022-10-27 02:52:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:54:31] - [Member]birton bought 1 x Rabbit Spawner(Spawners.5) for $165,000 with the buy screen.
+[2022-10-27 02:56:00] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 02:57:39] - [Member]birton bought 1 x Spawner(Spawners.36) for $5 with the buy screen.
+[2022-10-27 03:02:37] - [Member]birton bought 1 x Sheep Spawner(Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 03:05:40] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:49] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:09:42] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:12:03] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 03:17:02] - [Member]birton bought 1 x Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:18:45] - [Member]birton bought 1 x Llama Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:38:14] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:23] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:57] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:41:33] - [Member]birton bought 64 x Sheep Spawner(Spawners.1) for $12,800,000 with the buy stacks screen.
+[2022-10-27 02:46:09] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:46:44] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:48:39] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:51:44] - [Member]birton bought 1 x Chicken Spawner(Spawners.4) for $245,000 with the buy screen.
+[2022-10-27 02:52:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:54:31] - [Member]birton bought 1 x Rabbit Spawner(Spawners.5) for $165,000 with the buy screen.
+[2022-10-27 02:56:00] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 02:57:39] - [Member]birton bought 1 x Spawner(Spawners.36) for $5 with the buy screen.
+[2022-10-27 03:02:37] - [Member]birton bought 1 x Sheep Spawner(Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 03:05:40] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:49] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:09:42] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:12:03] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 03:17:02] - [Member]birton bought 1 x Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:18:45] - [Member]birton bought 1 x Llama Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:38:14] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:23] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:57] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:41:33] - [Member]birton bought 64 x Sheep Spawner(Spawners.1) for $12,800,000 with the buy stacks screen.
+[2022-10-27 02:46:09] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:46:44] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:48:39] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:51:44] - [Member]birton bought 1 x Chicken Spawner(Spawners.4) for $245,000 with the buy screen.
+[2022-10-27 02:52:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:54:31] - [Member]birton bought 1 x Rabbit Spawner(Spawners.5) for $165,000 with the buy screen.
+[2022-10-27 02:56:00] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 02:57:39] - [Member]birton bought 1 x Spawner(Spawners.36) for $5 with the buy screen.
+[2022-10-27 03:02:37] - [Member]birton bought 1 x Sheep Spawner(Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 03:05:40] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:49] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:09:42] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:12:03] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 03:17:02] - [Member]birton bought 1 x Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:18:45] - [Member]birton bought 1 x Llama Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:38:14] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:23] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:57] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:41:33] - [Member]birton bought 64 x Sheep Spawner(Spawners.1) for $12,800,000 with the buy stacks screen.
+[2022-10-27 02:46:09] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:46:44] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:48:39] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:51:44] - [Member]birton bought 1 x Chicken Spawner(Spawners.4) for $245,000 with the buy screen.
+[2022-10-27 02:52:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:54:31] - [Member]birton bought 1 x Rabbit Spawner(Spawners.5) for $165,000 with the buy screen.
+[2022-10-27 02:56:00] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 02:57:39] - [Member]birton bought 1 x Spawner(Spawners.36) for $5 with the buy screen.
+[2022-10-27 03:02:37] - [Member]birton bought 1 x Sheep Spawner(Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 03:05:40] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:49] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:09:42] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:12:03] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 03:17:02] - [Member]birton bought 1 x Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:18:45] - [Member]birton bought 1 x Llama Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:30:30] - [Member]birton bought 1 x Horse Spawner(Spawners.9) for $500,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:38:14] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:23] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:57] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:41:33] - [Member]birton bought 64 x Sheep Spawner(Spawners.1) for $12,800,000 with the buy stacks screen.
+[2022-10-27 02:46:09] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:46:44] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:48:39] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:51:44] - [Member]birton bought 1 x Chicken Spawner(Spawners.4) for $245,000 with the buy screen.
+[2022-10-27 02:52:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:54:31] - [Member]birton bought 1 x Rabbit Spawner(Spawners.5) for $165,000 with the buy screen.
+[2022-10-27 02:56:00] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 02:57:39] - [Member]birton bought 1 x Spawner(Spawners.36) for $5 with the buy screen.
+[2022-10-27 03:02:37] - [Member]birton bought 1 x Sheep Spawner(Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 03:05:40] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:49] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:09:42] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:12:03] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 03:17:02] - [Member]birton bought 1 x Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:18:45] - [Member]birton bought 1 x Llama Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:30:30] - [Member]birton bought 1 x Horse Spawner(Spawners.9) for $500,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:38:14] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:23] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:57] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:41:33] - [Member]birton bought 64 x Sheep Spawner(Spawners.1) for $12,800,000 with the buy stacks screen.
+[2022-10-27 02:46:09] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:46:44] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:48:39] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:51:44] - [Member]birton bought 1 x Chicken Spawner(Spawners.4) for $245,000 with the buy screen.
+[2022-10-27 02:52:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:54:31] - [Member]birton bought 1 x Rabbit Spawner(Spawners.5) for $165,000 with the buy screen.
+[2022-10-27 02:56:00] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 02:57:39] - [Member]birton bought 1 x Spawner(Spawners.36) for $5 with the buy screen.
+[2022-10-27 03:02:37] - [Member]birton bought 1 x Sheep Spawner(Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 03:05:40] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:49] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:09:42] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:12:03] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 03:17:02] - [Member]birton bought 1 x Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:18:45] - [Member]birton bought 1 x Llama Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:30:30] - [Member]birton bought 1 x Horse Spawner(Spawners.9) for $500,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:38:14] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:23] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:57] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:41:33] - [Member]birton bought 64 x Sheep Spawner(Spawners.1) for $12,800,000 with the buy stacks screen.
+[2022-10-27 02:46:09] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:46:44] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:48:39] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:51:44] - [Member]birton bought 1 x Chicken Spawner(Spawners.4) for $245,000 with the buy screen.
+[2022-10-27 02:52:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:54:31] - [Member]birton bought 1 x Rabbit Spawner(Spawners.5) for $165,000 with the buy screen.
+[2022-10-27 02:56:00] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 02:57:39] - [Member]birton bought 1 x Spawner(Spawners.36) for $5 with the buy screen.
+[2022-10-27 03:02:37] - [Member]birton bought 1 x Sheep Spawner(Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 03:05:40] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:49] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:09:42] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:12:03] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 03:17:02] - [Member]birton bought 1 x Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:18:45] - [Member]birton bought 1 x Llama Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:30:30] - [Member]birton bought 1 x Horse Spawner(Spawners.9) for $500,000 with the buy screen.
+[2022-10-27 03:33:09] - [Member]birton bought 1 x Zombie Spawner(Spawners.10) for $500,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:38:14] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:23] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:57] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:41:33] - [Member]birton bought 64 x Sheep Spawner(Spawners.1) for $12,800,000 with the buy stacks screen.
+[2022-10-27 02:46:09] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:46:44] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:48:39] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:51:44] - [Member]birton bought 1 x Chicken Spawner(Spawners.4) for $245,000 with the buy screen.
+[2022-10-27 02:52:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:54:31] - [Member]birton bought 1 x Rabbit Spawner(Spawners.5) for $165,000 with the buy screen.
+[2022-10-27 02:56:00] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 02:57:39] - [Member]birton bought 1 x Spawner(Spawners.36) for $5 with the buy screen.
+[2022-10-27 03:02:37] - [Member]birton bought 1 x Sheep Spawner(Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 03:05:40] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:49] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:09:42] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:12:03] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 03:17:02] - [Member]birton bought 1 x Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:18:45] - [Member]birton bought 1 x Llama Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:30:30] - [Member]birton bought 1 x Horse Spawner(Spawners.9) for $500,000 with the buy screen.
+[2022-10-27 03:33:09] - [Member]birton bought 1 x Zombie Spawner(Spawners.10) for $500,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:38:14] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:23] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:57] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:41:33] - [Member]birton bought 64 x Sheep Spawner(Spawners.1) for $12,800,000 with the buy stacks screen.
+[2022-10-27 02:46:09] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:46:44] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:48:39] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:51:44] - [Member]birton bought 1 x Chicken Spawner(Spawners.4) for $245,000 with the buy screen.
+[2022-10-27 02:52:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:54:31] - [Member]birton bought 1 x Rabbit Spawner(Spawners.5) for $165,000 with the buy screen.
+[2022-10-27 02:56:00] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 02:57:39] - [Member]birton bought 1 x Spawner(Spawners.36) for $5 with the buy screen.
+[2022-10-27 03:02:37] - [Member]birton bought 1 x Sheep Spawner(Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 03:05:40] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:49] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:09:42] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:12:03] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 03:17:02] - [Member]birton bought 1 x Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:18:45] - [Member]birton bought 1 x Llama Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:30:30] - [Member]birton bought 1 x Horse Spawner(Spawners.9) for $500,000 with the buy screen.
+[2022-10-27 03:33:09] - [Member]birton bought 1 x Zombie Spawner(Spawners.10) for $500,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:38:14] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:23] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:57] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:41:33] - [Member]birton bought 64 x Sheep Spawner(Spawners.1) for $12,800,000 with the buy stacks screen.
+[2022-10-27 02:46:09] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:46:44] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:48:39] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:51:44] - [Member]birton bought 1 x Chicken Spawner(Spawners.4) for $245,000 with the buy screen.
+[2022-10-27 02:52:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:54:31] - [Member]birton bought 1 x Rabbit Spawner(Spawners.5) for $165,000 with the buy screen.
+[2022-10-27 02:56:00] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 02:57:39] - [Member]birton bought 1 x Spawner(Spawners.36) for $5 with the buy screen.
+[2022-10-27 03:02:37] - [Member]birton bought 1 x Sheep Spawner(Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 03:05:40] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:49] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:09:42] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:12:03] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 03:17:02] - [Member]birton bought 1 x Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:18:45] - [Member]birton bought 1 x Llama Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:30:30] - [Member]birton bought 1 x Horse Spawner(Spawners.9) for $500,000 with the buy screen.
+[2022-10-27 03:33:09] - [Member]birton bought 1 x Zombie Spawner(Spawners.10) for $500,000 with the buy screen.
+[2022-10-27 03:35:44] - [Member]birton bought 1 x Mooshroom Spawner(Spawners.11) for $550,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:38:14] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:23] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:57] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:41:33] - [Member]birton bought 64 x Sheep Spawner(Spawners.1) for $12,800,000 with the buy stacks screen.
+[2022-10-27 02:46:09] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:46:44] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:48:39] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:51:44] - [Member]birton bought 1 x Chicken Spawner(Spawners.4) for $245,000 with the buy screen.
+[2022-10-27 02:52:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:54:31] - [Member]birton bought 1 x Rabbit Spawner(Spawners.5) for $165,000 with the buy screen.
+[2022-10-27 02:56:00] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 02:57:39] - [Member]birton bought 1 x Spawner(Spawners.36) for $5 with the buy screen.
+[2022-10-27 03:02:37] - [Member]birton bought 1 x Sheep Spawner(Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 03:05:40] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:49] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:09:42] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:12:03] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 03:17:02] - [Member]birton bought 1 x Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:18:45] - [Member]birton bought 1 x Llama Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:30:30] - [Member]birton bought 1 x Horse Spawner(Spawners.9) for $500,000 with the buy screen.
+[2022-10-27 03:33:09] - [Member]birton bought 1 x Zombie Spawner(Spawners.10) for $500,000 with the buy screen.
+[2022-10-27 03:35:44] - [Member]birton bought 1 x Mooshroom Spawner(Spawners.11) for $550,000 with the buy screen.
+[2022-10-27 03:36:19] - [Member]birton bought 1 x Slime Spawner(Spawners.11) for $550,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:38:14] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:23] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:57] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:41:33] - [Member]birton bought 64 x Sheep Spawner(Spawners.1) for $12,800,000 with the buy stacks screen.
+[2022-10-27 02:46:09] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:46:44] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:48:39] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:51:44] - [Member]birton bought 1 x Chicken Spawner(Spawners.4) for $245,000 with the buy screen.
+[2022-10-27 02:52:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:54:31] - [Member]birton bought 1 x Rabbit Spawner(Spawners.5) for $165,000 with the buy screen.
+[2022-10-27 02:56:00] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 02:57:39] - [Member]birton bought 1 x Spawner(Spawners.36) for $5 with the buy screen.
+[2022-10-27 03:02:37] - [Member]birton bought 1 x Sheep Spawner(Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 03:05:40] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:49] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:09:42] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:12:03] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 03:17:02] - [Member]birton bought 1 x Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:18:45] - [Member]birton bought 1 x Llama Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:30:30] - [Member]birton bought 1 x Horse Spawner(Spawners.9) for $500,000 with the buy screen.
+[2022-10-27 03:33:09] - [Member]birton bought 1 x Zombie Spawner(Spawners.10) for $500,000 with the buy screen.
+[2022-10-27 03:35:44] - [Member]birton bought 1 x Mooshroom Spawner(Spawners.11) for $550,000 with the buy screen.
+[2022-10-27 03:36:19] - [Member]birton bought 1 x Slime Spawner(Spawners.11) for $550,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:38:14] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:23] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:57] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:41:33] - [Member]birton bought 64 x Sheep Spawner(Spawners.1) for $12,800,000 with the buy stacks screen.
+[2022-10-27 02:46:09] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:46:44] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:48:39] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:51:44] - [Member]birton bought 1 x Chicken Spawner(Spawners.4) for $245,000 with the buy screen.
+[2022-10-27 02:52:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:54:31] - [Member]birton bought 1 x Rabbit Spawner(Spawners.5) for $165,000 with the buy screen.
+[2022-10-27 02:56:00] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 02:57:39] - [Member]birton bought 1 x Spawner(Spawners.36) for $5 with the buy screen.
+[2022-10-27 03:02:37] - [Member]birton bought 1 x Sheep Spawner(Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 03:05:40] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:49] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:09:42] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:12:03] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 03:17:02] - [Member]birton bought 1 x Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:18:45] - [Member]birton bought 1 x Llama Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:30:30] - [Member]birton bought 1 x Horse Spawner(Spawners.9) for $500,000 with the buy screen.
+[2022-10-27 03:33:09] - [Member]birton bought 1 x Zombie Spawner(Spawners.10) for $500,000 with the buy screen.
+[2022-10-27 03:35:44] - [Member]birton bought 1 x Mooshroom Spawner(Spawners.11) for $550,000 with the buy screen.
+[2022-10-27 03:36:19] - [Member]birton bought 1 x Slime Spawner(Spawners.11) for $550,000 with the buy screen.
+[2022-10-27 03:38:15] - [Member]birton bought 1 x Spider Spawner(Spawners.12) for $600,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:38:14] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:23] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:57] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:41:33] - [Member]birton bought 64 x Sheep Spawner(Spawners.1) for $12,800,000 with the buy stacks screen.
+[2022-10-27 02:46:09] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:46:44] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:48:39] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:51:44] - [Member]birton bought 1 x Chicken Spawner(Spawners.4) for $245,000 with the buy screen.
+[2022-10-27 02:52:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:54:31] - [Member]birton bought 1 x Rabbit Spawner(Spawners.5) for $165,000 with the buy screen.
+[2022-10-27 02:56:00] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 02:57:39] - [Member]birton bought 1 x Spawner(Spawners.36) for $5 with the buy screen.
+[2022-10-27 03:02:37] - [Member]birton bought 1 x Sheep Spawner(Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 03:05:40] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:49] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:09:42] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:12:03] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 03:17:02] - [Member]birton bought 1 x Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:18:45] - [Member]birton bought 1 x Llama Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:30:30] - [Member]birton bought 1 x Horse Spawner(Spawners.9) for $500,000 with the buy screen.
+[2022-10-27 03:33:09] - [Member]birton bought 1 x Zombie Spawner(Spawners.10) for $500,000 with the buy screen.
+[2022-10-27 03:35:44] - [Member]birton bought 1 x Mooshroom Spawner(Spawners.11) for $550,000 with the buy screen.
+[2022-10-27 03:36:19] - [Member]birton bought 1 x Slime Spawner(Spawners.11) for $550,000 with the buy screen.
+[2022-10-27 03:38:15] - [Member]birton bought 1 x Spider Spawner(Spawners.12) for $600,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:38:14] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:23] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:57] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:41:33] - [Member]birton bought 64 x Sheep Spawner(Spawners.1) for $12,800,000 with the buy stacks screen.
+[2022-10-27 02:46:09] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:46:44] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:48:39] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:51:44] - [Member]birton bought 1 x Chicken Spawner(Spawners.4) for $245,000 with the buy screen.
+[2022-10-27 02:52:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:54:31] - [Member]birton bought 1 x Rabbit Spawner(Spawners.5) for $165,000 with the buy screen.
+[2022-10-27 02:56:00] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 02:57:39] - [Member]birton bought 1 x Spawner(Spawners.36) for $5 with the buy screen.
+[2022-10-27 03:02:37] - [Member]birton bought 1 x Sheep Spawner(Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 03:05:40] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:49] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:09:42] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:12:03] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 03:17:02] - [Member]birton bought 1 x Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:18:45] - [Member]birton bought 1 x Llama Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:30:30] - [Member]birton bought 1 x Horse Spawner(Spawners.9) for $500,000 with the buy screen.
+[2022-10-27 03:33:09] - [Member]birton bought 1 x Zombie Spawner(Spawners.10) for $500,000 with the buy screen.
+[2022-10-27 03:35:44] - [Member]birton bought 1 x Mooshroom Spawner(Spawners.11) for $550,000 with the buy screen.
+[2022-10-27 03:36:19] - [Member]birton bought 1 x Slime Spawner(Spawners.11) for $550,000 with the buy screen.
+[2022-10-27 03:38:15] - [Member]birton bought 1 x Spider Spawner(Spawners.12) for $600,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:38:14] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:23] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:57] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:41:33] - [Member]birton bought 64 x Sheep Spawner(Spawners.1) for $12,800,000 with the buy stacks screen.
+[2022-10-27 02:46:09] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:46:44] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:48:39] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:51:44] - [Member]birton bought 1 x Chicken Spawner(Spawners.4) for $245,000 with the buy screen.
+[2022-10-27 02:52:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:54:31] - [Member]birton bought 1 x Rabbit Spawner(Spawners.5) for $165,000 with the buy screen.
+[2022-10-27 02:56:00] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 02:57:39] - [Member]birton bought 1 x Spawner(Spawners.36) for $5 with the buy screen.
+[2022-10-27 03:02:37] - [Member]birton bought 1 x Sheep Spawner(Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 03:05:40] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:49] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:09:42] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:12:03] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 03:17:02] - [Member]birton bought 1 x Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:18:45] - [Member]birton bought 1 x Llama Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:30:30] - [Member]birton bought 1 x Horse Spawner(Spawners.9) for $500,000 with the buy screen.
+[2022-10-27 03:33:09] - [Member]birton bought 1 x Zombie Spawner(Spawners.10) for $500,000 with the buy screen.
+[2022-10-27 03:35:44] - [Member]birton bought 1 x Mooshroom Spawner(Spawners.11) for $550,000 with the buy screen.
+[2022-10-27 03:36:19] - [Member]birton bought 1 x Slime Spawner(Spawners.11) for $550,000 with the buy screen.
+[2022-10-27 03:38:15] - [Member]birton bought 1 x Spider Spawner(Spawners.12) for $600,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:38:14] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:23] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:57] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:41:33] - [Member]birton bought 64 x Sheep Spawner(Spawners.1) for $12,800,000 with the buy stacks screen.
+[2022-10-27 02:46:09] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:46:44] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:48:39] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:51:44] - [Member]birton bought 1 x Chicken Spawner(Spawners.4) for $245,000 with the buy screen.
+[2022-10-27 02:52:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:54:31] - [Member]birton bought 1 x Rabbit Spawner(Spawners.5) for $165,000 with the buy screen.
+[2022-10-27 02:56:00] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 02:57:39] - [Member]birton bought 1 x Spawner(Spawners.36) for $5 with the buy screen.
+[2022-10-27 03:02:37] - [Member]birton bought 1 x Sheep Spawner(Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 03:05:40] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:49] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:09:42] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:12:03] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 03:17:02] - [Member]birton bought 1 x Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:18:45] - [Member]birton bought 1 x Llama Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:30:30] - [Member]birton bought 1 x Horse Spawner(Spawners.9) for $500,000 with the buy screen.
+[2022-10-27 03:33:09] - [Member]birton bought 1 x Zombie Spawner(Spawners.10) for $500,000 with the buy screen.
+[2022-10-27 03:35:44] - [Member]birton bought 1 x Mooshroom Spawner(Spawners.11) for $550,000 with the buy screen.
+[2022-10-27 03:36:19] - [Member]birton bought 1 x Slime Spawner(Spawners.11) for $550,000 with the buy screen.
+[2022-10-27 03:38:15] - [Member]birton bought 1 x Spider Spawner(Spawners.12) for $600,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:38:14] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:23] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:57] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:41:33] - [Member]birton bought 64 x Sheep Spawner(Spawners.1) for $12,800,000 with the buy stacks screen.
+[2022-10-27 02:46:09] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:46:44] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:48:39] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:51:44] - [Member]birton bought 1 x Chicken Spawner(Spawners.4) for $245,000 with the buy screen.
+[2022-10-27 02:52:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:54:31] - [Member]birton bought 1 x Rabbit Spawner(Spawners.5) for $165,000 with the buy screen.
+[2022-10-27 02:56:00] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 02:57:39] - [Member]birton bought 1 x Spawner(Spawners.36) for $5 with the buy screen.
+[2022-10-27 03:02:37] - [Member]birton bought 1 x Sheep Spawner(Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 03:05:40] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:49] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:09:42] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:12:03] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 03:17:02] - [Member]birton bought 1 x Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:18:45] - [Member]birton bought 1 x Llama Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:30:30] - [Member]birton bought 1 x Horse Spawner(Spawners.9) for $500,000 with the buy screen.
+[2022-10-27 03:33:09] - [Member]birton bought 1 x Zombie Spawner(Spawners.10) for $500,000 with the buy screen.
+[2022-10-27 03:35:44] - [Member]birton bought 1 x Mooshroom Spawner(Spawners.11) for $550,000 with the buy screen.
+[2022-10-27 03:36:19] - [Member]birton bought 1 x Slime Spawner(Spawners.11) for $550,000 with the buy screen.
+[2022-10-27 03:38:15] - [Member]birton bought 1 x Spider Spawner(Spawners.12) for $600,000 with the buy screen.
+[2022-10-27 03:46:16] - [Member]birton bought 1 x Creeper Spawner(Spawners.14) for $800,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:38:14] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:23] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:57] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:41:33] - [Member]birton bought 64 x Sheep Spawner(Spawners.1) for $12,800,000 with the buy stacks screen.
+[2022-10-27 02:46:09] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:46:44] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:48:39] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:51:44] - [Member]birton bought 1 x Chicken Spawner(Spawners.4) for $245,000 with the buy screen.
+[2022-10-27 02:52:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:54:31] - [Member]birton bought 1 x Rabbit Spawner(Spawners.5) for $165,000 with the buy screen.
+[2022-10-27 02:56:00] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 02:57:39] - [Member]birton bought 1 x Spawner(Spawners.36) for $5 with the buy screen.
+[2022-10-27 03:02:37] - [Member]birton bought 1 x Sheep Spawner(Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 03:05:40] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:49] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:09:42] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:12:03] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 03:17:02] - [Member]birton bought 1 x Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:18:45] - [Member]birton bought 1 x Llama Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:30:30] - [Member]birton bought 1 x Horse Spawner(Spawners.9) for $500,000 with the buy screen.
+[2022-10-27 03:33:09] - [Member]birton bought 1 x Zombie Spawner(Spawners.10) for $500,000 with the buy screen.
+[2022-10-27 03:35:44] - [Member]birton bought 1 x Mooshroom Spawner(Spawners.11) for $550,000 with the buy screen.
+[2022-10-27 03:36:19] - [Member]birton bought 1 x Slime Spawner(Spawners.11) for $550,000 with the buy screen.
+[2022-10-27 03:38:15] - [Member]birton bought 1 x Spider Spawner(Spawners.12) for $600,000 with the buy screen.
+[2022-10-27 03:46:16] - [Member]birton bought 1 x Creeper Spawner(Spawners.14) for $800,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:38:14] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:23] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:57] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:41:33] - [Member]birton bought 64 x Sheep Spawner(Spawners.1) for $12,800,000 with the buy stacks screen.
+[2022-10-27 02:46:09] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:46:44] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:48:39] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:51:44] - [Member]birton bought 1 x Chicken Spawner(Spawners.4) for $245,000 with the buy screen.
+[2022-10-27 02:52:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:54:31] - [Member]birton bought 1 x Rabbit Spawner(Spawners.5) for $165,000 with the buy screen.
+[2022-10-27 02:56:00] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 02:57:39] - [Member]birton bought 1 x Spawner(Spawners.36) for $5 with the buy screen.
+[2022-10-27 03:02:37] - [Member]birton bought 1 x Sheep Spawner(Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 03:05:40] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:49] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:09:42] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:12:03] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 03:17:02] - [Member]birton bought 1 x Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:18:45] - [Member]birton bought 1 x Llama Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:30:30] - [Member]birton bought 1 x Horse Spawner(Spawners.9) for $500,000 with the buy screen.
+[2022-10-27 03:33:09] - [Member]birton bought 1 x Zombie Spawner(Spawners.10) for $500,000 with the buy screen.
+[2022-10-27 03:35:44] - [Member]birton bought 1 x Mooshroom Spawner(Spawners.11) for $550,000 with the buy screen.
+[2022-10-27 03:36:19] - [Member]birton bought 1 x Slime Spawner(Spawners.11) for $550,000 with the buy screen.
+[2022-10-27 03:38:15] - [Member]birton bought 1 x Spider Spawner(Spawners.12) for $600,000 with the buy screen.
+[2022-10-27 03:46:16] - [Member]birton bought 1 x Creeper Spawner(Spawners.14) for $800,000 with the buy screen.
+[2022-10-27 03:48:52] - [Member]birton bought 1 x Blaze Spawner(Spawners.15) for $950,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:38:14] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:23] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:57] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:41:33] - [Member]birton bought 64 x Sheep Spawner(Spawners.1) for $12,800,000 with the buy stacks screen.
+[2022-10-27 02:46:09] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:46:44] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:48:39] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:51:44] - [Member]birton bought 1 x Chicken Spawner(Spawners.4) for $245,000 with the buy screen.
+[2022-10-27 02:52:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:54:31] - [Member]birton bought 1 x Rabbit Spawner(Spawners.5) for $165,000 with the buy screen.
+[2022-10-27 02:56:00] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 02:57:39] - [Member]birton bought 1 x Spawner(Spawners.36) for $5 with the buy screen.
+[2022-10-27 03:02:37] - [Member]birton bought 1 x Sheep Spawner(Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 03:05:40] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:49] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:09:42] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:12:03] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 03:17:02] - [Member]birton bought 1 x Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:18:45] - [Member]birton bought 1 x Llama Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:30:30] - [Member]birton bought 1 x Horse Spawner(Spawners.9) for $500,000 with the buy screen.
+[2022-10-27 03:33:09] - [Member]birton bought 1 x Zombie Spawner(Spawners.10) for $500,000 with the buy screen.
+[2022-10-27 03:35:44] - [Member]birton bought 1 x Mooshroom Spawner(Spawners.11) for $550,000 with the buy screen.
+[2022-10-27 03:36:19] - [Member]birton bought 1 x Slime Spawner(Spawners.11) for $550,000 with the buy screen.
+[2022-10-27 03:38:15] - [Member]birton bought 1 x Spider Spawner(Spawners.12) for $600,000 with the buy screen.
+[2022-10-27 03:46:16] - [Member]birton bought 1 x Creeper Spawner(Spawners.14) for $800,000 with the buy screen.
+[2022-10-27 03:48:52] - [Member]birton bought 1 x Blaze Spawner(Spawners.15) for $950,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:38:14] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:23] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:57] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:41:33] - [Member]birton bought 64 x Sheep Spawner(Spawners.1) for $12,800,000 with the buy stacks screen.
+[2022-10-27 02:46:09] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:46:44] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:48:39] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:51:44] - [Member]birton bought 1 x Chicken Spawner(Spawners.4) for $245,000 with the buy screen.
+[2022-10-27 02:52:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:54:31] - [Member]birton bought 1 x Rabbit Spawner(Spawners.5) for $165,000 with the buy screen.
+[2022-10-27 02:56:00] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 02:57:39] - [Member]birton bought 1 x Spawner(Spawners.36) for $5 with the buy screen.
+[2022-10-27 03:02:37] - [Member]birton bought 1 x Sheep Spawner(Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 03:05:40] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:49] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:09:42] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:12:03] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 03:17:02] - [Member]birton bought 1 x Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:18:45] - [Member]birton bought 1 x Llama Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:30:30] - [Member]birton bought 1 x Horse Spawner(Spawners.9) for $500,000 with the buy screen.
+[2022-10-27 03:33:09] - [Member]birton bought 1 x Zombie Spawner(Spawners.10) for $500,000 with the buy screen.
+[2022-10-27 03:35:44] - [Member]birton bought 1 x Mooshroom Spawner(Spawners.11) for $550,000 with the buy screen.
+[2022-10-27 03:36:19] - [Member]birton bought 1 x Slime Spawner(Spawners.11) for $550,000 with the buy screen.
+[2022-10-27 03:38:15] - [Member]birton bought 1 x Spider Spawner(Spawners.12) for $600,000 with the buy screen.
+[2022-10-27 03:46:16] - [Member]birton bought 1 x Creeper Spawner(Spawners.14) for $800,000 with the buy screen.
+[2022-10-27 03:48:52] - [Member]birton bought 1 x Blaze Spawner(Spawners.15) for $950,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:38:14] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:23] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:57] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:41:33] - [Member]birton bought 64 x Sheep Spawner(Spawners.1) for $12,800,000 with the buy stacks screen.
+[2022-10-27 02:46:09] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:46:44] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:48:39] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:51:44] - [Member]birton bought 1 x Chicken Spawner(Spawners.4) for $245,000 with the buy screen.
+[2022-10-27 02:52:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:54:31] - [Member]birton bought 1 x Rabbit Spawner(Spawners.5) for $165,000 with the buy screen.
+[2022-10-27 02:56:00] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 02:57:39] - [Member]birton bought 1 x Spawner(Spawners.36) for $5 with the buy screen.
+[2022-10-27 03:02:37] - [Member]birton bought 1 x Sheep Spawner(Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 03:05:40] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:49] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:09:42] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:12:03] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 03:17:02] - [Member]birton bought 1 x Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:18:45] - [Member]birton bought 1 x Llama Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:30:30] - [Member]birton bought 1 x Horse Spawner(Spawners.9) for $500,000 with the buy screen.
+[2022-10-27 03:33:09] - [Member]birton bought 1 x Zombie Spawner(Spawners.10) for $500,000 with the buy screen.
+[2022-10-27 03:35:44] - [Member]birton bought 1 x Mooshroom Spawner(Spawners.11) for $550,000 with the buy screen.
+[2022-10-27 03:36:19] - [Member]birton bought 1 x Slime Spawner(Spawners.11) for $550,000 with the buy screen.
+[2022-10-27 03:38:15] - [Member]birton bought 1 x Spider Spawner(Spawners.12) for $600,000 with the buy screen.
+[2022-10-27 03:46:16] - [Member]birton bought 1 x Creeper Spawner(Spawners.14) for $800,000 with the buy screen.
+[2022-10-27 03:48:52] - [Member]birton bought 1 x Blaze Spawner(Spawners.15) for $950,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:38:14] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:23] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:57] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:41:33] - [Member]birton bought 64 x Sheep Spawner(Spawners.1) for $12,800,000 with the buy stacks screen.
+[2022-10-27 02:46:09] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:46:44] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:48:39] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:51:44] - [Member]birton bought 1 x Chicken Spawner(Spawners.4) for $245,000 with the buy screen.
+[2022-10-27 02:52:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:54:31] - [Member]birton bought 1 x Rabbit Spawner(Spawners.5) for $165,000 with the buy screen.
+[2022-10-27 02:56:00] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 02:57:39] - [Member]birton bought 1 x Spawner(Spawners.36) for $5 with the buy screen.
+[2022-10-27 03:02:37] - [Member]birton bought 1 x Sheep Spawner(Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 03:05:40] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:49] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:09:42] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:12:03] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 03:17:02] - [Member]birton bought 1 x Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:18:45] - [Member]birton bought 1 x Llama Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:30:30] - [Member]birton bought 1 x Horse Spawner(Spawners.9) for $500,000 with the buy screen.
+[2022-10-27 03:33:09] - [Member]birton bought 1 x Zombie Spawner(Spawners.10) for $500,000 with the buy screen.
+[2022-10-27 03:35:44] - [Member]birton bought 1 x Mooshroom Spawner(Spawners.11) for $550,000 with the buy screen.
+[2022-10-27 03:36:19] - [Member]birton bought 1 x Slime Spawner(Spawners.11) for $550,000 with the buy screen.
+[2022-10-27 03:38:15] - [Member]birton bought 1 x Spider Spawner(Spawners.12) for $600,000 with the buy screen.
+[2022-10-27 03:46:16] - [Member]birton bought 1 x Creeper Spawner(Spawners.14) for $800,000 with the buy screen.
+[2022-10-27 03:48:52] - [Member]birton bought 1 x Blaze Spawner(Spawners.15) for $950,000 with the buy screen.
+[2022-10-27 02:18:40] - [Member]birton bought 1 x [Sheep Spawner](Spawners.25) for $45,000 with the buy screen.
+[2022-10-27 02:30:24] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $225,000 with the buy screen.
+[2022-10-27 02:38:14] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:23] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:38:57] - [Member]birton bought 1 x [Allay Spawner](Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 02:41:33] - [Member]birton bought 64 x Sheep Spawner(Spawners.1) for $12,800,000 with the buy stacks screen.
+[2022-10-27 02:46:09] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:46:44] - [Member]birton bought 1 x Pig Spawner(Spawners.2) for $225,000 with the buy screen.
+[2022-10-27 02:48:39] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:51:44] - [Member]birton bought 1 x Chicken Spawner(Spawners.4) for $245,000 with the buy screen.
+[2022-10-27 02:52:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 02:54:31] - [Member]birton bought 1 x Rabbit Spawner(Spawners.5) for $165,000 with the buy screen.
+[2022-10-27 02:56:00] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 02:57:39] - [Member]birton bought 1 x Spawner(Spawners.36) for $5 with the buy screen.
+[2022-10-27 03:02:37] - [Member]birton bought 1 x Sheep Spawner(Spawners.1) for $200,000 with the buy screen.
+[2022-10-27 03:05:40] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:46] - [Member]birton bought 1 x Cow Spawner(Spawners.3) for $245,000 with the buy screen.
+[2022-10-27 03:07:49] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:09:42] - [Member]birton bought 1 x Cow Spawner(Spawners.37) for $145,000 with the buy screen.
+[2022-10-27 03:12:03] - [Member]birton bought 1 x Wolf Spawner(Spawners.6) for $165,000 with the buy screen.
+[2022-10-27 03:17:02] - [Member]birton bought 1 x Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:18:45] - [Member]birton bought 1 x Llama Spawner(Spawners.7) for $300,000 with the buy screen.
+[2022-10-27 03:30:30] - [Member]birton bought 1 x Horse Spawner(Spawners.9) for $500,000 with the buy screen.
+[2022-10-27 03:33:09] - [Member]birton bought 1 x Zombie Spawner(Spawners.10) for $500,000 with the buy screen.
+[2022-10-27 03:35:44] - [Member]birton bought 1 x Mooshroom Spawner(Spawners.11) for $550,000 with the buy screen.
+[2022-10-27 03:36:19] - [Member]birton bought 1 x Slime Spawner(Spawners.11) for $550,000 with the buy screen.
+[2022-10-27 03:38:15] - [Member]birton bought 1 x Spider Spawner(Spawners.12) for $600,000 with the buy screen.
+[2022-10-27 03:46:16] - [Member]birton bought 1 x Creeper Spawner(Spawners.14) for $800,000 with the buy screen.
+[2022-10-27 03:48:52] - [Member]birton bought 1 x Blaze Spawner(Spawners.15) for $950,000 with the buy screen.
+[2022-11-02 00:48:27] - [Member]birton bought 1 x Blaze Spawner(Spawners.15) for $950,000 with the buy screen.
+[2022-11-02 00:48:27] - [Member]birton bought 1 x Blaze Spawner(Spawners.15) for $950,000 with the buy screen.
+[2022-11-02 00:58:06] - [Member]birton bought 1 x Splash Potion(Potions.43) for $64.99 with the buy screen.

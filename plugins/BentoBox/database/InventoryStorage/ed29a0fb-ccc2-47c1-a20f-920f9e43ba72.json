@@ -1,0 +1,156 @@
+{
+  "uniqueId": "ed29a0fb-ccc2-47c1-a20f-920f9e43ba72",
+  "inventory": {
+    "spawn": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "health": {
+    "spawn": 20.0
+  },
+  "food": {
+    "spawn": 20
+  },
+  "exp": {
+    "spawn": 0
+  },
+  "location": {
+    "spawn": [
+      "spawn",
+      -319.5893225605871,
+      105.97690135679512,
+      187.36222096918638,
+      158.10739135742188,
+      39.27829360961914
+    ]
+  },
+  "gameMode": {
+    "spawn": "SURVIVAL"
+  },
+  "advancements": {
+    "spawn": {
+      "minecraft:adventure/kill_a_mob": [
+        "minecraft:zombie"
+      ],
+      "minecraft:adventure/adventuring_time": [
+        "minecraft:beach",
+        "minecraft:mangrove_swamp",
+        "minecraft:savanna"
+      ],
+      "minecraft:adventure/root": [
+        "killed_something"
+      ],
+      "minecraft:adventure/kill_all_mobs": [
+        "minecraft:zombie"
+      ],
+      "minecraft:story/upgrade_tools": [
+        "stone_pickaxe"
+      ],
+      "minecraft:recipes/decorations/torch": [
+        "has_stone_pickaxe"
+      ]
+    }
+  },
+  "enderChest": {
+    "spawn": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "untypedStats": {
+    "spawn": {
+      "DAMAGE_DEALT": 198,
+      "DAMAGE_TAKEN": 220,
+      "DEATHS": 1,
+      "MOB_KILLS": 1,
+      "LEAVE_GAME": 1,
+      "JUMP": 235,
+      "PLAY_ONE_MINUTE": 11028,
+      "TOTAL_WORLD_TIME": 11028,
+      "WALK_ONE_CM": 7722,
+      "FALL_ONE_CM": 7131,
+      "CLIMB_ONE_CM": 79,
+      "FLY_ONE_CM": 90204,
+      "SPRINT_ONE_CM": 24383,
+      "TIME_SINCE_DEATH": 1734,
+      "TIME_SINCE_REST": 1755
+    }
+  },
+  "blockStats": {},
+  "itemStats": {},
+  "entityStats": {
+    "spawn": {
+      "KILL_ENTITY": {
+        "ZOMBIE": 1
+      },
+      "ENTITY_KILLED_BY": {
+        "SLIME": 1
+      }
+    }
+  }
+}

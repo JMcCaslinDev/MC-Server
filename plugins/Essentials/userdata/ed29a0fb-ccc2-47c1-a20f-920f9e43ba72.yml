@@ -1,0 +1,41 @@
+teleportenabled: true
+teleportauto: false
+godmode: true
+muted: false
+jailed: false
+ip-address: 192.168.0.8
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1667360054702
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1667376476553
+  login: 1667372240472
+  kits:
+    notch: 1666868488758
+    firework: 1666868507675
+money: '64058985.05000000000003'
+last-account-name: birton
+lastlocation:
+  world: f9ec2f77-1fa2-4e14-96b8-97b247c0b13d
+  world-name: skyblock_world
+  x: -3.967599214204823
+  y: 100.36769027744172
+  z: 74.48745084221746
+  yaw: 166.05145263671875
+  pitch: 12.299948692321777
+logoutlocation:
+  world: f9ec2f77-1fa2-4e14-96b8-97b247c0b13d
+  world-name: skyblock_world
+  x: -799.4241856387009
+  y: 125.0
+  z: 1605.9707083656906
+  yaw: 175.64991760253906
+  pitch: 7.200018882751465
