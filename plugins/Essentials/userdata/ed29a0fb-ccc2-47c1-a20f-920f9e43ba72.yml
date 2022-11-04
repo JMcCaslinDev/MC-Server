@@ -16,12 +16,12 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1667376476553
-  login: 1667372240472
+  logout: 1667549427636
+  login: 1667546318556
   kits:
     notch: 1666868488758
     firework: 1666868507675
-money: '64058985.05000000000003'
+money: '64068985.05000000000003'
 last-account-name: birton
 lastlocation:
   world: f9ec2f77-1fa2-4e14-96b8-97b247c0b13d
@@ -34,8 +34,8 @@ lastlocation:
 logoutlocation:
   world: f9ec2f77-1fa2-4e14-96b8-97b247c0b13d
   world-name: skyblock_world
-  x: -799.4241856387009
+  x: -793.6473524466151
   y: 125.0
-  z: 1605.9707083656906
-  yaw: 175.64991760253906
-  pitch: 7.200018882751465
+  z: 1598.0309684685374
+  yaw: -172.5048828125
+  pitch: 39.44999313354492

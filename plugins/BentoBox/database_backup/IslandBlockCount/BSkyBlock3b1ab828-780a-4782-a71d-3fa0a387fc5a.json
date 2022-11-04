@@ -3,11 +3,12 @@
   "gameMode": "BSkyBlock",
   "blockCounts": {
     "TORCH": 19,
-    "DIRT": 787,
+    "DIRT": 788,
     "OAK_SAPLING": 41,
     "STONE": 28,
-    "GRASS_BLOCK": 15,
-    "CHEST": 1
+    "GRASS_BLOCK": 7,
+    "CHEST": 1,
+    "OAK_SLAB": 1
   },
   "blockLimits": {},
   "entityLimits": {},

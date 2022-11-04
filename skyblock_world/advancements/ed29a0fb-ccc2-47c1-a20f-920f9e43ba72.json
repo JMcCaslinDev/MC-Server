@@ -533,6 +533,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2022-11-03 23:40:01 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2022-10-20 03:29:33 -0700"
@@ -1168,6 +1174,12 @@
       "minecraft:plains": "2022-10-20 03:18:24 -0700"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2022-11-03 23:48:15 -0700"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {

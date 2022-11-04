@@ -1,0 +1,53 @@
+gui:
+  title: "&8&lPOUCHES PREVIEW"
+  rows: 4
+  pouches_per_page: 27
+  give_pouch_by_clicking_if_permission: true
+  items:
+    nextpage:
+      material: "ARROW"
+      name: "&a&lNEXT PAGE ->"
+      lore:
+        - "&7Goes to the next page of pouches..."
+      durability: 0
+      slot: 32
+    previouspage:
+      material: "ARROW"
+      name: "&c&l<- PREVIOUS PAGE"
+      lore:
+        - "&7Goes to the previous page of pouches..."
+      durability: 0
+      slot: 30
+    closegui:
+      material: "IRON_DOOR"
+      name: "&e&lCLOSE GUI"
+      lore:
+        - "&7Closes this gui and returns to the game..."
+      durability: 0
+      slot: 31
+  filler:
+    enabled: false
+    item:
+      material: "STAINED_GLASS_PANE"
+      name: " "
+      lore: []
+      durability: 15
+
+NOT_PLAYER_MESSAGE: "&cYou need to be a player to execute this command"
+NO_PERMISSION_MESSAGE: "&c&l(!) &cYou do not have permission to execute this oommand"
+USAGE_MESSAGE: "&cUsage: %usage%"
+PLAYER_NOT_FOUND_MESSAGE: "&e&l(!) &eCould not find the player: %player%"
+NO_POUCH_CALLED_THAT_MESSAGE: "&e&l(!) &eThere is no pouch called: %name%"
+NOT_NUMERIC_MESSAGE: "&c%arg% should only contain numbers"
+AMOUNT_CANNOT_BE_ZERO_MESSAGE: "&cThe amount cannot be 0"
+GAVE_POUCHES_TO_MESSAGE: "&a&l(!) &aYou gave &n%amount%&a &n%type%&a pouches to &n%target%"
+RECEIVED_POUCHES_FROM_MESSAGE: "&a&l(!) &aYou received &n%amount%&a &n%type%&a pouches from &n%sender%"
+ALREADY_OPENING_POUCH_MESSAGE: "&e&l(!) &eYou are already opening a pouch"
+
+POUCHES_HELP_MESSAGE:
+  - ''
+  - '    &6&lPouches &e&lAdmin Help'
+  - '    &e&l* &f/pouches give <player> <pouch> <amount>'
+  - '    &e&l* &f/pouches list'
+  - '    &e&l* &f/pouches reload'
+  - ''

@@ -1,0 +1,99 @@
+turret:
+  alias: "Burst Turret"
+  structure:
+  - "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDc4YzFiZDliMzQwZmIzODdjMTNiOGI2ZDdhNzUxYzM4NDY2OTI2MmIyNWM2NGJkMjg1YzQ2MzBlZWY0ZmEifX19"
+  - "CYAN_CONCRETE"
+  - "COAL_BLOCK"
+  shoot_type: INSTANT
+  target: ENEMIES
+  require_ammunition: true
+  health_recovery: 10
+  min_attack_distance: 2
+  default_options:
+    attack_players: false
+    attack_monsters: true
+    attack_animals: false
+    attack_others: false
+    priority: HEALTH
+    enabled: false
+  effects:
+    shoot_effect:
+      sound: ENTITY_FIREWORK_ROCKET_BLAST;1;1.7
+      separation: 0.3
+      amount: 5
+      list_of_effects:
+        effect1:
+          particle: CRIT
+          speed: 0.01
+  upgrades:
+    1:
+      speed: 0.75
+      range: 10
+      min_damage: 1
+      max_damage: 1.5
+      health: 50 
+      money_cost: 0
+    2:
+      speed: 0.5
+      range: 12
+      min_damage: 1.75
+      max_damage: 2.25
+      health: 70
+      money_cost: 1000
+    3:
+      speed: 0.25
+      range: 14
+      min_damage: 2
+      max_damage: 3
+      health: 100
+      money_cost: 3000
+items:
+  block:
+    id: "COAL_BLOCK"
+    name: "&aBurst Turret &6Block"
+    lore:
+    - "&7Fast speed turret with no extra abilities."
+    - ""
+    - "&8» &7Level: &e%upgrade_level%"
+    - "&8» &7Damage: &a%min_damage%&7-&a%max_damage%"
+    - "&8» &7Cooldown: &a%speed% seconds"
+    - "&8» &7Range: &a%range% blocks"
+  ammunition:
+    id: "GHAST_TEAR"
+    name: "&6Burst Turret &7Ammunition"
+    lore:
+    - "&7Place this item in your turret inventory"
+    - "&7to start shooting."
+inventory:
+  upgrade:
+    id: "EMERALD"
+    name: "&aBurst Turret &eUpgrade"
+    lore:
+    - "&7Level: &e&l%current_level%&8 ➜ &e&l%next_level%"  
+    - "&7Damage: &a%current_min_damage%&7-&a%current_max_damage%&8 ➜ &a%next_min_damage%&7-&a%next_max_damage%"
+    - "&7Cooldown: &a%current_speed%(s)&8 ➜ &a%next_speed%(s)"
+    - "&7Range: &a%current_range% blocks&8 ➜ &a%next_range% blocks"
+    - "&7Health: &a%current_health%&8 ➜ &a%next_health%"
+    - ""
+    - "&7Cost: &6$%money_cost%"
+    - ""
+    - "&8[Click to Upgrade to Level &e&l%next_level%&8]"  
+  last_upgrade:
+    id: "REDSTONE"
+    name: "&aBurst Turret &eUpgrade"
+    lore:
+    - "&7Level: &e&l%current_level%"  
+    - "&7Damage: &a%current_min_damage%&7-&a%current_max_damage%"
+    - "&7Cooldown: &a%current_speed%(s)"
+    - "&7Range: &a%current_range% blocks"
+    - "&7Health: &a%current_health%"
+    - ""
+    - "&7No more Upgrades available" 
+hologram:
+- "&8[&6Burst Turret&8]"
+- "&7Owner: &a%owner%"
+- "&7Level: &a%level%"
+- "&7Damage: &a%min_damage%&7-&a%max_damage%"
+- "&7Health: &e%current_health%&8/&e%max_health%"
+hit_hologram:
+- "&c-%value% &8[&7%owner%&8]"

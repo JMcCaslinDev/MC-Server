@@ -8,23 +8,12 @@ panels:
       '10':
         material: GRASS_BLOCK
         stack: 1
-        name: '&b&lDeposit Island Money'
-        lore:
-        - ""
-        - "&a&l(!)&r &aClick to deposit money!"
+        name: '&b&lIsland Challenges'
         commands:
-        - cpc
-        - ' '
-        - 'msg= &aEnter amount to deposit.'
-        - 'msg= &cType cancel to cancel the deposit.' 
-        - ' '
-        player-input:
-        - 'placeholder= island-bank [deposit-amount:%cp-player-input%]'
-        - 'msg= &7Deposited %cp-deposit-amount%'
-        - 'island bank deposit %cp-deposit-amount%'
+        - island challenges
       '22':
         material: BARRIER
         stack: 1
         name: '&4&lBACK'
         commands:
-        - island
+        - customcommands:island

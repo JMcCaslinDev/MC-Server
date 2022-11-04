@@ -117,3 +117,15 @@
 [01/11 20:24:25] [info] Initializing tasks and listeners
 [02/11 01:07:54] [info] Disabled integration for PlaceholderAPI
 [02/11 01:07:54] [info] Disabled integration for Citizens
+[03/11 23:17:18] [info] Initializing worker and caches
+[03/11 23:17:18] [info] Enabled NPC manager with ProtocolLib
+[03/11 23:17:18] [info] Registering integrations
+[03/11 23:17:18] [info] Initializing tasks and listeners
+[04/11 00:06:18] [info] Disabled integration for PlaceholderAPI
+[04/11 00:06:18] [info] Disabled integration for Citizens
+[04/11 00:08:45] [info] Initializing worker and caches
+[04/11 00:08:45] [info] Enabled NPC manager with ProtocolLib
+[04/11 00:08:45] [info] Registering integrations
+[04/11 00:08:45] [info] Initializing tasks and listeners
+[04/11 01:10:26] [info] Disabled integration for PlaceholderAPI
+[04/11 01:10:26] [info] Disabled integration for Citizens

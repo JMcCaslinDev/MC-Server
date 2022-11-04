@@ -4,7 +4,7 @@ Main:
   # This is purely a safety function to prevent against unplanned crashes or
   # restarts. With that said it is advised to keep this enabled.
   # If however you enjoy living on the edge, feel free to turn it off.
-  Auto Save Interval In Seconds: 15
+  Auto Save Interval In Seconds: 60
 
   # This is the discord button displayed in the main GUI
   # Clicking this button will bring you to a discord where you can
@@ -14,7 +14,7 @@ Main:
 
   # Enabling this will make it so that a player can get all heads
   # for free as long as they are in the creative game mode.
-  Heads Free In Creative Mode: false
+  Heads Free In Creative Mode: true
 
   # Should heads drop after a monster is killed?
   Drop Mob Heads: true
@@ -24,7 +24,7 @@ Main:
 
   # When a player or monster is killed what should be
   # the chance that their head drops?
-  Head Drop Chance: 25%
+  Head Drop Chance: 1%
 
 Economy:
 

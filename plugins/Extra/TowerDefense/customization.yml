@@ -1,0 +1,217 @@
+prefix: '&6[&bTowerDefense&6] '
+Messages:
+  No-Permission: You dont have the permission to do this!
+  Unknown-Command: Unknown command! use /td for a list of commands
+  Player-Join: You have joined the lobby!
+  Player-Leave: You have left the game!
+  Lobby-Not-Set: Lobby has not been set yet!
+  Spawn-Not-Set: Players spawn has not been set yet!
+  Zombies-Path-Not-Set: Zombies path has not been set yet!
+  Already-In-Game: You are already in the game!
+  Not-In-Game: You are not in the game!
+  Not-In-Lobby: You must be in the lobby to do this!
+  Coins-Update: Your coins have been updated!
+  Modifier-Update: Your modifier has been updated!
+  Party-Must-Be-Leader: You must be the party leader to do this!
+  Party-Player-Not-Available: Party member &b%member% &6is not available currently!
+  No-Available-Arena: Could not find any available arena!
+  Must-Have-Empty-Hand: You must have an empty hand to use this sign!
+  Invalid-Item: Invalid item!
+  Not-Enough-Coins: You dont have enough coins to do this!
+  Cooldown: You must wait &d%seconds% &6seconds to do this again!
+  Unknown-Player: Could not find that player!
+  Party-New-Leader: '&e%player% &6is the new party leader!'
+  Party-Unknown-Player: Could not find that player in your party!
+  Party-Self-Invite: You cant invite your self!
+  Party-Join-Arena-No-Space: '&cYou can not join this arena because it does not have
+    enough space!'
+  Player-Already-Invited: That player is already invited!
+  Player-Inactive: That player is no longer active in the arena!
+  Command-Block: You may not use that command while ingame!
+  Player-Rank-Up: You have &aranked &6up to rank &b%rank%&6!
+  Arena-Not-Available: You may not join the arena at this time!
+  Arena-Not-Enough-Spawnpoints: The arena does not have enough spawnpoints!
+  Arena-Full: The arena is full!
+  Player-Spectate: You are now spectating the arena!
+  Player-Join-Arena: '&e%player% &6has joined the game! &d(%players%/%maxplayers%)!'
+  Player-Leave-Arena: '&e%player% &6has left the game! &d(%players%/%maxplayers%)!'
+  Tower-Purchase: 'You have &a&lsuccessfully &6purchased the tower: &b&l%tower%'
+  Countdown-Cancel: Countdown has been cancelled due to insufficient amount of players!
+  Arena-Starting-Countdown: The arena is starting in &b%seconds% &6seconds!
+  Arena-Starting-Countdown-Shortening: The countdown timer has been skipped to &b%seconds%
+    &6seconds!
+  Arena-Start: The game has begun!
+  Leave-Arena-Error: Only the leader of the party can do this!
+  Player-Vote: '&d%player% &6has voted for difficulty %difficulty% &c(%votes%)!'
+  Game-Cancel: Game has been cancelled because it has exceeded its time limit!
+  Arena-Win: '&a&lCongratulations! &6you have won the game!'
+  Arena-Lose: '&c&lYou failed to survive wave %wave%'
+  Arena-Win-Prize: You have received &d%coins% &6coins for winning!
+  Party-Player-Leave: You have left the party!
+  Party-Player-Leave-Alert: '&c%player% &6has left the party!'
+  Party-Full: This party is full!
+  Party-Join: '&e%player% &6has joined the party!'
+  Party-Not-Invited: You are not invited to this party!
+  Party-Invite-Send: '&e%player% &6has sent an invitation to &a%target%'
+  Party-Invite-Receive: You have been invited to &b%leader%&6 party! this invitation
+    will expire in &d%seconds% &6seconds!
+  Party-Invitation-Expire: Party invitation has expired!
+  Party-Player-Kick: You have been kicked!
+  Party-Player-Kick-Alert: '&e%leader% &6has kicked &c%player%'
+  Invalid-Party: Invalid party.
+  Invalid-Arena: Invalid arena.
+  Spectator-Tip: As a spectator, you can left click air or right click a block to
+    access the &a&nspectator gui!
+  Reload-Kick: Plugin has been reloaded! due to that you have been kicked
+  Wave-Starting: The next wave is starting in &b%seconds% &6seconds!
+  Wave-Start: Wave &b%wave% &6has begun!
+  Difficulty-Voted: '&lDifficulty: %difficulty%'
+  Tower-Use-Deny: '&cYou do not own this owner!'
+  Tower-Sell: '&aYou have sold the tower for &6%coins% &acoins!'
+  Class-Select: 'You have &asuccessfully &6selected the class: &b&l%class%'
+  Player-Teleport: '&cYou have been teleported away because you were interfering with
+    the wave motion'
+  Player-Leave-Enemy-Team: '&aYou have left the enemy team!'
+  Player-Join-Enemy-Team: '&b%player% &chas joined the enemy team!'
+  Player-Join-Enemy-Team-Deny: '&cYou can not join the enemy team right now!'
+  Enemy-Start: '&c&lYou are on the enemy team! You earn exp by summoning enemies!'
+  Enemy-Earn-Coins: '&c&lYou have earned &b&l%coins% &c&lcoins!'
+  Enemy-Summon-Required: '&cYou can not summon any more enemies! &l&c(Required: %required%)'
+  Enemy-AI-Assist: '&c&lYou did not summon the required amount of enemies and therefore
+    the AI helped in filling the wave!'
+  Enemy-Lose: '&cYou have lost!'
+  Survival-Event-Start: '&c&lA Survival Event has begun!'
+  Survival-Event-Defenders: '&c&lTry to stay alive by avoiding the enemy players!'
+  Survival-Event-Enemy: '&c&lHunt down your enemies'
+  Survival-Event-End: '&a&lThe survival event has ended!'
+  Survival-Event-Death: '&cYou have died and lost %percentage%% of your coins!'
+  Spectator-Boundary-Leave: '&cYou have left the arena boundaries!'
+  Prestige: Your rank has been reset! You have reached a new prestige level!
+Lobby-Scoreboard:
+  Title: '&b&lTowerDefense'
+  Content:
+  - '&6&m-----------'
+  - '&6Coins: &a%coins%'
+  - '&6Kills: &a%kills%'
+  - '&6Wins: &a%wins%'
+  - '&6Games played: &a%games_played%'
+  - '&6Highest wave: &a%highest_wave_survived%'
+  - ' '
+  - '&dExp: &a%player_exp%/%player_next_rank_exp%'
+  - '&dRank: &a%player_prestige%-%player_rank%'
+  - ' '
+  - '&bTowers built: &a%towers_built%'
+  - '&bTower upgrades: &a%tower_upgrades%'
+  - '&bTowers sold: &a%towers_sold%'
+  - '&6&m-----------'
+Arena-Lobby-Scoreboard:
+  Content:
+  - '&6&m--------------'
+  - '&bPlayers: &a%arena_players%/%arena_max_players%'
+  - '&bViewers: &a%arena_spectators%'
+  - ' '
+  - '&bArena: &a%arena_name%'
+  - '&bMode: &a%arena_mode%'
+  - ' '
+  - '&7%date%'
+  - '&6&m--------------'
+Arena-Game-Scoreboard:
+  Content:
+  - '&6&m--------------'
+  - '&bPlayers: &a%arena_players%'
+  - '&bViewers: &a%arena_spectators%'
+  - ' '
+  - '&6Wave: &a%arena_wave%/%arena_final_wave%'
+  - '&6Difficulty: %arena_difficulty%'
+  - '&6Health: &a%arena_health%/%arena_max_health%'
+  - ' '
+  - '&bArena: &a%arena_name%'
+  - '&bMode: &a%arena_mode%'
+  - ' '
+  - '&7%date%'
+  - '&6&m--------------'
+Signs:
+  Title: '&4[TowerDefense]'
+  Leave: '&cleave'
+  Autojoin: '&cautojoin'
+  Join: '&cjoin'
+  Arena-Color: '4'
+States:
+  WAITING: '&a&lWAITING'
+  STARTING: '&e&lSTARTING'
+  INGAME: '&c&lIN-GAME'
+  ENDING: '&d&lENDING'
+  DISABLED: '&c&lDISABLED'
+Inventories:
+  Profile: '&9Your profile'
+  Prestige: '&6&lPrestige'
+  Stats: '&9Your Stats'
+  Towers-Shop: '&9Tower Shop'
+  Towers-Menu: '&9Tower'
+  Classes: '&9Classes'
+  Party-Settings: '&cParty Settings'
+  Spectator-Teleporter: '&cTeleport to players'
+  Spectator-Menu: '&9Spectator Menu'
+  Arenas-Selector: '&9Arenas'
+  Achievements: '&cAchievements'
+  Parties: '&9Parties'
+  Player-Inviter: '&9Invite Players'
+  Party-Players: '&9Party Players:'
+  Difficulty-Vote: '&9Game Difficulty'
+  Enemy-Guide: '&9Enemies Guide'
+  Summoner: '&cSummoner'
+  Quit-Inventory: '&cAre you sure you want to quit?'
+Items:
+  Quit: 'MAGMA_CREAM : name:&cQuit : lore:&6Click to quit the game!'
+  Prestige: 'DIAMOND : name:&6PRESTIGE : lore:&7This will reset your rank! : lore:&7And
+    increase your prestige level!'
+  Win: 'DIAMOND : name:&a&lYOU WON'
+  Lose: 'COAL : name:&c&lYOU LOST'
+  Play: 'DIAMOND_AXE : name:&6Play : lore:&6Click to join a game!'
+  Shop: 'EMERALD : name:&aShop : lore:&7Click to buy new items!'
+  Enemy-Guide: 'ENCHANTED_BOOK : name:&2Enemy Guide : lore:&6Click to view all enemies!'
+  Profile: 'SKULL_ITEM:3 : name:&bProfile : lore:&6Click to view your profile!'
+  Achievements: 'ENDER_CHEST : name:&dAchievements'
+  Stats: 'PAPER : name:&aStats'
+  Party: 'WORKBENCH : name:&dParty : lore:&6Click to manage your party!'
+  Teleporter: 'COMPASS : name:&bTeleport : lore:&6Click to teleport to other players'
+  Autojoin: 'WATCH : name:&b&lAutojoin : lore:&6Click to join the best : lore:&6available
+    arena!'
+  Back: 'ARROW : name:&aBack : lore:&6Click to go back!'
+  Difficulty: 'IRON_SWORD : name:&d&lDifficulty : lore:&6Click to vote for the difficulty'
+  Classes: 'CHEST : name:&b&lClasses : lore:&7Click to select a class!'
+  Confirm: 'STAINED_GLASS:5 : name:&aConfirm'
+  Cancel: 'STAINED_GLASS:14 : name:&cCancel'
+  Next: 'STAINED_GLASS:5 : name:&aNext page'
+  Previous: 'STAINED_GLASS:14 : name:&cPrevious page'
+  Create: 'BEACON : name:&aCreate : lore:&6Click to create a party!'
+  Join: 'CHEST : name:&cJoin : lore:&6Click to join a party!'
+  Invite: 'ENDER_CHEST : name:&aInvite : lore:&6Click to invite players'
+  Leave: 'TNT : name:&cLeave : lore:&6Click to leave the party'
+  Enemy-Join: 'MONSTER_EGG : name:&cJoin monsters : lore:&6Click to join the enemy
+    team!'
+  Summoner: 'CHEST : name:&cSummoner : lore:&6Use to control wave enemies!'
+TitleManager:
+  Starting: '&cStarting in &e%seconds% &cseconds'
+  Starting-Shortening: '&cTimer skipped to &e%seconds% &cseconds'
+  Start: '&cGame has begun!'
+  Win: '&aCongratulations!'
+  Lose: '&cYou have lost!'
+  Player-Spectate: '&cYou are now spectating!'
+  Survival-Event-Start: '&c&lA Survival Event has begun!'
+  Survival-Event-End: '&a&lThe survival event has ended!'
+Lores:
+  Lines: '&b&m-------------'
+  Players: '&ePlayers: &6%players%&e/&6%maxplayers%'
+  Viewers: '&eViewers: &b%spectators%'
+  Wave: '&eWave: &b%wave%'
+  Type: '&eType: &d%type%'
+  State: '&eState: %state%'
+  Sell: '&aFor &b%coins% &acoin(s)!'
+Chat-Prefixes:
+  Rank: '&6[&b%prestige%-%rank%&6] '
+  Global: '&6[&6Global&6] '
+  Party: '&6[&dParty&6] '
+  Lobby: '&6[&bLobby&6] '
+  Spectator: '&6[Spectator] '
+  Player: '&6[&aPlayer&6] '

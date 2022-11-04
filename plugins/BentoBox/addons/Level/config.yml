@@ -58,13 +58,13 @@ levelcost: 100
 level-calc: blocks / level_cost
 # 
 # Cooldown between level requests in seconds
-levelwait: 60
+levelwait: 300
 # 
 # Death penalty
 # How many block values a player will lose per death.
 # Default value of 100 means that for every death, the player will lose 1 level (if levelcost is 100)
 # Set to zero to not use this feature
-deathpenalty: 100
+deathpenalty: 0
 # Sum team deaths - if true, all the teams deaths are summed
 # If false, only the leader's deaths counts
 # For other death related settings, see the GameModeAddon's config.yml settings.

@@ -92,5 +92,5 @@ panels:
         stack: 1
         name: '&4&lBACK'
         commands:
-        - island
+        - customcommands:island
       

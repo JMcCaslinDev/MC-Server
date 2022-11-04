@@ -1,7 +1,7 @@
 {
   "uniqueId": "BSkyBlockd164e1ff-b500-4ae9-a884-f71439f4f3c3",
   "moneyBalance": {
-    "value": 1006883.58
+    "value": 1007701.73
   },
   "history": {
     "1665122795150": "holyamethyst22:DEPOSIT:1000000.0",
@@ -17,7 +17,8 @@
     "1666853400209": "holyamethyst22:INTEREST:569.29",
     "1666982805343": "holyamethyst22:INTEREST:412.63",
     "1667199667500": "holyamethyst22:INTEREST:691.88",
-    "1667286470786": "holyamethyst22:INTEREST:277.07"
+    "1667286470786": "holyamethyst22:INTEREST:277.07",
+    "1667542648366": "holyamethyst22:INTEREST:818.15"
   },
-  "interestLastPaid": 1667286470783
+  "interestLastPaid": 1667542648364
 }

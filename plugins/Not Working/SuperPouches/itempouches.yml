@@ -1,0 +1,107 @@
+ItemExample:
+  name: "ItemExample"
+  message: "&eYou received &6%reward% &efrom the &6Item Example &epouch"
+  title:
+    enabled: true
+    message: "&6Item: &e%item%"
+    submessage: "&7&o(( Item Pouch Example ))"
+    reveal_from_right: true
+    color_after_randomization: "&e"
+    fadein_ticks: 0
+    stay_ticks: 20
+    fadeout_ticks: 5
+    update_ticks: 20
+  sound:
+    enabled: true
+    type: "ANVIL_LAND"
+    volume: 10
+    pitch: 1
+  rewards:
+    1:
+      name: "Dirt"
+      chance: 60
+      commands:
+        - "give %player% dirt 1"
+    2:
+      name: "Sand"
+      chance: 20
+      commands:
+        - "give %player% sand 1"
+    3:
+      name: "Stone"
+      chance: 20
+      commands:
+        - "give %player% stone 1"
+  item:
+    material: "OBSIDIAN"
+    name: "&e&lItem Pouch Example"
+    lore:
+      - "&7This is an example of an item pouch"
+      - ""
+      - "&7Information:"
+      - " &fItems stored: &f%amount%"
+      - ""
+      - "&7Possible rewards:"
+      - " &fDirt"
+      - " &fSand"
+      - " &fStone"
+    durability: 0
+    glow: true
+Enchantment:
+  name: "Enchantment"
+  message: "&a&l+ 1 %reward%"
+  title:
+    enabled: true
+    message: "&5%item%"
+    submessage: "&7&o(( Enchantment Pouch ))"
+    reveal_from_right: true
+    color_after_randomization: "&d"
+    fadein_ticks: 0
+    stay_ticks: 20
+    fadeout_ticks: 5
+    update_ticks: 10
+  sound:
+    enabled: true
+    type: "GLASS"
+    volume: 10
+    pitch: 1
+  rewards:
+    1:
+      name: "Basic Book"
+      chance: 20
+      commands:
+        - "ae givercbook BASIC %player% 1"
+    2:
+      name: "Rare Book"
+      chance: 20
+      commands:
+        - "ae givercbook RARE %player% 1"
+    3:
+      name: "Ultimate Book"
+      chance: 20
+      commands:
+        - "ae givercbook ULTIMATE %player% 1"
+    4:
+      name: "Legendary Book"
+      chance: 20
+      commands:
+        - "ae givercbook LEGENDARY %player% 1"
+    5:
+      name: "Divine Book"
+      chance: 20
+      commands:
+        - "ae givercbook DIVINE %player% 1"
+  item:
+    material: "STAINED_GLASS"
+    name: "&5&lRandom Enchantment Book Example &7(Right Click)"
+    lore:
+      - "&7Examine to receive a &5random&7 enchantment book tier."
+      - ""
+      - "&5Possible Enchantments:"
+      - " &5&l* &7Basic Enchantment Book"
+      - " &5&l* &7Rare Enchantment Book"
+      - " &5&l* &7Ultimate Enchantment Book"
+      - " &5&l* &7Legendary Enchantment Book"
+      - " &5&l* &7Divine Enchantment Book"
+    durability: 10
+    glow: true

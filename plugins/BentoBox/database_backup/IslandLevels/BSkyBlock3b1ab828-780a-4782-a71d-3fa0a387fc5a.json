@@ -1,8 +1,23 @@
 {
   "uniqueId": "BSkyBlock3b1ab828-780a-4782-a71d-3fa0a387fc5a",
-  "level": 0,
+  "level": 5,
   "initialLevel": 1,
-  "pointsToNextLevel": 0,
+  "pointsToNextLevel": 13,
   "uwCount": {},
-  "mdCount": {}
+  "mdCount": {
+    "GRASS_BLOCK": 805,
+    "COBBLESTONE_STAIRS": 2,
+    "COBBLESTONE_SLAB": 2,
+    "BEDROCK": 1,
+    "COBBLESTONE": 1,
+    "AIR": 3838924,
+    "OAK_SLAB": 1,
+    "WATER": 189,
+    "STONE": 9,
+    "OAK_LEAVES": 18,
+    "DIRT": 39,
+    "SAND": 3,
+    "LAVA": 3,
+    "COBWEB": 3
+  }
 }

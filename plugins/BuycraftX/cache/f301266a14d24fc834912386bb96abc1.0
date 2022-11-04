@@ -4,19 +4,19 @@ GET
 Accept-Encoding: gzip
 HTTP/1.1 200 
 13
-date: Wed, 02 Nov 2022 03:23:16 GMT
+date: Fri, 04 Nov 2022 07:08:03 GMT
 content-type: application/json
-cf-ray: 7639c024fccfcf7a-SJC
+cf-ray: 764b84262d8afa72-SJC
 cache-control: no-cache, private
 etag: W/"48503ff38a3881f2a22d47e91fdb83777e1457db"
 strict-transport-security: max-age=31536000;
 cf-cache-status: DYNAMIC
-tb-node: i-0e333ba9d5be83fd7 d-2L4H0TDTK
+tb-node: i-0f4a1b024b95134e4 d-6UKZGGZTK
 vary: Accept-Encoding
 server: cloudflare
 content-encoding: gzip
-OkHttp-Sent-Millis: 1667359396606
-OkHttp-Received-Millis: 1667359396861
+OkHttp-Sent-Millis: 1667545682814
+OkHttp-Received-Millis: 1667545683006
 
 TLS_AES_256_GCM_SHA384
 2
